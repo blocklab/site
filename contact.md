@@ -4,6 +4,11 @@ title: Kontakt
 permalink: /contact/
 ---
 
+blockLAB Stuttgart
+Zeppelinstr. 85
+70193 Stuttgart
+
+
 ### Impressum
 Angaben gemäß § 5 TMG:
 
