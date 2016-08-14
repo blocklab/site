@@ -4,7 +4,7 @@ title: Kontakt
 permalink: /contact/
 ---
 
-Impressum
+### Impressum
 Angaben gemäß § 5 TMG:
 
 blockLAB Stuttgart
