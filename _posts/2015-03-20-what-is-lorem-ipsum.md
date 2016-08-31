@@ -13,4 +13,3 @@ Text
 Text
 
 
-> This content was copied from http://www.lipsum.com/ as a part of example posts.
