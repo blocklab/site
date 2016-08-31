@@ -5,8 +5,9 @@ permalink: /newsletter/
 ---
 
 blockNEWS Stuttgart
-Nachrichten zu Ethereum, blockchain technology, decentralized computing
-
+Nachrichten zu Ethereum, blockchain technology, decentralized computing  
+  
+    
 #### Kalenderwoche 34, 20.08. -26.08.2016  
 
 **Berlin etabliert sich als Fintech-Standort in Deutschland - BC 26.08.2016**
