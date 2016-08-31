@@ -16,8 +16,7 @@ permalink: /links/
 * [MultiBit](https://multibit.org/)
 * [BitGo](https://www.bitgo.com/)  
 
-** MOOC DFIN-511 Introcuction To Crypto Currency **
-### ...
+MOOC DFIN-511 Introcuction To Crypto Currency
 * [1. A (brief) history of money](https://db.tt/yqorTxjh)
 * [2. Byzantine Generals Problem](https://db.tt/BcYGaVB8)
 * [3. Basics of Cryptocurrency](https://db.tt/Yqlx9DvW)
