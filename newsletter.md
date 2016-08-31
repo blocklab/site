@@ -7,7 +7,7 @@ permalink: /newsletter/
 blockNEWS Stuttgart
 Nachrichten zu Ethereum, blockchain technology, decentralized computing
 
-### Kalenderwoche 34, 20.08. -26.08.2016
+##### Kalenderwoche 34, 20.08. -26.08.2016
 
 **Berlin etabliert sich als Fintech-Standort in Deutschland - BC 26.08.2016**
 Mit über 70 Fintech Start-ups hat Berlin Frankfurt a.M. mit weniger als der Hälfte deutlich überholt. Immer mehr Unternehmen kommen wegen des Brexits auch von London nach Berlin.
@@ -23,7 +23,7 @@ Die australische Börse Australian Securities Exchange (ASX) hat die Testphase e
 
 
 
-### Kalenderwoche 31, 30.07. -05.08.2016
+##### Kalenderwoche 31, 30.07. -05.08.2016
 **Schwedische Bank SEB investiert in Blockchain Start-up Coinify - CT 04.08.2016**
 Die Bank investiert US$ 4 Mio. in den blockchain payment service provider Coinify aus Dänemark.
 [zum Artikel](https://cointelegraph.com/news/top-swedish-bank-invests-in-danish-blockchain-startup-coinify)
