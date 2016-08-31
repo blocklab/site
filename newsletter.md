@@ -22,6 +22,7 @@ Die australische Börse Australian Securities Exchange (ASX) hat die Testphase e
 [zum Artikel](http://bravenewcoin.com/news/major-stock-exchange-completes-blockchain-trial-for-replacement-settlement-system/)
 
 
+
 ### Kalenderwoche 31, 30.07. -05.08.2016
 **Schwedische Bank SEB investiert in Blockchain Start-up Coinify - CT 04.08.2016**
 Die Bank investiert US$ 4 Mio. in den blockchain payment service provider Coinify aus Dänemark.
