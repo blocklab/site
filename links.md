@@ -66,6 +66,8 @@ permalink: /links/
 * [Reddit /r/ethereum](https://www.reddit.com/r/ethereum/)
 * [Bitcoinmagazine](https://bitcoinmagazine.com)
 * [Cryptocoinnews](https://www.cryptocoinsnews.com)
+* [Consensys Media](https://media.consensys.net/)
+
 
 ### Other Helfpul Links
 * [Bitcoin’s future - Hidden flipside, How the crypto-currency could become the internet of money](http://www.economist.com/news/finance-and-economics/21599054-how-crypto-currency-could-become-internet-money-hidden-flipside)
