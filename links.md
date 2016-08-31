@@ -30,12 +30,10 @@ permalink: /links/
 * [11. Digital Currency and innovation](https://db.tt/CSy7iC1s)
 * [12. Digital Currencies and the Developing World](https://db.tt/pAqXuGz5)
   
-
 ### Ethereum
 * [Ethereum Project](https://www.ethereum.org/)
 * [Ethereum Foundation](https://www.ethereum.org/foundation)
   
-
 ### Blockchain Technology & Programming
 * [Linktext](www.spiegel.de)
 
@@ -54,11 +52,23 @@ permalink: /links/
 * [b-money](http://www.weidai.com/bmoney.txt)
 
 ### Blockchain News Sites
-* [Linktext](www.spiegel.de)
+* [The Coin Telegraph](http://cointelegraph.com/)
+* [BraveNewCoin](http://bravenewcoin.com/)
+* [BTC-Echo](http://www.btc-echo.de/)
+* [Coindesk](http://www.coindesk.com)
+* [Coinjournal](http://coinjournal.net)
+* [Bitcoin.com](https://news.bitcoin.com/)
+* [Godistributed](https://godistributed.com)
+* [Bitcoinblog](https://bitcoinblog.de)
+* [Coinidol](https://coinidol.com)
+* [Coinjournal](http://coinjournal.net/)
+* [Reddit /r/ethereum](https://www.reddit.com/r/ethereum/)
+* [Bitcoinmagazine](https://bitcoinmagazine.com)
+* [Cryptocoinnews](https://www.cryptocoinsnews.com)
 
 ### Other Helfpul Links
-* [Linktext](www.spiegel.de)
-
+* [Bitcoin’s future - Hidden flipside, How the crypto-currency could become the internet of money](http://www.economist.com/news/finance-and-economics/21599054-how-crypto-currency-could-become-internet-money-hidden-flipside)
+* [Hashcash - a denial of service counter-measure](http://www.hashcash.org/papers/hashcash.pdf)
 	
 	
 	
@@ -66,12 +76,12 @@ permalink: /links/
 	
 
 	
-Bitcoin’s future - Hidden flipside, How the crypto-currency could become the internet of money	http://www.economist.com/news/finance-and-economics/21599054-how-crypto-currency-could-become-internet-money-hidden-flipside
+
 	
 	
 	
 	
-Hashcash - a denial of service counter-measure	http://www.hashcash.org/papers/hashcash.pdf
+
 	
 
 	
