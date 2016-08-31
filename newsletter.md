@@ -21,7 +21,7 @@ Deutsche Bank, UBS, Santander und die Bank of New York Mellon wollen ab 2018 Wer
 Die australische Börse Australian Securities Exchange (ASX) hat die Testphase einer Blockchain-Lösung für den Kapitalmarkt erfolgreich beendet. Der getestete Prototyp soll zukünftig auch im Bereich Zahlungs- und Abrechnungsverkehr eingesetzt werden.
 [zum Artikel](http://bravenewcoin.com/news/major-stock-exchange-completes-blockchain-trial-for-replacement-settlement-system/)  
 
-##### Kalenderwoche 31, 30.07. -05.08.2016
+#### Kalenderwoche 31, 30.07. -05.08.2016
 **Schwedische Bank SEB investiert in Blockchain Start-up Coinify - CT 04.08.2016**
 Die Bank investiert US$ 4 Mio. in den blockchain payment service provider Coinify aus Dänemark.
 [zum Artikel](https://cointelegraph.com/news/top-swedish-bank-invests-in-danish-blockchain-startup-coinify)
