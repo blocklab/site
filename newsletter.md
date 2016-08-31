@@ -7,7 +7,7 @@ permalink: /newsletter/
 blockNEWS Stuttgart
 Nachrichten zu Ethereum, blockchain technology, decentralized computing
 
-##### Kalenderwoche 34, 20.08. -26.08.2016
+#### Kalenderwoche 34, 20.08. -26.08.2016
 
 **Berlin etabliert sich als Fintech-Standort in Deutschland - BC 26.08.2016**
 Mit über 70 Fintech Start-ups hat Berlin Frankfurt a.M. mit weniger als der Hälfte deutlich überholt. Immer mehr Unternehmen kommen wegen des Brexits auch von London nach Berlin.
