@@ -6,8 +6,6 @@ permalink: /links/
 
 ## Link Collection
 
-
-
 ### Bitcoin Basics 
 * [Bitcoin: A Peer-to-Peer Electronic Cash System (Satoshi Nakamoto)](https://bitcoin.org/bitcoin.pdf)
 * [Bitcoin Wiki](https://en.bitcoin.it/)
@@ -19,6 +17,7 @@ permalink: /links/
 * [BitGo](https://www.bitgo.com/)  
 
 ** MOOC DFIN-511 Introcuction To Crypto Currency **
+###  
 * [1. A (brief) history of money](https://db.tt/yqorTxjh)
 * [2. Byzantine Generals Problem](https://db.tt/BcYGaVB8)
 * [3. Basics of Cryptocurrency](https://db.tt/Yqlx9DvW)
