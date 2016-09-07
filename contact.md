@@ -5,16 +5,18 @@ permalink: /contact/
 ---
 
 blockLAB Stuttgart
-Zeppelinstr. 85
-70193 Stuttgart
+c/o Pure Club 
+Friedrichstr. 13
+70174 Stuttgart
 
 
 ### Impressum
 Angaben gemäß § 5 TMG:
 
 blockLAB Stuttgart
-Zeppelinstr. 85
-70193 Stuttgart
+c/o Pure Club 
+Friedrichstr. 13
+70174 Stuttgart
 Vertreten durch:
 
 Jochen Kaßberger
@@ -27,8 +29,9 @@ E-Mail: 	info@blocklab.de
 Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
 Jochen Kaßberger
-Zeppelinstr. 85
-70193 Stuttgart
+c/o Pure Club 
+Friedrichstr. 13
+70174 Stuttgart
 
 
 Haftungsausschluss (Disclaimer)
