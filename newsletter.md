@@ -6,7 +6,28 @@ permalink: /newsletter/
 
 blockNEWS Stuttgart
 Nachrichten zu Ethereum, blockchain technology, decentralized computing  
-  
+
+<br>
+**Was wir aus dem DAO-Hack lernen können - CT 30.08.2016**
+In ihrem lesenswerten Artikel zum DAO-HACK kommt Lucia Ziyuan zu folgendem Schluss: Weder sollten wir annahmen, dass sich alle Beteiligten einer DAO (Dezentralized Autonomous Organization) 100% rational verhalten, noch, dass wir als DAO-Geldgeber auf eine gründliche Prüfung unsers Investments verzichten können.
+[zum Artikel](https://cointelegraph.com/news/what-we-learned-about-technocratic-fallacies-from-dao-collapse)
+
+**Geldüberweisung zwischen Canada und Deutschland jetzt eine Frage von Sekunden - welt.de 31.08.2016**
+Heutzutage dauern Geldüberweisungen zwischen Banken teilweise mehrere Tage. Das soll sich bald ändern. Mehrere Banken basteln an einem neuen Geld, das in Sekunden den Eigentümer wechselt. Das System basiert auf virtueller Währung und es funktioniert.
+[zum Artikel](http://www.welt.de/finanzen/article157915297/Dieses-System-macht-Ueberweisungen-blitzschnell.html)
+
+**Microsoft bildet eine Arbeitsgruppe für Smart Contracts Sicherheit - CD 01.09.2016**
+Unter dem Namen Kinakuta hat Microsoft eine Arbeitsgruppe gegründet, die die Sicherheit von selbstausführenden Smart Contracts verbessern soll. Vor allem der DAO-Hack hat der Smart Contract Community deutlich gemacht, wie anfällig die Technologie bis heute ist.
+[zum Artikel](http://www.coindesk.com/microsoft-launches-smart-contracts-security-working-group/)
+
+**Gartner sieht den Höhepunkt des Blockchain-Hype bald erreicht - BC 01.09.2016**
+In einem aktuellen Report sieht das amerikanische Marktforschungsunternehmen Gartner die Blockchain-Technology kurz vor dem Höhepunkt seines Hype Cycle Modells.
+[zum Artikel](https://news.bitcoin.com/blockchain-hype-peak-new-report/)
+
+**Die Beliebtheit von Bitcoin und Dash steigen in Venezuela - CT 02.09.2016**
+Die virtuelle Währungen Bitcoin und Dash werden in Venezuela immer beliebter. Das Bitcoin-Handelsvolumen im Land übersteigt inzwischen das der USA um das Doppelte. Durch den wirtschaftlichen Niedergang in Venezuela wurden schon vor längerer Zeit Kapitalkontrollen eingeführt. Inzwischen spielen virtuelle Währungen im Land eine immer wichtigere Rolle.
+[zum Artikel](https://cointelegraph.com/news/crisis-torn-venezuelans-opt-for-dash-and-bitcoin)
+
 <br>    
 #### Kalenderwoche 34, 20.08. -26.08.2016  
 
