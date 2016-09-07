@@ -8,6 +8,7 @@ blockNEWS Stuttgart
 Nachrichten zu Ethereum, blockchain technology, decentralized computing  
 <br>
 ####Kalenderwoche 35, 27.08. -02.09.2016
+
 **Was wir aus dem DAO-Hack lernen können - CT 30.08.2016**
 In ihrem lesenswerten Artikel zum DAO-HACK kommt Lucia Ziyuan zu folgendem Schluss: Weder sollten wir annahmen, dass sich alle Beteiligten einer DAO (Dezentralized Autonomous Organization) 100% rational verhalten, noch, dass wir als DAO-Geldgeber auf eine gründliche Prüfung unsers Investments verzichten können.
 [zum Artikel](https://cointelegraph.com/news/what-we-learned-about-technocratic-fallacies-from-dao-collapse)
