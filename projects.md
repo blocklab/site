@@ -6,5 +6,5 @@ permalink: /projects/
 
 ### Projekte bei blockLAB Stuttgart
 
-**Überschrift**
+**Überschrift**  
 Text
