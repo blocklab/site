@@ -29,7 +29,7 @@ Nachrichten zu Ethereum, blockchain technology, decentralized computing
 <!--End mc_embed_signup-->
 
 <br>
-### Kalenderwoche 36, 03.09. - 09.09.2016
+###Kalenderwoche 36, 03.09. - 09.09.2016
 
 **Kommentator sieht neues Finanzsystem durch Blockchain möglich - NZZ 09.09.2016**
 Axel P. Lehmann, COO der USB Group AG sieht in der Neuen Zürcher Zeitung Echtzeit-Clearing, Smart Contracts und Smart Wallets als zukünftige Möglichkeit eines dezentralen und Blockchain-basierten Finanzsystems. Effizienzen und der direkte Anschluss von Einzelpersonen an das Finanzsystem könnten die Vorteile sein.
