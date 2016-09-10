@@ -27,6 +27,7 @@ Nachrichten zu Ethereum, blockchain technology, decentralized computing
 </div>
 
 <!--End mc_embed_signup-->
+
 ### Kalenderwoche 35, 27.08.-02.09.2016 ###
 
 **Was wir aus dem DAO-Hack lernen können - CT 30.08.2016**
