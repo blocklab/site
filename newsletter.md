@@ -31,27 +31,26 @@ Nachrichten zu Ethereum, blockchain technology, decentralized computing
 <br>
 ### Kalenderwoche 36, 03.09. - 09.09.2016
 
-Kommentator sieht neues Finanzsystem durch Blockchain möglich - NZZ 09.09.2016
+**Kommentator sieht neues Finanzsystem durch Blockchain möglich - NZZ 09.09.2016**
 Axel P. Lehmann, COO der USB Group AG sieht in der Neuen Zürcher Zeitung Echtzeit-Clearing, Smart Contracts und Smart Wallets als zukünftige Möglichkeit eines dezentralen und Blockchain-basierten Finanzsystems. Effizienzen und der direkte Anschluss von Einzelpersonen an das Finanzsystem könnten die Vorteile sein.
-http://www.nzz.ch/meinung/kommentare/blockchain-ein-neues-finanzsystem-ld.115776
+[zum Artikel](http://www.nzz.ch/meinung/kommentare/blockchain-ein-neues-finanzsystem-ld.115776)
 
-PwC Schweiz sieht Blockchain ähnlich revolutionär wie die Erfindung des Internets - FN 09.09.2016
+**PwC Schweiz sieht Blockchain ähnlich revolutionär wie die Erfindung des Internets - FN 09.09.2016**
 Daniel Diemers, Partner PwC Strategy&Schweiz sieht Veränderungen durch die Blockchain-Technologie ähnlich tiefgreifend wie in den Zeiten des neu aufkommenden Internets um die Jahrtausendwende.
-http://www.moneycab.com/2016/09/09/pwc-mit-blockchain-in-neue-sphaeren/
+[zum Artikel](http://www.moneycab.com/2016/09/09/pwc-mit-blockchain-in-neue-sphaeren/)
 
-Neues Open-Source Projekt will bessere Blockchain-Technologie entwickeln - CT 07.09.20116
+**Neues Open-Source Projekt will bessere Blockchain-Technologie entwickeln - CT 07.09.20116**
 Um ein dezentrales soziales Netzwerk zu realisieren, schlagen die Entwickler von Synereo eine neue dezentrale Infrastruktur vor, die deutlich weniger Schwächen als Ethereum haben soll. Die volle Funktionalität soll bis Ende 2017 zur Verfügung stehen.
 https://cointelegraph.com/news/synereo-unveils-tech-behind-its-decentralized-social-network-rchain-to-replace-blockchain
-https://docs.google.com/document/d/1xmRvAjJEQ72-sR9luS34TG0BOpPn_6ztZjYBFCByKxo/edit#heading=h.z8t5orcjk0cv
+[zum Artikel](https://docs.google.com/document/d/1xmRvAjJEQ72-sR9luS34TG0BOpPn_6ztZjYBFCByKxo/edit#heading=h.z8t5orcjk0cv)
 
-Neues Tool zur Überprüfung von Ethereum Smart Contracts wird veröffentlicht - CD 07.09.2016
+**Neues Tool zur Überprüfung von Ethereum Smart Contracts wird veröffentlicht - CD 07.09.2016**
 Forscher der National University of Singapore werden demnächst ein Testool vorstellen, mit dem Ethereum Smart Contracts auf Programmierfehler überprüft werden können. Dadurch, dass einmal veröffentlichte Smart Contracts nicht mehr geändert werden können, ist die weitgehend fehlerfreie Programmierung sehr wichtig für das Konzept der Smart Contracts.
-http://www.coindesk.com/smart-contract-debugger-debut-ethereum-conference/
+[zum Artikel](http://www.coindesk.com/smart-contract-debugger-debut-ethereum-conference/)
 
-„Gute Jobchancen für Blockchain-Experten“ - BE 06.09.2016
+**„Gute Jobchancen für Blockchain-Experten“ - BE 06.09.2016**
 Die Relevanz der Blockchain-Technologie nimmt stetig zu. Da dies auch große Unternehmen, insbesondere Banken so sehen, werden verstärkt Blockchain-Experten eingestellt. Im Bankensektor entstehen aktuelle hunderte neuer Jobs in diesem Themengebiet. Nachfrage und Vergütungsaussichten der Experten werden als sehr gut beschrieben.
-https://www.btc-echo.de/banken-bestaetigen-gute-jobchancen-fuer-blockchain-experten/
-
+[zum Artikel](https://www.btc-echo.de/banken-bestaetigen-gute-jobchancen-fuer-blockchain-experten/)
 
 <br>
 ### Kalenderwoche 35, 27.08.-02.09.2016
