@@ -12,8 +12,7 @@ Nachrichten zu Ethereum, blockchain technology, decentralized computing
 <link href="//cdn-images.mailchimp.com/embedcode/slim-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+	#mc_embed_signup form{padding-left:0px;}
 </style>
 <div id="mc_embed_signup">
 <form action="//blocklab.us14.list-manage.com/subscribe/post?u=90590f1e0655a3df4dc3857b1&amp;id=64c6d59831" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
