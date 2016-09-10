@@ -28,6 +28,7 @@ Nachrichten zu Ethereum, blockchain technology, decentralized computing
 
 <!--End mc_embed_signup-->
 
+<br>
 ### Kalenderwoche 35, 27.08.-02.09.2016 ###
 
 **Was wir aus dem DAO-Hack lernen können - CT 30.08.2016**
@@ -49,7 +50,8 @@ In einem aktuellen Report sieht das amerikanische Marktforschungsunternehmen Gar
 **Die Beliebtheit von Bitcoin und Dash steigen in Venezuela - CT 02.09.2016**
 Die virtuelle Währungen Bitcoin und Dash werden in Venezuela immer beliebter. Das Bitcoin-Handelsvolumen im Land übersteigt inzwischen das der USA um das Doppelte. Durch den wirtschaftlichen Niedergang in Venezuela wurden schon vor längerer Zeit Kapitalkontrollen eingeführt. Inzwischen spielen virtuelle Währungen im Land eine immer wichtigere Rolle.
 [zum Artikel](https://cointelegraph.com/news/crisis-torn-venezuelans-opt-for-dash-and-bitcoin)
-  
+
+<br>  
 ### Kalenderwoche 34, 20.08.-26.08.2016 ###
 
 **Berlin etabliert sich als Fintech-Standort in Deutschland - BC 26.08.2016**
@@ -63,7 +65,7 @@ Deutsche Bank, UBS, Santander und die Bank of New York Mellon wollen ab 2018 Wer
 **Größte Australische Börse veröffentlicht eigene Blockchain-Pläne - BNC 20.08.2016**
 Die australische Börse Australian Securities Exchange (ASX) hat die Testphase einer Blockchain-Lösung für den Kapitalmarkt erfolgreich beendet. Der getestete Prototyp soll zukünftig auch im Bereich Zahlungs- und Abrechnungsverkehr eingesetzt werden.
 [zum Artikel](http://bravenewcoin.com/news/major-stock-exchange-completes-blockchain-trial-for-replacement-settlement-system/)  
-
+<br>
 ### Kalenderwoche 31, 30.07.-05.08.2016 ###
 
 **Schwedische Bank SEB investiert in Blockchain Start-up Coinify - CT 04.08.2016**
