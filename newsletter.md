@@ -51,7 +51,7 @@ Die virtuelle Währungen Bitcoin und Dash werden in Venezuela immer beliebter. D
 [zum Artikel](https://cointelegraph.com/news/crisis-torn-venezuelans-opt-for-dash-and-bitcoin)
 
 <br>    
-### Kalenderwoche 34, 20.08. -26.08.2016  
+### Kalenderwoche 34, 20.08. -26.08.2016 ###
 
 **Berlin etabliert sich als Fintech-Standort in Deutschland - BC 26.08.2016**
 Mit über 70 Fintech Start-ups hat Berlin Frankfurt a.M. mit weniger als der Hälfte deutlich überholt. Immer mehr Unternehmen kommen wegen des Brexits auch von London nach Berlin.
@@ -65,7 +65,7 @@ Deutsche Bank, UBS, Santander und die Bank of New York Mellon wollen ab 2018 Wer
 Die australische Börse Australian Securities Exchange (ASX) hat die Testphase einer Blockchain-Lösung für den Kapitalmarkt erfolgreich beendet. Der getestete Prototyp soll zukünftig auch im Bereich Zahlungs- und Abrechnungsverkehr eingesetzt werden.
 [zum Artikel](http://bravenewcoin.com/news/major-stock-exchange-completes-blockchain-trial-for-replacement-settlement-system/)  
 <br>
-### Kalenderwoche 31, 30.07. -05.08.2016
+### Kalenderwoche 31, 30.07. -05.08.2016 ###
 
 **Schwedische Bank SEB investiert in Blockchain Start-up Coinify - CT 04.08.2016**
 Die Bank investiert US$ 4 Mio. in den blockchain payment service provider Coinify aus Dänemark.
