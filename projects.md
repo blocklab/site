@@ -6,5 +6,10 @@ permalink: /projects/
 
 ### Projekte bei blockLAB Stuttgart
 
-**Überschrift**  
-Text
+**Aktuelle Projekte**  
+* bLAB (Ethereum-Coin von blockLAB Stuttgart)
+* bLAB-System (Stundenerfassung und -vergütung)
+* IoT-Payment Service
+* IoT-Testnetz
+* Wallet out of the box
+
