@@ -5,4 +5,4 @@ permalink: /legal/
 ---
 
 
-[test](legal2.md)
+[Verträge im deutschen Recht](legal2.md)
