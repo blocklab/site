@@ -29,6 +29,7 @@ E-Mail: 	info@blocklab.de
 Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
 Jochen Kaßberger
+blockLAB Stuttgart
 c/o Pure Club 
 Friedrichstr. 13
 70174 Stuttgart
