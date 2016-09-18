@@ -29,6 +29,30 @@ Nachrichten zu Ethereum, blockchain technology, decentralized computing
 <!--End mc_embed_signup-->
 
 <br>
+### Kalenderwoche 37, 10.09. - 16.09.2016
+
+**Assetmanagement im Frachtgeschäft auf der Blockchain - TNN 06.09.2016**
+Das weltweit größte Frachtunternehmen Kühne & Nagel arbeitet zukünftig mit BitSE bei der Registrierung seiner Waren auf einer Blockchain zusammen. Vor allem Luxusgüter sollen auf der VeChain Blockchain in Verbindung mit einem Chip, der den Private Key enthält, registriert werden.
+[zum Artikel](http://www.trustnodes.com/worlds-largest-freight-company-to-use-blockchain-tech-for-asset-management)
+
+**Deutsche Energieversorger entdecken Blockchain-Technologie - Welt 13.09.2016**
+Bei der Abrechnung von Energielieferungen kommt immer häufiger Blockchain-Technologie zum Einsatz. Als Teil einer neu entstehenden Machine-to-Machine-Economy bieten dezentrale Lösungen einen hohen Automatisierungsgrad und Abrechnungsmöglichkeiten in Echtzeit.
+[zum Artikel](https://www.welt.de/newsticker/bloomberg/article158119549/RWE-und-andere-Versorger-entdecken-die-Blockchain-Technologie.html)
+
+**Open Source Projekt Zeppelin stellt Smart Contract Framework vor – CD, 15.09.2016**
+Der DAO-Hack hat dazu geführt, dass das Thema Code-Sicherheit bei Smart Contracts immer mehr Beachtung findet. Das Open-Source Projekt Zeppelin stellt dazu ein Framework für eine sichere und transparente Gestaltung von Smart Contracts vor.
+[zum Artikel](http://www.coindesk.com/blockchain-veterans-unveil-secure-smart-contracts-framework/)
+
+**Bank of Tokyo will Blockchain für Dienstleistersteuerung einsetzen - CD 16.09.2016**
+Bei der Dienstleistersteuerung werden verschiedene Workflows und deren Metriken zwischen der Bank of Tokio und IBM als Auftragnehmer mittels Hyperledger-Blockchain abgebildet. Dadurch sollen zukünftig die erbrachten Leistungen automatisiert gemessen werden.
+[zum Artikel](http://www.coindesk.com/bank-tokyo-use-blockchain-contract-management-2018/)
+ 
+**Kommende Woche findet in Singapur die International Blockchain Week statt**
+Die Blockchain Week ist eine der weltweit herausragenden Veranstaltungen zu Themen wie Ethereum, Smart Contracts und dezentralized Applications. Zwischen 19. Und 24. September werden unter anderem Vitalik Buterin (Ethereum), Tim Swanson (R3) und Marley Gray (Microsoft) anwesend sein.
+[zum Artikel](http://www.blockchainweek2016.org/index_en.html)
+
+
+<br>
 ### Kalenderwoche 36, 03.09. - 09.09.2016
 
 **Kommentator sieht neues Finanzsystem durch Blockchain möglich - NZZ 09.09.2016**
