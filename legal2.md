@@ -4,4 +4,4 @@ title: Legal2
 permalink: /legal/
 ---
 
-Gegenseitige Verträge kommen zustande durch korrespomndierende Willenserklärungen.
+Gegenseitige Verträge kommen zustande durch korrespondierende Willenserklärungen.
