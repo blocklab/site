@@ -5,4 +5,4 @@ permalink: /legal/
 ---
 
 
-[test]
+[test](legal2.md)
