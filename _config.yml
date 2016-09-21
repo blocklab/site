@@ -1,7 +1,7 @@
 # SEO settings
 title: "block"
 title2: "LAB" # default: ""
-description: "Just another minimalist Jekyll theme that focuses on technical writing."
+description: "Das Netzwerk für Blockchain Technologie in der Region Stuttgart"
 keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
 url: http://heiswayi.github.io/thinkspace # site url
 baseurl: "/site" # apply repo name if use it under gh-pages branch
