@@ -4,8 +4,7 @@ title2: "LAB" # default: ""
 description: "Das Netzwerk für Blockchain Technologie in der Region Stuttgart"
 keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
 url: http://heiswayi.github.io/thinkspace # site url
-baseurl: "/site" # apply repo name if use it under gh-pages branch
-# baseurl: null # apply null if repo name is something like username.github.io
+baseurl: ""
 
 google_analytics: UA-XXXXX-XX
 repo: http://github.com/blab/site
@@ -17,9 +16,6 @@ comments: true
 permalink   : /:year/:title/
 markdown    : kramdown
 highlighter : rouge
-
-source: ./
-destination: ./_site
 
 # Sass configuration
 sass:
