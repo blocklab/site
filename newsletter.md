@@ -29,6 +29,34 @@ Nachrichten zu Ethereum, blockchain technology, decentralized computing
 <!--End mc_embed_signup-->
 
 <br>
+### Kalenderwoche 38, 17.09. - 23.09.2016
+
+**„Das Dogma der Blockchain ist realitätsfern“ - HB 19.09.2016**
+Reine Lehre gegen Pragmatismus: Wie flexibel wird der Umgang mit Smart Contracts auf der Blockchain zukünftig aussehen? Richard Lumb, Leiter Financial Services von Accenture glaubt, dass sich Pragmatismus und Flexibilität auch für Smart Contracs auf der Blockchain durchsetzen wird.
+[zum Artikel](http://www.handelsblatt.com/unternehmen/banken-versicherungen/accenture-experte-richard-lumb-das-dogma-der-blockchain-ist-realitaetsfern/14566300.html)
+
+
+**Wired berichtet über vier Blockchain-Anwendungsfälle - Wired 20.09.2016**
+Das Wired-Magazin berichtet über den Energiehandel mittels Ethereum Smart Contracts im Brooklyn Microgrid, die RWE-Ladeinfrastruktur „BlockCharge“, über das Start-up Slock.it und das Smartphone-Kartenspie „Spells of Genisis“.
+[zum Artikel](https://www.wired.de/collection/business/die-blockchain-im-alltag-vier-beispiele-wie-das-geht)
+
+
+**R3 Konsortium testet Datenverwaltung auf der Blockchain für sieben Finanzdienstleister - BTC 21.09.2016**
+Im Rahmen eines Projekts von R3 soll überprüft werden, wie Blockchain-Prototypen aufgebaut sein müssen, um Kosten bei der Verwaltung von Finanzdaten einzusparen. Unter anderem gehören die Banken Credit Suisse, Citi und HSBC zu den Auftraggebern.
+[zum Artikel](https://www.btc-echo.de/r3cev-axonie-blockchain-test/)
+
+
+**Smart Contracts brauchen eine neue Art der Due Diligence - CD 21.09.2016**
+Durch den DAO-Hack wurde offensichtlich, wie anfällig Smart Contracs für fehlerhaften Programmiercode sind und welche weitreichenden finanziellen Folgen dadurch entstehen. Die Analyse von knapp 19.000 Smart Contracts ergab, dass 44% davon fehlerhaft waren. Da Smart Contracts, sobald sie auf der Blockchain aktiviert werden, nicht mehr verändert bzw. im Fehlerfall verbessert werden können, wird eine sorgfältige Due Diligence bei ihrer Erstellung notwendig. 
+[zum Artikel](http://www.coindesk.com/blockchain-smart-contracts-need-new-kind-due-diligence/)
+
+
+**Das Rohstoffunternehmen BHP Billiton setzt Blockchain für Supply Chain Managament ein - CD 23.09.2016**
+Das Unternehmen will zukünftig Herkunft und Verbleib von Gesteinsproben per Blockchain in Echtzeit dokumentieren. Dadurch sollen Arbeitsprozesse im Unternehmen und mit Partnern effizienter gestaltet werden. Unterstützt wird BHP Billiton dabei von den Start-up Unternehmen BlockApps und Consensys.
+[zum Artikel](http://www.coindesk.com/bhp-billiton-blockchain-mining-company-supply-chain/)
+
+
+<br>
 ### Kalenderwoche 37, 10.09. - 16.09.2016
 
 **Assetmanagement im Frachtgeschäft auf der Blockchain - TNN 06.09.2016**
