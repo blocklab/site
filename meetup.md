@@ -4,11 +4,16 @@ title: Meetup
 permalink: /meetup/
 ---
 
-**Nächstes Meetup Ethereum, blockchain technology, decentralized computing in Stuttgart**
+**Nächste Meetups Ethereum, blockchain technology, decentralized computing in Stuttgart**
 
-Dienstag, 20.09.2016, 19:00h, Coworking Stuttgart, Gutenbergstraße 77a, 70197 Stuttgart
+Dienstag, 18.10.2016, 19:00h, Coworking Stuttgart, Gutenbergstraße 77a, 70197 Stuttgart
+[zur Meetup-Seite](http://www.meetup.com/de-DE/Ethereum-blockchain-technology-decentralized-computing/events/232471377/)
 
-[zur Meetup-Seite](http://www.meetup.com/de-DE/Ethereum-blockchain-technology-decentralized-computing/events/232471307/)
+Donnerstag, 24.11.2016, 19:00h, Coworking Stuttgart, Gutenbergstraße 77a, 70197 Stuttgart
+[zur Meetup-Seite](http://www.meetup.com/de-DE/Ethereum-blockchain-technology-decentralized-computing/events/232471393/)
+
+Dienstag, 20.11.2016, 19:00h, Coworking Stuttgart, Gutenbergstraße 77a, 70197 Stuttgart
+[zur Meetup-Seite](http://www.meetup.com/de-DE/Ethereum-blockchain-technology-decentralized-computing/events/232471431/)
 
 ## Anstehende Workshops
 
