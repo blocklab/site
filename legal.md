@@ -5,4 +5,10 @@ permalink: /legal/
 ---
 
 
-[Verträge im deutschen Recht](legal2.md)
+#  Blockchain, Smart Contracts  und das  Recht
+
+#  Nick Szabo 's  Traum
+
+#  Automatenaufstellverträge  ...  in  der Chain?
+
+
