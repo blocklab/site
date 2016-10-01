@@ -3,14 +3,11 @@ title: "block"
 title2: "LAB" # default: ""
 description: "Das Netzwerk für Blockchain Technologie in der Region Stuttgart"
 keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
-url: http://heiswayi.github.io/thinkspace # site url
+url: http://site.blocklab.de
 baseurl: ""
 
 google_analytics: UA-XXXXX-XX
 repo: http://github.com/blab/site
-disqus_shortname: "heiswayi"
-twitter_username: "HeiswayiNrird"
-comments: true
 
 # Build settings
 permalink   : /:year/:title/
@@ -25,20 +22,6 @@ sass:
 # Author settings
 author:
   name     : "blockLAB"
-  job      : "R&D Software Engineer"
-  bio      : "1+1=3 is always TRUE in my world, a balance between binary and reality."
-  thumb    : /images/author.jpg
-  email    : hnrird@gmail.com
-  url      : http://heiswayi.github.io
-  github   : http://github.com/heiswayi
-  twitter  : http://twitter.com/HeiswayiNrird
-  facebook : https://www.facebook.com/profile.php?id=1257583160
-  linkedin : http://linkedin.com/in/nrird
-
-# social settings
-og_locale: "en_US"
-twitter_card: "summary_large_image"
-twitter_site: "@HeiswayiNrird"
 
 gems:
   - bourbon
