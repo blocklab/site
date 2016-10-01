@@ -11,4 +11,6 @@ permalink: /legal/
 
 #  Automatenaufstellverträge  ...  in  der Chain?
 
+#  Transparency  lokal?  - Korruptionsbekämpfung  ... mit der Chain?
+
 
