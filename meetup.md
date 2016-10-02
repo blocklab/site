@@ -16,6 +16,7 @@ Dienstag, 20.11.2016, 19:00h, Coworking Stuttgart, Gutenbergstraße 77a, 70197 S
 [zur Meetup-Seite](http://www.meetup.com/de-DE/Ethereum-blockchain-technology-decentralized-computing/events/232471431/)
 
 <br>
+
 ## Anstehende Workshops
 
 [Einführung in die Smart Contract Programmierung]({% post_url 2016-09-25-introduction-smart-contracts %})
