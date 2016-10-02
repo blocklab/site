@@ -8,7 +8,7 @@ Diese Seite befindet sich im Aufbau
 
 <br>
 
-##blockLAB Stuttgart##
+##blockLAB Stuttgart
 
 <br>
 
