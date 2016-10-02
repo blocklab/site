@@ -4,4 +4,18 @@ title: About
 permalink: /about/
 ---
 
-##
+Diese Seite befindet sich im Aufbau
+
+##blockLAB Stuttgart
+
+<br>
+
+##unsere Ziele
+
+<br>
+
+##unsere Mitglieder
+
+<br>
+
+##mitmachen bei blockLAB Stuttgart
