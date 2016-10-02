@@ -36,7 +36,6 @@ Nachrichten zu Ethereum, blockchain technology, decentralized computing
 „Eine Studie von IBM zeigt:  Fünfzehn Prozent der Banken und 14 Prozent der Finanzmarktinstitutionen, die von IBM befragt wurden, beabsichtigen, umfassende, kommerzielle Blockchain-Lösungen im Jahr 2017 einzuführen.“
 [zum Artikel](http://www.linux-magazin.de/NEWS/Kommerzielle-Blockchain-Loesungen-im-Kommen)
 [zur Studie](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=GBP03467USEN&)
-[zur Studie](http://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=GBE03757USEN)
 
 **UBS sieht Blockchain-Technologie in ein bis zwei Jahren als relevant an - FN 28.09.2016**
 „«In ein bis zwei Jahren wird die Finanzbranche erste relevante Applikationen und Anwendungsfälle mit Blockchain-Technologie haben», sagte Veronica Lange, Leiterin Innovation bei der UBS, am «stars»-Symposium vom vergangenen Wochenende in Stein am Rhein.“
