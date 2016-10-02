@@ -7,8 +7,9 @@ permalink: /legal/
 
 #  Blockchain, Smart Contracts  und das  Recht
 
-Das Thema Blockchain nimmt nun auch in Deutschland langsam Fahrt auf. Bisweilen wird es zwar immer noch ausschlieslich mit Bitcoin und dem Darknet in Verbindung gebracht, doch das dürfte in Zukunft nach und nach immer seltener werden. 
+Bitcoin und Darknet sind auch in Deutschland keine Fremdworte mehr. Das hinter der Cryptowährung eine Internettechnologie namens Blochchain steht ist weniger bekannt. Das Stuttgarter Blocklab Netzwerk hat daher mit dieser Website ein neues Informationsangebot geschaffen. Ziel ist es, jenseits von Hypes und Buzzwörtern verlässlich und belastbar zu informieren.
 
+Die Blockchain Technologie ist sehr vielseitig  einsetzbar. Derzeit erproben die Finanz- und die Immobilienbranche die neuen Möglichkeiten der Chain. Andere werden folgen. Die Entwicklung des Internets 
 
 #  Nick Szabo 's  Traum
 
