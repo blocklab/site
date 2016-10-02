@@ -8,16 +8,16 @@ Diese Seite befindet sich im Aufbau
 
 <br>
 
-##blockLAB Stuttgart
+## blockLAB Stuttgart
 
 <br>
 
-##unsere Ziele
+## unsere Ziele
 
 <br>
 
-##unsere Mitglieder
+## unsere Mitglieder
 
 <br>
 
-##mitmachen bei blockLAB Stuttgart
+## mitmachen bei blockLAB Stuttgart
