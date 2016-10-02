@@ -13,7 +13,9 @@ permalink: /team/
 - [Dennis Schlegel](#dennis)
 - [Dr. Arndt-Christian Kulow](#arndt)
 
-### Jochen Kaßberger<a name="jochen"/>
+<a name="jochen"/>
+
+### Jochen Kaßberger
 
 #### GESCHÄFTSMODELLE, STRATEGIE, VENTURE, IOT
 
@@ -24,15 +26,21 @@ Links: [transform management & beratung](http://www.transformmanagement.de/unter
 
 ---
 
-### Axel Hodler<a name="axel"/>
+<a name="axel"/>
+
+### Axel Hodler
 
 ---
 
-### Robert Tuchel<a name="rob"/>
+<a name="rob"/>
+
+### Robert Tuchel
 
 ---
 
-### Jan-Paul Buchwald<a name="jan-paul"/>
+<a name="jan-paul"/>
+
+### Jan-Paul Buchwald
 
 #### IT-ARCHITEKTUR, PROGRAMMIERUNG, FINTECH, IOT
 
@@ -43,8 +51,12 @@ Links: [YOPITER GmbH](http://www.yopiter.com), [WunderNova](http://www.wundernov
 
 ---
 
-### Dennis Schlegel<a name="dennis"/>
+<a name="dennis"/>
+
+### Dennis Schlegel
 
 ---
 
-### Dr. Arndt-Christian Kulow<a name="arndt"/>
+<a name="arndt"/>
+
+### Dr. Arndt-Christian Kulow
