@@ -29,6 +29,29 @@ Nachrichten zu Ethereum, blockchain technology, decentralized computing
 <!--End mc_embed_signup-->
 
 <br>
+
+### Kalenderwoche 39, 24.09. - 30.09.2016
+
+**Erste Banken wollen Blockchain-Technologie 2017 einsetzen - LM 29.09.2016**
+„Eine Studie von IBM zeigt:  Fünfzehn Prozent der Banken und 14 Prozent der Finanzmarktinstitutionen, die von IBM befragt wurden, beabsichtigen, umfassende, kommerzielle Blockchain-Lösungen im Jahr 2017 einzuführen.“
+[zum Artikel](http://www.linux-magazin.de/NEWS/Kommerzielle-Blockchain-Loesungen-im-Kommen)
+[zur Studie](https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=GBP03467USEN&)
+[zur Studie](http://www-01.ibm.com/common/ssi/cgi-bin/ssialias?htmlfid=GBE03757USEN)
+
+**UBS sieht Blockchain-Technologie in ein bis zwei Jahren als relevant an - FN 28.09.2016**
+„«In ein bis zwei Jahren wird die Finanzbranche erste relevante Applikationen und Anwendungsfälle mit Blockchain-Technologie haben», sagte Veronica Lange, Leiterin Innovation bei der UBS, am «stars»-Symposium vom vergangenen Wochenende in Stein am Rhein.“
+[zum Artikel](http://www.finews.ch/news/banken/24577-veronika-lange-ubs-blockchain-bitcoin-alex-batlin-oliver-bussmann)
+
+**Chinesischer Autobauer investiert Milliarden in Blockchain-Technologie - II 26.09.2016**
+„Der größte chinesische Autobauer Wanxiang investiert in den kommenden sieben Jahren 30 Milliarden Dollar in ein Smart City-Projekte, in welcher Blockchain eine spezifische Rolle einnehmen sollen.“
+[zum Artikel](http://www.inside-it.ch/articles/45130)
+
+**Bank Santander plant digitale Währung auf der Ethereum Blockchain - CT 24.09.2016**
+Die digitale Währung wird „Cash ETH“ heißen, durch reales Geld abgesichert sein und jederzeit durch die Bank in US-Dollar oder Euro umgetauscht werden können. Die Verbindung einer digitalen Tokens auf einer öffentlichen Blockchain und einem Bankkonto, wie von Santander geplant, dürfte die erste ihrer Art weltweit sein.
+[zum Artikel](https://cointelegraph.com/news/santander-confirms-fiat-backed-token-project-on-ethereum-blockchain)
+
+<br>
+
 ### Kalenderwoche 38, 17.09. - 23.09.2016
 
 **„Das Dogma der Blockchain ist realitätsfern“ - HB 19.09.2016**
@@ -57,6 +80,7 @@ Das Unternehmen will zukünftig Herkunft und Verbleib von Gesteinsproben per Blo
 
 
 <br>
+
 ### Kalenderwoche 37, 10.09. - 16.09.2016
 
 **Assetmanagement im Frachtgeschäft auf der Blockchain - TNN 06.09.2016**
@@ -75,12 +99,13 @@ Der DAO-Hack hat dazu geführt, dass das Thema Code-Sicherheit bei Smart Contrac
 Bei der Dienstleistersteuerung werden verschiedene Workflows und deren Metriken zwischen der Bank of Tokio und IBM als Auftragnehmer mittels Hyperledger-Blockchain abgebildet. Dadurch sollen zukünftig die erbrachten Leistungen automatisiert gemessen werden.
 [zum Artikel](http://www.coindesk.com/bank-tokyo-use-blockchain-contract-management-2018/)
  
-**Kommende Woche findet in Singapur die International Blockchain Week statt**
+**Kommende Woche findet in Shanghai die International Blockchain Week statt**
 Die Blockchain Week ist eine der weltweit herausragenden Veranstaltungen zu Themen wie Ethereum, Smart Contracts und dezentralized Applications. Zwischen 19. Und 24. September werden unter anderem Vitalik Buterin (Ethereum), Tim Swanson (R3) und Marley Gray (Microsoft) anwesend sein.
 [zum Artikel](http://www.blockchainweek2016.org/index_en.html)
 
 
 <br>
+
 ### Kalenderwoche 36, 03.09. - 09.09.2016
 
 **Kommentator sieht neues Finanzsystem durch Blockchain möglich - NZZ 09.09.2016**
@@ -105,6 +130,7 @@ Die Relevanz der Blockchain-Technologie nimmt stetig zu. Da dies auch große Unt
 [zum Artikel](https://www.btc-echo.de/banken-bestaetigen-gute-jobchancen-fuer-blockchain-experten/)
 
 <br>
+
 ### Kalenderwoche 35, 27.08.-02.09.2016
 
 **Was wir aus dem DAO-Hack lernen können - CT 30.08.2016**
@@ -128,6 +154,7 @@ Die virtuelle Währungen Bitcoin und Dash werden in Venezuela immer beliebter. D
 [zum Artikel](https://cointelegraph.com/news/crisis-torn-venezuelans-opt-for-dash-and-bitcoin)
 
 <br>  
+
 ### Kalenderwoche 34, 20.08.-26.08.2016
 
 **Berlin etabliert sich als Fintech-Standort in Deutschland - BC 26.08.2016**
@@ -141,7 +168,9 @@ Deutsche Bank, UBS, Santander und die Bank of New York Mellon wollen ab 2018 Wer
 **Größte Australische Börse veröffentlicht eigene Blockchain-Pläne - BNC 20.08.2016**
 Die australische Börse Australian Securities Exchange (ASX) hat die Testphase einer Blockchain-Lösung für den Kapitalmarkt erfolgreich beendet. Der getestete Prototyp soll zukünftig auch im Bereich Zahlungs- und Abrechnungsverkehr eingesetzt werden.
 [zum Artikel](http://bravenewcoin.com/news/major-stock-exchange-completes-blockchain-trial-for-replacement-settlement-system/)  
+
 <br>
+
 ### Kalenderwoche 31, 30.07.-05.08.2016
 
 **Schwedische Bank SEB investiert in Blockchain Start-up Coinify - CT 04.08.2016**
