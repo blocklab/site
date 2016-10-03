@@ -11,7 +11,7 @@ permalink: /team/
 - [Robert Tuchel](#rob)
 - [Jan-Paul Buchwald](#jan-paul)
 - [Dennis Schlegel](#dennis)
-- [Dr. Arndt-Christian Kulow](#arndt)
+- [Dr. Arnd-Christian Kulow](#arndt)
 
 <a name="jochen"/>
 
@@ -59,4 +59,4 @@ Links: [YOPITER GmbH](http://www.yopiter.com), [WunderNova](http://www.wundernov
 
 <a name="arndt"/>
 
-### Dr. Arndt-Christian Kulow
+### Dr. Arnd-Christian Kulow
