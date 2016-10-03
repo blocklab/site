@@ -1,7 +1,9 @@
 
 <nav class="nav">
   <div class="container">
-    <h1 class="logo"><a href="{{ '/' | prepend: site.baseurl }}">{{ site.title }}<span>{{ site.title2 }}</span></a></h1>
+    <a class="logo" href="{{ '/' | prepend: site.baseurl }}">
+      <img src="/assets/images/logo.svg" height="30" alt="{{ site.title }}{{ site.title2 }}"/>
+    </a>
     <ul class="navbar">
       <li><a href="{{ '/meetup' | prepend: site.baseurl }}">Meetup</a></li>
       <li><a href="{{ '/newsletter' | prepend: site.baseurl }}">Newsletter</a></li>
