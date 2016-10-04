@@ -4,10 +4,16 @@ title: Kontakt
 permalink: /contact/
 ---
 
+info@blocklab.de
+
 blockLAB Stuttgart
+
 c/o Pure Club 
+
 Friedrichstr. 13
+
 70174 Stuttgart
+
 
 
 ### Impressum
