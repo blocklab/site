@@ -19,7 +19,9 @@ permalink: /links/
 **MOOC DFIN-511 Introcuction To Crypto Currency**
 
 1.[A (brief) history of money](https://db.tt/yqorTxjh)
+
 2.[Byzantine Generals Problem](https://db.tt/BcYGaVB8)
+
 3.[Basics of Cryptocurrency](https://db.tt/Yqlx9DvW)
 4.[Bitcoin in practice - part1](https://db.tt/1qGrVT1W)
 5.[Bitcoin in practice - part2](https://db.tt/eqFusbZO)
