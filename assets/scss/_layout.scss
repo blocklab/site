@@ -261,6 +261,34 @@ hr {
   margin-top: $base-spacing * 2;
 }
 
+.jumbotron-panel {
+  background: url("/assets/images/jumbotron_cubes.jpg") no-repeat center center;
+  height: 350px;
+  background-size: cover;
+  width: auto;
+  z-index: 1;
+  position: relative;
+}
+
+.jumbotron-intro {
+  text-align: center;
+  color: white;
+  position: absolute;
+  margin: auto;
+  height: 225px;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+}
+
+.jumbotron-intro a {
+  border: 1px solid white;
+  border-radius: 6px;
+  color: white;
+  padding: 10px 30px;
+}
+
 // This applies from 0px to 600px
 @media (max-width: 600px) {
   .date-label {
