@@ -20,7 +20,7 @@ Inhaltlich liegen unsere Schwerpunkte auf Programmierung, Geschäftsmodelle und 
 
 <br>
 
-blockLAB Stuttgart befindet sich seit Anfang 2016 im Aufbau. Unser erstes Anwendungsprojekt („Vergütungssystem auf Basis einer privater Cryptowährung“) haben wir im April gestartet. Seit Juni führen wir ein monatliches Meetup in Stuttgart durch. Im Juli startete unser Newsletter blockNEWS. Unsere Internetpräsenz ist seit September online und unser erstes Programmierseminar findet Ende Oktober statt. Im November nehmen wir an zwei Hackatons in Stuttgart und Berlin teil.
+blockLAB Stuttgart befindet sich seit Anfang 2016 im Aufbau. Unser erstes Anwendungsprojekt („Vergütungssystem auf Basis einer privater Cryptowährung“) haben wir im April gestartet. Seit Juni führen wir ein monatliches Meetup in Stuttgart durch. Im August startete unser Newsletter blockNEWS. Unsere Internetpräsenz ist seit September online und unser erstes Programmierseminar findet Ende Oktober statt. Im November nehmen wir an zwei Hackatons in Stuttgart und Berlin teil.
 
 <br>
 
