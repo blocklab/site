@@ -38,7 +38,7 @@ unterliegt fast alles was denkbar und erlaubt ist. Formeller kann man sagen: Rec
 Komplex und zuweilen kompliziert wird die Sache durch eine Vielzahl von Unterscheidungen, die das Rechtssystem ausgebildet hat. Rechtsubjekte können Menschen, aber auch Organisationen sein. Diese können wiederum privat oder staatlich sein und so weiter. Die Vielzahl an Unterscheidungen und Fallgestaltungen macht die Sachen schwierig.
 
 
-# Drei große Bereich: Privatrecht, Strafrecht und öffentliches Recht
+# Drei große Bereiche: Privatrecht, Strafrecht und öffentliches Recht
 
 Das Recht unterscheidet dabei drei Großkontexte,
 Zivilrecht, Strafrecht und Öffentliches Recht. Innerhalb dieser
