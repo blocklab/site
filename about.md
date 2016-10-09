@@ -6,7 +6,7 @@ permalink: /about/
 
 blockLAB Stuttgart ist das Netzwerk für Blockchain-Interessierte in der Region Stuttgart. Der Ausgangspunkt unserer Zusammenarbeit ist das Bild des „Blockchain Labors“, eines Orts für Untersuchungen und Versuche rund um die Blockchain-Technologie.
 
-<img src="Kolben.jpg" alt="Kolben">
+<img src="//Kolben.jpg" alt="Kolben">
 
 <br>
 
