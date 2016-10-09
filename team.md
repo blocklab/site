@@ -67,3 +67,16 @@ Links: [YOPITER GmbH](http://www.yopiter.com), [WunderNova](http://www.wundernov
 <a name="arndt"/>
 
 ### Dr. Arnd-Christian Kulow
+
+Arnd ist Rechtsanwalt, Mediator und Syndikusrechtsanwalt in
+  einem mittelständischen Medienunternehmen, zert. und gepr. Java-Programmierer (SGD), zert. Datenschutzbeauftragter (DSB-TÜV SÜD), zert. Fachkraft u. Beauftragter für Qualitätsmanagement DIN EN ISO 9001:2015 (QMF/QMB-TÜV SÜD), gepr. Nachweis der besonderen theoretischen Kenntnisse
+  für den Fachanwalt IT-Recht, gem. § 2 FAO (DAV 2006), stv. Mitglied des Prüfungsausschusses für den FA-IT
+  Recht bei der RAK Stuttgart, Dozent für ERV bei Rechtsfachwirtsausbildung im Fortbildungsinstitut der RAK Stuttgart, Mitglied des ERV Ausschuss bei der BRAK, Lehrbeauftragter für das Recht der Neuen Medien an den
+  Universitäten Bayreuth und Tübingen.
+  
+  Für das Thema Blockchain steht er vor allem als Referent und Gutachter zur Verfügung.
+  Link: [Lawconcepts](http://www.kanzlei-kulow.de)
+
+
+
+
