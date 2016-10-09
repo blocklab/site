@@ -19,7 +19,7 @@ permalink: /team/
 
 #### GESCHÄFTSMODELLE, STRATEGIE, VENTURE, IOT
 
-<img src="/assets/images/team/jochen.jpg" width="105" alt="Portrait Jochen" style="float: left; margin-right: 10px">
+<img src="/assets/images/team/jochen.jpg" alt="Portrait Jochen" class="team__portrait">
 Jochen studierte Architektur an der Universität Stuttgart und beschäftigt sich seit Mitte der 90er Jahre mit dem Internet. Nach einem Aufenthalt in der US-amerikanischen Dot.Com Industrie um die Jahrtausendwende arbeitete er über zehn Jahre als Management- und Organisationsberater in der Automobil- und IT-Industrie. Im Frühjahr 2016 nahm er erfolgreich am MOOC DFIN 511 „Digital Currencies“ der University of Nicosia teil. Seine Begeisterung für die Internet- und Blockchaintechnologie führten dazu, blockLAB Stuttgart Anfang 2016 mit zu gründen.
 
 Links: [transform management & beratung](http://www.transformmanagement.de/unternehmen/)
@@ -29,6 +29,13 @@ Links: [transform management & beratung](http://www.transformmanagement.de/unter
 <a name="axel"/>
 
 ### Axel Hodler
+
+#### PROGRAMMIERUNG, VENTURE
+
+<img src="/assets/images/team/axel.jpg" alt="Portrait Axel" class="team__portrait">
+Axel setzt als Full-Stack Softwareentwickler Lösungen im Bereich Enterprise Mobility um. Als Blockchain-Technologie begeisterter Mitgründer von blockLAB übernimmt er diverse Aufgaben wie die Umsetzung von Prototypen basierend auf Ethereum oder als Referent für dezentralisierte Anwendungen in unserem Stuttgarter Meetup.
+
+Links: [Web](http://hodler.co), [GitHub](https://github.com/axelhodler), [Twitter](https://github.com/axelhodler), [Xing](https://www.xing.com/profile/Axel_Hodler), [LinkedIn](https://www.linkedin.com/in/axel-hodler-a92343a8)
 
 ---
 
@@ -44,7 +51,7 @@ Links: [transform management & beratung](http://www.transformmanagement.de/unter
 
 #### IT-ARCHITEKTUR, PROGRAMMIERUNG, FINTECH, IOT
 
-<img src="/assets/images/team/jan-paul.jpg" width="105" alt="Portrait Jan-Paul" style="float: left; margin-right: 10px">
+<img src="/assets/images/team/jan-paul.jpg" alt="Portrait Jan-Paul" class="team__portrait">
 Jan-Paul ist studierter Diplom-Informatiker und seit vielen Jahren im Bereich Java (EE) und Webanwendungen vornehmlich im Enterprise-Umfeld aktiv, seit 2014 als selbständiger IT-Berater und Software-Ingenieur. Als Mitgründer der Online-Plattform WunderNova hat er seit einiger Zeit auch Zugang zur Szene innovativer Startups, ist in diesem Zusammenhang auf das Potential des Themas Blockchain aufmerksam geworden und hat sich Mitte 2016 blockLAB Stuttgart angeschlossen.
 
 Links: [YOPITER GmbH](http://www.yopiter.com), [WunderNova](http://www.wundernova.com), [Xing Profil](https://www.xing.com/profile/JanPaul_Buchwald), [LinkedIn Profil](https://www.linkedin.com/in/jan-paul-buchwald-23542423)

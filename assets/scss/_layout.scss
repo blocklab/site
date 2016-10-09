@@ -289,6 +289,12 @@ hr {
   padding: 10px 30px;
 }
 
+.team__portrait {
+  width: 105px;
+  margin-right: 10px;
+  float: left;
+}
+
 // This applies from 0px to 600px
 @media (max-width: 600px) {
   .date-label {
