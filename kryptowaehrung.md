@@ -4,9 +4,11 @@ Das man im [Darknet](https://de.wikipedia.org/wiki/Darknet) mit [Bitcoin](https:
 
 # Ein paar Grundbegriffe
 
-Um die Kryptowährungen einzuordnen brauchen wir ein paar Grundbegriffe aus dem Recht der Geldwirtschaft. 
+Um die Kryptowährungen einzuordnen brauchen wir ein paar Grundbegriffe aus dem [Geldrecht](https://de.wikipedia.org/wiki/Geld). 
 
-## Was ist Geld?
+# Was ist Geld?
+
+## Geld im engeren Sinn: Bargeld als gesetzliches Zahlungsmittel
 
 Hier sind zwei Bedeutungen zu trennen. Geld kann im institutionellen Sinn, in seiner Funktion als allgemeines Tauschmittel bezeichnet werden. Es geht also nicht um die konkreten Münzen oder Werteinheiten, sondern um eine entsprechende "Kaufmacht" (Palandt, BGB, 75. Aufl., 2016, Rz. 2 zu § 245)
 
@@ -15,7 +17,11 @@ Nach [§ 14 Abs. 1 Satz 2](https://www.gesetze-im-internet.de/bbankg/__14.html) 
 
 Damit ist klar: Kryptowährungen gehören in Deutschland (und der EU) nicht zu den gesetzlichen Zahlungsmitteln und müssen daher auch von niemandem zur Begleichung von Geldschulden akzeptiert werden.
 
+## Geld im weiteren Sinne: z.b. ausländische Münzen und Banknoten (Verkehrsgeld)
 
-## Die anerkannten Zahlungsmittel
+Das Bürgerliche Gesetzbuch (BGB) geht in der Regel von einem Geldbegriff im weiteren Sinn aus (§§ 244, 245, 935 BGB).
 
-Nur Bargeld muss angenommen werden, Buchgeld durch Überweisungen, Lastschrift oder früher Schecks können angenommen werden. Sie sind anerkannte Zahlungsmittel, gleichwohl wird eine Überweisung auch als Leistung an Erfüllungs statt  oder in den anderen Varianten als Leistung erfüllungshalber angesehen.
+
+## Die übrigen anerkannten Zahlungsmittel: Buchgeld, Überweisungen, Lastschriften etc.
+
+Nur Bargeld muss angenommen werden, Buchgeld durch Überweisungen, Lastschrift,  oder früher Schecks können angenommen werden. Sie sind anerkannte Zahlungsmittel, gleichwohl wird eine Überweisung als Leistung an Erfüllungs statt oder in den anderen Varianten als Leistung erfüllungshalber angesehen.
