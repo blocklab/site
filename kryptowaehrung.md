@@ -17,9 +17,15 @@ Nach [§ 14 Abs. 1 Satz 2](https://www.gesetze-im-internet.de/bbankg/__14.html) 
 
 Damit ist klar: Kryptowährungen gehören in Deutschland (und der EU) nicht zu den gesetzlichen Zahlungsmitteln und müssen daher auch von niemandem zur Begleichung von Geldschulden akzeptiert werden.
 
-## Geld im weiteren Sinne: z.b. ausländische Münzen und Banknoten (Verkehrsgeld)
+## Geld im weiteren Sinne: z.b. ausländische Münzen und Banknoten (Verkehrsgeld), E-Geld, Kryptowährungen
 
-Das Bürgerliche Gesetzbuch (BGB) geht in der Regel von einem Geldbegriff im weiteren Sinn aus (§§ 244, 245, 935 BGB). Dies umfasst [Sorten](https://de.wikipedia.org/wiki/Sorten), also gesetzliche Zahlungsmittel anderer Staaten. Da die Kryptowährungen (derzeit) in keinem Staat gesetzliches Zahlungsmittel sind, sind sie keine Sorten.
+Das Bürgerliche Gesetzbuch (BGB) geht in der Regel von einem Geldbegriff im weiteren Sinn aus (§§ 244, 245, 935 BGB). Dies umfasst [Sorten](https://de.wikipedia.org/wiki/Sorten), also gesetzliche Zahlungsmittel anderer Staaten. Da die Kryptowährungen (derzeit) in keinem Staat gesetzliches Zahlungsmittel sind, sind sie keine Sorten oder Devisen.
+
+Die Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) ordnet Bitcoin und Kryptowährungen generell als [Rechnungseinheiten](https://www.bafin.de/DE/Aufsicht/FinTech/VirtualCurrency/virtual_currency_node.html#Start) gemäß [§ 1 Absatz 11 Satz 1 Nr. 7 Kreditwesengesetz](https://www.gesetze-im-internet.de/kredwg/__1.html) ein. 
+Damit sind Kryptowährungen den Sorten bzw. Devisen ähnlich. Gleichzeitig ergibt sich aus dieser Zuordnung, dass Kryptowährungen [Finanzinstrumente](https://de.wikipedia.org/wiki/Finanzinstrument) sind.
+
+Kryptowährungen, die auf Mining-Verfahren basieren, bei denen also keine zentrale Stelle die Ausgabe und Verwaltung steuert, werden von der BaFin nicht als [E-Geld](https://de.wikipedia.org/wiki/Elektronisches_Geld) angesehen. Kryptowährungen, bei denen diese Merkmale vorhanden sind, wären ggf. als E-Geld einzustufen. Hier gilt dann das 
+
 
 
 ## Die übrigen anerkannten Zahlungsmittel: Buchgeld, Überweisungen, Lastschriften etc.
