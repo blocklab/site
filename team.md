@@ -52,7 +52,7 @@ Links: [Web](http://hodler.co), [GitHub](https://github.com/axelhodler), [Twitte
 #### IT-ARCHITEKTUR, PROGRAMMIERUNG, FINTECH, IOT
 
 <img src="/assets/images/team/jan-paul.jpg" alt="Portrait Jan-Paul" class="team__portrait">
-Jan-Paul ist studierter Diplom-Informatiker und seit vielen Jahren im Bereich Java (EE) und Webanwendungen vornehmlich im Enterprise-Umfeld aktiv, seit 2014 als selbständiger IT-Berater und Software-Ingenieur. Als Mitgründer der Online-Plattform WunderNova hat er seit einiger Zeit auch Zugang zur Szene innovativer Startups, ist in diesem Zusammenhang auf das Potential des Themas Blockchain aufmerksam geworden und hat sich Mitte 2016 blockLAB Stuttgart angeschlossen.
+Jan-Paul ist studierter Diplom-Informatiker und seit vielen Jahren im Bereich Java (EE) und Webanwendungen vornehmlich im Enterprise-Umfeld aktiv, seit 2014 als selbstständiger IT-Berater und Software-Ingenieur. Als Mitgründer der Online-Plattform WunderNova hat er seit einiger Zeit auch Zugang zur Szene innovativer Startups, ist in diesem Zusammenhang auf das Potential des Themas Blockchain aufmerksam geworden und hat sich Mitte 2016 blockLAB Stuttgart angeschlossen.
 
 Links: [YOPITER GmbH](http://www.yopiter.com), [WunderNova](http://www.wundernova.com), [Xing Profil](https://www.xing.com/profile/JanPaul_Buchwald), [LinkedIn Profil](https://www.linkedin.com/in/jan-paul-buchwald-23542423)
 
@@ -68,7 +68,7 @@ Links: [YOPITER GmbH](http://www.yopiter.com), [WunderNova](http://www.wundernov
 
 ### Dr. Arnd-Christian Kulow
 
-#### Lawconcepts: Recht, Techik, Organisation
+#### Lawconcepts: Recht, Technik, Organisation
 <img src="/assets/images/team/kulow.jpg" alt="Portrait Arnd" class="team__portrait">
 
 Arnd ist Rechtsanwalt, Mediator und Syndikusrechtsanwalt in
