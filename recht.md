@@ -54,6 +54,30 @@ Neue Anwendungen wie Blockchain oder Smart Contracts können im Prinzip alle dre
 ist aber bei Smart Contracts das [Zivilrecht bzw. Privatrecht](vertragsrecht.md) betroffen. Daneben kommt aber, bei Kryptowährungen z.B. auch noch das [Steuerrecht]() als Teil des öffentlichen Rechts in den Blick. 
 
 
+# Verfassung ganz oben: Die vertikale Ordnung der Rechtsnormen
+
+
+Deutschland ist ein Bundesstaat. Die Länder sind eigenständige Rechtspersönlichkeiten (Rechtssubjekte). Das macht den Aufbau etwas komplizierter:
+
+## Bundesebene:
+                          Verfassung (Grundgesetz)
+                                    |
+                       Bundesgesetz (Parlamentsgesetz)
+                                    |
+                    Bundesrechtsverordnung (Exekutive)
+                                    |
+                  Satzungen etc.
+                                    |
+## Landesebene:                 
+
+                                 Landesverfassungen
+                                    |
+                               Landesgesetze
+                                    |
+                            Landesrechtsverordnungen
+                                    |
+                        Landessatzungen etc.
+
 
 
 
