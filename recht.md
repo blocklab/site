@@ -15,7 +15,7 @@ einer Gesellschaft sich zu orientieren und dadurch manche Konflikte erst gar nic
 ein renommierter Rechtsprofessor so formuliert:
 
 ```
-Recht soll sinnfällige Regeln für antizipierte Konflikte breithalten,
+Recht soll sinnfällige Regeln für antizipierte Konflikte bereithalten,
 dadurch Orientierungshilfe geben und prophylaktisch wirken.
 
 P.-C. Müller-Graff, FAZ 20.5.2010 S.8
