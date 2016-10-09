@@ -1,3 +1,21 @@
 # Bitcoin, Ether & Co: Spielgeld, Geld oder Währung?
 
-Das man im [Darknet](https://de.wikipedia.org/wiki/Darknet) mit [Bitcoin](https://de.wikipedia.org/wiki/Bitcoin) bezahlen kann, spricht sich langsam rum. Nur was sind diese Bitcoins? Was ist [Kryptowährung](https://de.wikipedia.org/wiki/Kryptowährung) überhaupt? Es gibt ja nicht nur Bitcoin und [Ether](https://www.ethereum.org/ether) sondern geschätzt 
+Das man im [Darknet](https://de.wikipedia.org/wiki/Darknet) mit [Bitcoin](https://de.wikipedia.org/wiki/Bitcoin) bezahlen kann, spricht sich langsam rum. Nur was sind diese Bitcoins? Was ist [Kryptowährung](https://de.wikipedia.org/wiki/Kryptowährung) überhaupt? Es gibt ja nicht nur Bitcoin und [Ether](https://www.ethereum.org/ether) sondern geschätzt an die 3000 Netzwährungen. Dabei gehen die Bezeichnungen bunt durcheinander. Mal wird es als Geld, mal als Verrechnungseinheit oder schlicht als Währung bezeichnet.
+
+# Ein paar Grundbegriffe
+
+Um die Kryptowährungen einzuordnen brauchen wir ein paar Grundbegriffe aus dem Recht der Geldwirtschaft. 
+
+## Was ist Geld?
+
+Hier sind zwei Bedeutungen zu trennen. Geld kann im institutionellen Sinn, in seiner Funktion als allgemeines Tauschmittel bezeichnet werden. Es geht also nicht um die konkreten Münzen oder Werteinheiten, sondern um eine entsprechende "Kaufmacht" (Palandt, BGB, 75. Aufl., 2016, Rz. 2 zu § 245)
+
+Die engere und rechtliche Bedeutung ist die als **gesetzliches Zahlungsmittel**.
+Nach [§ 14 Abs. 1 Satz 2](https://www.gesetze-im-internet.de/bbankg/__14.html) Bundesbank Gesetz (BBankG) sind nur auf Euro lautende Banknoten das einzige unbeschränkte gesetzliche Zahlungsmittel in Deutschland. Gesetzliche Zahlungsmittel müssen vom Schuldner als Erfüllung einer Geldschuld akzeptiert werden. Für Banknoten ist der Annahmezwang unbegrenzt, bei Münzen gibt es [Mengenobergrenzen (50 Stück) gem. VERORDNUNG (EG) Nr. 974/98 DES RATES vom 3. Mai 1998](http://eur-lex.europa.eu/legal-content/DE/TXT/PDF/?uri=CELEX:31998R0974).
+
+Damit ist klar: Kryptowährungen gehören in Deutschland (und der EU) nicht zu den gesetzlichen Zahlungsmitteln und müssen daher auch von niemandem zur Begleichung von Geldschulden akzeptiert werden.
+
+
+## Die anerkannten Zahlungsmittel
+
+Nur Bargeld muss angenommen werden, Buchgeld durch Überweisungen, Lastschrift oder früher Schecks können angenommen werden. Sie sind anerkannte Zahlungsmittel, gleichwohl wird eine Überweisung auch als Leistung an Erfüllungs statt  oder in den anderen Varianten als Leistung erfüllungshalber angesehen.
