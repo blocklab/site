@@ -24,10 +24,28 @@ Das Bürgerliche Gesetzbuch (BGB) geht in der Regel von einem Geldbegriff im wei
 Die Bundesanstalt für Finanzdienstleistungsaufsicht (BaFin) ordnet Bitcoin und Kryptowährungen generell als [Rechnungseinheiten](https://www.bafin.de/DE/Aufsicht/FinTech/VirtualCurrency/virtual_currency_node.html#Start) gemäß [§ 1 Absatz 11 Satz 1 Nr. 7 Kreditwesengesetz](https://www.gesetze-im-internet.de/kredwg/__1.html) ein. 
 Damit sind Kryptowährungen den Sorten bzw. Devisen ähnlich. Gleichzeitig ergibt sich aus dieser Zuordnung, dass Kryptowährungen [Finanzinstrumente](https://de.wikipedia.org/wiki/Finanzinstrument) sind.
 
-Kryptowährungen, die auf Mining-Verfahren basieren, bei denen also keine zentrale Stelle die Ausgabe und Verwaltung steuert, werden von der BaFin nicht als [E-Geld](https://de.wikipedia.org/wiki/Elektronisches_Geld) angesehen. Kryptowährungen, bei denen diese Merkmale vorhanden sind, wären ggf. als E-Geld einzustufen. Hier gilt dann das 
-
+Kryptowährungen, die auf Mining-Verfahren basieren, bei denen also keine zentrale Stelle die Ausgabe und Verwaltung steuert, werden von der BaFin nicht als [E-Geld](https://de.wikipedia.org/wiki/Elektronisches_Geld) angesehen. Kryptowährungen, bei denen diese Merkmale vorhanden sind, wären ggf. als E-Geld einzustufen. Hier gilt dann u.U. das Gesetz über die Beaufsichtigung von Zahlungsdiensten [(Zahlungsdiensteaufsichtsgesetz - ZAG)](http://www.gesetze-im-internet.de/zag/inhalts_bersicht.html).
 
 
 ## Die übrigen anerkannten Zahlungsmittel: Buchgeld, Überweisungen, Lastschriften etc.
 
 Nur Bargeld muss angenommen werden, Buchgeld durch Überweisungen, Lastschrift,  oder früher Schecks können angenommen werden. Sie sind anerkannte Zahlungsmittel, gleichwohl wird eine Überweisung als Leistung an Erfüllungs statt oder in den anderen Varianten als Leistung erfüllungshalber angesehen.
+
+
+# Brauche ich als Nutzer von Bitcoin und Co. eine Erlaubnis?
+
+Klares nein, die BaFin ist da eindeutig:
+
+```
+Die bloße Nutzung von VC als Ersatz für Bar- oder Buchgeld zur Teilnahme am Wirtschaftskreislauf im Austauschgeschäft ist keine erlaubnispflichtige Tätigkeit. Der Dienstleister oder Lieferant kann seine Leistungen mit VC bezahlen lassen, ohne dass er dadurch Bankgeschäfte oder Finanzdienstleistungen erbringt. Gleiches gilt für den Kunden. Ebenso stellt das Mining von VC an sich kein erlaubnispflichtiges Geschäft dar, da der „Miner“ die VC nicht selbst emittiert oder platziert. Auch der Verkauf selbst geschürfter oder erworbener VC oder deren Ankauf sind grundsätzlich nicht erlaubnispflichtig.
+```
+
+Sobald aber andere Umstände hinzutreten, kann eine erlaubnispflichtige Tägigkeit vorliegen:
+
+```
+Treten jedoch weitere Umstände hinzu, kann der gewerbliche Umgang mit VC die Erlaubnispflicht nach dem KWG auslösen (Merkblatt Erlaubnis allgemein). Fehlt die erforderliche Erlaubnis, liegt in der Regel eine Straftat nach § 54 KWG vor. Typische Geschäftskonstellationen werden nachfolgend kurz dargestellt.
+```
+Das Merkblatt der BaFin gibt es [hier](https://www.bafin.de/SharedDocs/Downloads/DE/Merkblatt/WA/dl_fidierlaubnis_buba.pdf?__blob=publicationFile&v=1).
+
+
+
