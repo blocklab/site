@@ -26,6 +26,21 @@ Damit sind Kryptowährungen den Sorten bzw. Devisen ähnlich. Gleichzeitig ergib
 
 Kryptowährungen, die auf Mining-Verfahren basieren, bei denen also keine zentrale Stelle die Ausgabe und Verwaltung steuert, werden von der BaFin nicht als [E-Geld](https://de.wikipedia.org/wiki/Elektronisches_Geld) angesehen. Kryptowährungen, bei denen diese Merkmale vorhanden sind, wären ggf. als E-Geld einzustufen. Hier gilt dann u.U. das Gesetz über die Beaufsichtigung von Zahlungsdiensten [(Zahlungsdiensteaufsichtsgesetz - ZAG)](http://www.gesetze-im-internet.de/zag/inhalts_bersicht.html).
 
+Der Europäische Gerichtshof (EuGH) hatte sich im letzten Jahr mit steuerlichen Fragen zur Einordnung von Kryptowährungen zu besschäftigen. In der Sache [Skatteverket gegen Hedqvist](http://curia.europa.eu/juris/document/document.jsf?text=&docid=170305&pageIndex=0&doclang=DE&mode=req&dir=&occ=first&part=1). Unter anderem ordnet der EuGH Bitcoin folgendermaßen ein:
+
+```
+Da die virtuelle Währung „Bitcoin“ ein vertragliches Zahlungsmittel ist, 
+kann sie zum einen weder als Kontokorrent noch als Einlage, Zahlung oder
+Überweisung angesehen werden. Zum anderen stellt sie, im Unterschied
+zu den in Art. 135 Abs. 1 Buchst. d der Mehrwertsteuerrichtlinie genannten
+Forderungen, Schecks und anderen Handelspapieren, ein unmittelbares
+Zahlungsmittel zwischen denjenigen Wirtschaftsteilnehmern dar, 
+die sie akzeptieren.
+```
+Dies bestätigt die von der BaFin vorgenommene Einordnung.
+
+
+
 
 ## Die übrigen anerkannten Zahlungsmittel: Buchgeld, Überweisungen, Lastschriften etc.
 
