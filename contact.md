@@ -16,6 +16,7 @@ Friedrichstr. 13
 
 <br>
 
+
 ### Impressum
 Angaben gemäß § 5 TMG:
 
@@ -41,6 +42,7 @@ E-Mail: 	info(at)blocklab.de
 
 <br>
 
+
 Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
 Jochen Kaßberger
@@ -54,6 +56,7 @@ Friedrichstr. 13
 70174 Stuttgart
 
 <br>
+
 
 Haftungsausschluss (Disclaimer)
 
