@@ -30,6 +30,13 @@ Links: [transform management & beratung](http://www.transformmanagement.de/unter
 
 ### Axel Hodler
 
+#### PROGRAMMIERUNG, VENTURE
+
+<img src="/assets/images/team/axel.jpg" alt="Portrait Axel" class="team__portrait">
+Axel setzt als Full-Stack Softwareentwickler Lösungen im Bereich Enterprise Mobility um. Als Blockchain-Technologie begeisterter Mitgründer von blockLAB übernimmt er diverse Aufgaben wie die Umsetzung von Prototypen basierend auf Ethereum oder als Referent für dezentralisierte Anwendungen in unserem Stuttgarter Meetup.
+
+Links: [Web](http://hodler.co), [GitHub](https://github.com/axelhodler), [Twitter](https://github.com/axelhodler), [Xing](https://www.xing.com/profile/Axel_Hodler), [LinkedIn](https://www.linkedin.com/in/axel-hodler-a92343a8)
+
 ---
 
 <a name="rob"/>
