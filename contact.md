@@ -20,25 +20,39 @@ Friedrichstr. 13
 Angaben gemäß § 5 TMG:
 
 blockLAB Stuttgart
+
 c/o Pure Club 
+
 Friedrichstr. 13
+
 70174 Stuttgart
+
 Vertreten durch:
 
 Jochen Kaßberger
-Kontakt:
+
+Kontakt
+
 Telefon: 	0711-65677156
+
 Telefax: 	0711-65677159
-E-Mail: 	info@blocklab.de
+
+E-Mail: 	info(at)blocklab.de
+
 
 
 Verantwortlich für den Inhalt nach § 55 Abs. 2 RStV:
 
 Jochen Kaßberger
+
 blockLAB Stuttgart
+
 c/o Pure Club 
+
 Friedrichstr. 13
+
 70174 Stuttgart
+
 
 
 Haftungsausschluss (Disclaimer)
