@@ -23,3 +23,5 @@ Anforderungen
 * [Node.js](https://nodejs.org/) vorinstalliert. Anleitung für [Windows](https://nodejs.org/en/download/package-manager/#windows), [OSX](https://nodejs.org/en/download/package-manager/#osx) und [Alternativen](https://nodejs.org/en/download/package-manager/)
 
 Die Inhalte sind auch für Teilnehmer ohne Programmierkenntnisse verständlich und ermöglichen somit einen kompakten Einblick in die Smart Contract Programmierung.
+
+Interessierte wenden sich bitte per E-Mail an info@blocklab.de
