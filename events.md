@@ -31,3 +31,7 @@ Donnerstag 27.10.2016, 19-22h
 
 Montag 28. bis Mittwoch 30.11.2016, Börse Stuttgart und L-Bank Stuttgart
 
+DAppHack (Details folgen)
+
+Freitag 25. bis Sonntag 27.11.2016, Berlin
+
