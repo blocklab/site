@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Meetup
-permalink: /meetup/
+title: Events
+permalink: /events/
 ---
 
 **Nächste Meetups Ethereum, blockchain technology, decentralized computing in Stuttgart**
