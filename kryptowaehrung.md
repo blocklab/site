@@ -19,7 +19,7 @@ Damit ist klar: Kryptowährungen gehören in Deutschland (und der EU) nicht zu d
 
 ## Geld im weiteren Sinne: z.b. ausländische Münzen und Banknoten (Verkehrsgeld)
 
-Das Bürgerliche Gesetzbuch (BGB) geht in der Regel von einem Geldbegriff im weiteren Sinn aus (§§ 244, 245, 935 BGB).
+Das Bürgerliche Gesetzbuch (BGB) geht in der Regel von einem Geldbegriff im weiteren Sinn aus (§§ 244, 245, 935 BGB). Dies umfasst [Sorten](https://de.wikipedia.org/wiki/Sorten), also gesetzliche Zahlungsmittel anderer Staaten. Da die Kryptowährungen (derzeit) in keinem Staat gesetzliches Zahlungsmittel sind, sind sie keine Sorten.
 
 
 ## Die übrigen anerkannten Zahlungsmittel: Buchgeld, Überweisungen, Lastschriften etc.
