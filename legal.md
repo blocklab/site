@@ -7,7 +7,7 @@ permalink: /legal/
 
 #  Software eats law: Blockchain, Smart Contracts  und das  Recht
 
-Bitcoin und Darknet sind auch in Deutschland keine Fremdworte mehr. Das hinter der Cryptowährung eine Internettechnologie namens Blochchain steht ist weniger bekannt. Das Stuttgarter Blocklab Netzwerk hat daher mit dieser Website ein neues Informationsangebot geschaffen. Ziel ist es, jenseits von Hypes und Buzzwörtern verlässlich und belastbar zu informieren.
+Bitcoin und Darknet sind auch in Deutschland keine Fremdworte mehr. Das hinter der [Kryptowährung](kryptowaehrung.md) eine Internettechnologie namens Blochchain steht ist weniger bekannt. Das Stuttgarter Blocklab Netzwerk hat daher mit dieser Website ein neues Informationsangebot geschaffen. Ziel ist es, jenseits von Hypes und Buzzwörtern verlässlich und belastbar zu informieren.
 
 Die Blockchain Technologie ist sehr vielseitig  einsetzbar. Derzeit erproben die Finanz- und die Immobilienbranche die neuen Möglichkeiten der Chain. Andere werden folgen. Die Entwicklung des Internets hat gezeigt, dass mit der Verwendung neuer Technologien auch immer neue Rechtsfragen treten. Bei der Blockchain liegen diese Fragestellungen besonders auf der Hand, da eine wesentliche neue Möglichkeit der Chain - wie  etwa beim Ethereum Netzwerk - sogenannte Smart Contracts sind.  Grund genug die neue Technologie  von Anfang an mit konkreten und praxisnahen rechtlichen Überlegungen zu begleiten
 
@@ -17,7 +17,7 @@ Die Blockchain Technologie ist sehr vielseitig  einsetzbar. Derzeit erproben die
 #  Nick Szabo 's  Traum
 
 Schon Ende des vorigen Jahrhunderts konzipierte der Jurist und Computerwissenschaftler 
-[Nick Szabo(https://en.wikipedia.org/wiki/Nick_Szabo) Verträge die - im Gegensatz zu herkömmlichen Verträgen - nicht aus Texten auf Papier, sondern aus Programmcode in einem  Computernetz bestanden. Die verlockende Idee von *Szabo* bestand und besteht darin, dass dieses Verträge selbstausführend sind. Schon damals verknüpfte der Blockchain-Pionier dieses mit der Idee eine online Währung "bit gold" zu schaffen.
+[Nick Szabo](https://en.wikipedia.org/wiki/Nick_Szabo) Verträge die - im Gegensatz zu herkömmlichen Verträgen - nicht aus Texten auf Papier, sondern aus Programmcode in einem  Computernetz bestanden. Die verlockende Idee von *Szabo* bestand und besteht darin, dass dieses Verträge selbstausführend sind. Schon damals verknüpfte der Blockchain-Pionier dieses mit der Idee eine online Währung "bit gold" zu schaffen.
 
 Für Szabo ist alles sehr eng mit dem [Recht](recht.md), insbesondere dem [Vertragsrecht](vertragsrecht.md) verbunden. 
 
