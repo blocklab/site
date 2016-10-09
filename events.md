@@ -25,7 +25,7 @@ Donnerstag 27.10.2016, 19-22h
 
 <br>
 
-## Teilnahme an Hackcathons
+## Teilnahme an Hackathons
 
 [FinTech-Hackathon Stuttgart](https://www.stuttgart-financial.de/netzwerk/fintech-days/bankathon0/)
 
