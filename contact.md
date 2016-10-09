@@ -8,7 +8,7 @@ info@blocklab.de
 
 blockLAB Stuttgart
 
-c/o Pure Club 
+c/o PURE CLUB
 
 Friedrichstr. 13
 
@@ -21,7 +21,7 @@ Angaben gemäß § 5 TMG:
 
 blockLAB Stuttgart
 
-c/o Pure Club 
+c/o PURE CLUB
 
 Friedrichstr. 13
 
@@ -47,7 +47,7 @@ Jochen Kaßberger
 
 blockLAB Stuttgart
 
-c/o Pure Club 
+c/o PURE CLUB
 
 Friedrichstr. 13
 
