@@ -36,4 +36,4 @@ Wir verstehen uns als neutrale non-profit Organisation, die offen ist für Einze
 
 <br>
 
-Interessierte wenden sich bitte per E-Mail an info@blocklab.de
+Interessierte wenden sich bitte per E-Mail an info(at)blocklab.de
