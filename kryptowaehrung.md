@@ -37,13 +37,23 @@ Nur Bargeld muss angenommen werden, Buchgeld durch Überweisungen, Lastschrift, 
 Klares nein, die BaFin ist da eindeutig:
 
 ```
-Die bloße Nutzung von VC als Ersatz für Bar- oder Buchgeld zur Teilnahme am Wirtschaftskreislauf im Austauschgeschäft ist keine erlaubnispflichtige Tätigkeit. Der Dienstleister oder Lieferant kann seine Leistungen mit VC bezahlen lassen, ohne dass er dadurch Bankgeschäfte oder Finanzdienstleistungen erbringt. Gleiches gilt für den Kunden. Ebenso stellt das Mining von VC an sich kein erlaubnispflichtiges Geschäft dar, da der „Miner“ die VC nicht selbst emittiert oder platziert. Auch der Verkauf selbst geschürfter oder erworbener VC oder deren Ankauf sind grundsätzlich nicht erlaubnispflichtig.
+Die bloße Nutzung von VC als Ersatz für Bar- oder Buchgeld zur Teilnahme
+am Wirtschaftskreislauf im Austauschgeschäft ist keine erlaubnispflichtige
+Tätigkeit. Der Dienstleister oder Lieferant kann seine Leistungen mit VC
+bezahlen lassen, ohne dass er dadurch Bankgeschäfte oder Finanzdienstleistungen
+erbringt. Gleiches gilt für den Kunden. Ebenso stellt das Mining von VC an
+sich kein erlaubnispflichtiges Geschäft dar, da der „Miner“ die VC nicht
+selbst emittiert oder platziert. Auch der Verkauf selbst geschürfter oder 
+erworbener VC oder deren Ankauf sind grundsätzlich nicht erlaubnispflichtig.
 ```
 
 Sobald aber andere Umstände hinzutreten, kann eine erlaubnispflichtige Tägigkeit vorliegen:
 
 ```
-Treten jedoch weitere Umstände hinzu, kann der gewerbliche Umgang mit VC die Erlaubnispflicht nach dem KWG auslösen (Merkblatt Erlaubnis allgemein). Fehlt die erforderliche Erlaubnis, liegt in der Regel eine Straftat nach § 54 KWG vor. Typische Geschäftskonstellationen werden nachfolgend kurz dargestellt.
+Treten jedoch weitere Umstände hinzu, kann der gewerbliche Umgang mit VC 
+die Erlaubnispflicht nach dem KWG auslösen (Merkblatt Erlaubnis allgemein).
+Fehlt die erforderliche Erlaubnis, liegt in der Regel eine Straftat nach § 54 KWG vor.
+Typische Geschäftskonstellationen werden nachfolgend kurz dargestellt.
 ```
 Das Merkblatt der BaFin gibt es [hier](https://www.bafin.de/SharedDocs/Downloads/DE/Merkblatt/WA/dl_fidierlaubnis_buba.pdf?__blob=publicationFile&v=1).
 
