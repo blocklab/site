@@ -19,7 +19,7 @@ Die Blockchain Technologie ist sehr vielseitig  einsetzbar. Derzeit erproben die
 Schon Ende des vorigen Jahrhunderts konzipierte der Jurist und Computerwissenschaftler 
 [Nick Szabo(https://en.wikipedia.org/wiki/Nick_Szabo) Verträge die - im Gegensatz zu herkömmlichen Verträgen - nicht aus Texten auf Papier, sondern aus Programmcode in einem  Computernetz bestanden. Die verlockende Idee von *Szabo* bestand und besteht darin, dass dieses Verträge selbstausführend sind. Schon damals verknüpfte der Blockchain-Pionier dieses mit der Idee eine online Währung "bit gold" zu schaffen.
 
-Für Szabo ist alles sehr eng mit dem Recht insbesondere dem [Vertragsrecht](vertragsrecht.md) verbunden. 
+Für Szabo ist alles sehr eng mit dem [Recht](recht.md), insbesondere dem [Vertragsrecht](vertragsrecht.md) verbunden. 
 
 
 #  Smart Contracts: Automatenaufstellverträge  ...  in  der Chain?
