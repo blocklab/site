@@ -4,7 +4,7 @@ title: Kontakt
 permalink: /contact/
 ---
 
-info@blocklab.de
+info(at)blocklab.de
 
 blockLAB Stuttgart
 
