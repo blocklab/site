@@ -37,7 +37,7 @@ Forderungen, Schecks und anderen Handelspapieren, ein unmittelbares
 Zahlungsmittel zwischen denjenigen Wirtschaftsteilnehmern dar, 
 die sie akzeptieren.
 ```
-Dies bestätigt die von der BaFin vorgenommene Einordnung.
+Dies bestätigt die von der BaFin vorgenommene Einordnung. Der EuGH urteilte im weiteren, dass der Handel mit Bitcoin von der Umsatzsteuer befreit ist.
 
 
 
@@ -70,7 +70,9 @@ die Erlaubnispflicht nach dem KWG auslösen (Merkblatt Erlaubnis allgemein).
 Fehlt die erforderliche Erlaubnis, liegt in der Regel eine Straftat nach § 54 KWG vor.
 Typische Geschäftskonstellationen werden nachfolgend kurz dargestellt.
 ```
-Das Merkblatt der BaFin gibt es [hier](https://www.bafin.de/SharedDocs/Downloads/DE/Merkblatt/WA/dl_fidierlaubnis_buba.pdf?__blob=publicationFile&v=1).
+Das Merkblatt der BaFin gibt es [hier](https://www.bafin.de/SharedDocs/Downloads/DE/Merkblatt/WA/dl_fidierlaubnis_buba.pdf?__blob=publicationFile&v=1). 
+
+Diese Auffassung der BaFin ist allerdings nicht ohne Widerspruch geblieben. Namentlich Lauffenberg hat in dem Beitrag "Bitcoins als Rechnungseinheiten", in: Neue Zeitschrift für Verwaltungsrecht (NVwZ), 17/2015, S. 1184-1187 eine Gegenmeinung dargelegt.
 
 
 
