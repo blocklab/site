@@ -2,10 +2,11 @@
   {% include nav.html %}
   <div class="jumbotron jumbotron-panel">
     <div class="container">
-      <div class="jumbotron-intro">
+      <div class="jumbotron-panel__intro">
         <h1>Wir sind {{ site.author.name }}</h1>
         <h3>Das Netzwerk für Blockchain-Technologie in der Region Stuttgart</h3>
-        <a href="{{ '/about' | prepend: site.baseurl }}">Mehr erfahren</a>
+        <a class="jumbotron-panel__a"
+           href="{{ '/about' | prepend: site.baseurl }}">Mehr erfahren</a>
       </div>
     </div>
   </div>
