@@ -20,9 +20,9 @@ permalink: /team/
 #### GESCHÄFTSMODELLE, STRATEGIE, VENTURE, IOT
 
 <img src="/assets/images/team/jochen.jpg" alt="Portrait Jochen" class="team__portrait">
-Jochen studierte Architektur an der Universität Stuttgart und beschäftigt sich seit Mitte der 90er Jahre mit dem Internet. Nach einem Aufenthalt in der US-amerikanischen Dot.Com Industrie um die Jahrtausendwende arbeitete er über zehn Jahre als Management- und Organisationsberater in der Automobil- und IT-Industrie. Im Frühjahr 2016 nahm er erfolgreich am MOOC DFIN 511 „Digital Currencies“ der University of Nicosia teil. Seine Begeisterung für die Internet- und Blockchaintechnologie führten dazu, blockLAB Stuttgart Anfang 2016 mit zu gründen.
+Jochen studierte Architektur an der Universität Stuttgart und beschäftigt sich seit Mitte der 90er Jahre mit dem Internet. Nach einem Aufenthalt in der US-amerikanischen Dot.Com Industrie um die Jahrtausendwende arbeitete er über zehn Jahre als Management- und Organisationsberater in der Automobil-Industrie. Im Frühjahr 2016 nahm er erfolgreich am MOOC DFIN 511 „Digital Currencies“ der University of Nicosia teil. Seine Begeisterung für die Weiterentwicklung des Internets und die Blockchain-Technologie führten dazu, blockLAB Stuttgart Anfang 2016 mit zu gründen.
 
-Links: [transform management & beratung](http://www.transformmanagement.de/unternehmen/)
+Kontakt: kassberger(at)blocklab.de
 
 ---
 
