@@ -57,7 +57,7 @@ ist aber bei Smart Contracts das [Zivilrecht bzw. Privatrecht](vertragsrecht.md)
 # Verfassung ganz oben: Die vertikale Ordnung der Rechtsnormen
 
 
-Deutschland ist ein Bundesstaat. Die Länder sind eigenständige Rechtspersönlichkeiten (Rechtssubjekte). Das macht den Aufbau etwas komplizierter:
+Deutschland ist ein Bundesstaat. Die Länder sind eigenständige Rechtspersönlichkeiten (Rechtssubjekte). Das macht den Aufbau etwas komplizierter. Die jeweils untergeordneten Normen dürfen den übergeordneten Normen nicht widersprechen. Man sieht: Das Grundgesetz steht ganz oben. Gegen die Verfassung darf keine Norm verstossen.
 
 ## Bundesebene:
                           Verfassung (Grundgesetz)
