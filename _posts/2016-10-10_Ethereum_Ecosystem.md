@@ -4,7 +4,9 @@ title: "Das Ethereum Ökosystem"
 ---
 
 Von Dennis Schlegel, 10.10.2016
+
 <br>
+
 Im September fand die BlockchainWeek, die weltweit größte Blockchain-Entwicklerkonferenz, in Shanghai statt. Die Konferenz beinhaltete unter anderem Ethereums eigene dreitägige Konferenz, Devcon2. Insgesamt nahmen hier knapp 1.000 Entwickler teil, darunter auch Vertreter aus dem Bankensektor, der Industrie und zahlreichen weiteren Branchen. Die Veranstaltung hat verdeutlicht: das Ökosystem um die Ethereum Blockchain wächst.  
 <br>
 Ein Business Ökosystem wird nach J. Moore (1993) wie folgt definiert: „an economic community supported by a foundation of interacting organizations and individuals—the organisms of the business world.“ Das Fundament in Ethereum’s Okösystem bildet die Ethereum Blockchain, die als dezentrale Rechenplattform Smart Contracts ermöglicht. In diesem System, das Analogien zu einem biologischen Organismus aufweist, sind alle Netzwerkteilnehmer durch die digitale Währung Ether verbunden, die als eine Art Treibstoff peer-to-peer Transaktionen ermöglicht. 
@@ -19,7 +21,7 @@ Der nächste Meilenstein in Ethereums Entwicklungsphase, Metropolis, zielt auf d
 
 <br>
 
-Interessante Unternehmen aus dem Ethereum Ecosystem
+Interessante Unternehmen aus dem Ethereum Ökosystem
 
 * [ETHCORE](https://ethcore.io/)
 * [Deloitte](http://www2.deloitte.com/uk/en/pages/innovation/articles/blockchain.html)
