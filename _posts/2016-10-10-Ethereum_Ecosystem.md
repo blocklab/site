@@ -3,6 +3,8 @@ layout: post
 title: "Das Ethereum Ökosystem"
 ---
 
+<img src="/assets/images/ethereum_intro.jpg" alt="Ethereum">
+<br>
 Von Dennis Schlegel
 
 <br>
