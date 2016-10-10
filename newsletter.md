@@ -33,18 +33,22 @@ Nachrichten zu Ethereum, blockchain technology, decentralized computing
 ### Kalenderwoche 40, 01.10. - 07.10.2016
 
 **Dubai: Regierungsdokumente sollen bis 2020 auf der Blockchain verwaltet werden - BTC 06.10.2016**
+<br>
 Nicht nur in China wird das strategische Potential der Blockchain-Technologie im Zusammenhang mit Smart Cities erkannt (siehe blockNEWS vom 26.09.2016 - Wanxiang). Auch Dubai sieht die Technologie als wichtiger strategischer Baustein und will eine eigene Blockchain-Plattform entwickeln. Darauf sollen unter anderem zukünftig Regierungsdokumente verwaltet werden.
 [zum Artikel](https://www.btc-echo.de/dubai-2020-blockchain-plaene/)
 
 **Richard Branson spricht über Wichtigkeit der Blockchain-Technologie - CT 05.10.2016**
+<br>
 Auf dem Virgin Disruptors Event in London sprach der Virgin-Gründer wie wichtig die Blockchain-Technologie in Bezug auf das zukünftige Daten- und Identitätsmanagement werden wird. Nach seiner Überzeugung wird die Technologie zahlreiche Industrien revolutionieren.  
 [zum Artikel](https://cointelegraph.com/news/richard-branson-to-virgin-disruptors-blockchain-will-lead-economic-revolution)
 
 **IBM investiert 200 Millionen US Dollar in IoT-Blockchain - BTC 05.10.2016**
+<br>
 Das amerikanische Unternehmen kündigte die Eröffnung eines Büros in München an. Dort will IBM zukünftig Blockchain IoT-Lösungen mit bis zu 1.000 Mitarbeitern entwickeln. 
 [zum Artikel](https://www.btc-echo.de/ibm-investiert-200-millionen-us-dollar-in-deutsches-blockchain-iot-office/)
 
 **Anwälte gründen Digital Currency and Ledger Defense Coalition (DCLDC) - CD 03.10.2016**
+<br>
 Führende Blockchain-Anwälte haben sich zur DCLDC zusammengeschlossen.
 [zum Artikel](http://www.coindesk.com/50-attorneys-form-blockchain-legal-defense-coalition/)
 
