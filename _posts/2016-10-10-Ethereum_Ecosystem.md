@@ -38,20 +38,35 @@ Der nächste Meilenstein in Ethereums Entwicklungsphase, Metropolis, zielt auf d
 **Interessante Unternehmen aus dem Ethereum Ökosystem**
 
 <br>
-* [ETHCORE](https://ethcore.io/) - Ethereum Browser <br>
-* [Deloitte](http://www2.deloitte.com/uk/en/pages/innovation/articles/blockchain.html) - Blockchain-Beratungsdienstleistung <br>
-* [R3](https://r3cev.com) - Führendes Blockchain-Konsortium der Finanzindustrie <br>
-* [Microsoft Azure](https://azure.microsoft.com/en-us/solutions/blockchain/) - Blockchain as a Service (BaaS) Angebot <br>
-* [CONSENSYS](https://consensys.net) - Etehereum-Blockchain Incubator <br>
-* [TRANSACTIVEGRID](http://transactivegrid.net/) - Peer-to-Peer Energiehandel <br>
-* [ujoMUSIK](http://ujomusic.com/) - Direktvermarktung von Musikinhalten <br>
-* [BALANCE](http://balanc3.net) - Dezentrale Buchhaltung ("Triple-Entry Accounting system") <br>
-* [GNOSIS](https://www.gnosis.pm/) - Dezentrale Prognosemärkte <br>
-* [BoardRoom](http://boardroom.to/) - Dezentrale Plattform zur Organisationsverwaltung <br>
-* [dappSTORE](http://dappstore.io) - Markt für dezentrale Applikationen <br>
-* [EX](https://etherex.org/) - Dezentrale Handelsplattform für Kryptowährungen <br>
-* [AKASHA](http://akasha.world/) - Dezentrales Social Media Netzwerk <br>
-* [WeiFund](http://weifund.io/) - Crowdfundingplattform auf der Ethereum-Blockchain <br>
-* [Singular](https://singulardtv.com/) - Entertainmentplattform <br>
+* [ETHCORE](https://ethcore.io/) - Ethereum Browser 
+<br>
+* [Deloitte](http://www2.deloitte.com/uk/en/pages/innovation/articles/blockchain.html) - Blockchain-Beratungsdienstleistung 
+<br>
+* [R3](https://r3cev.com) - Führendes Blockchain-Konsortium der Finanzindustrie 
+<br>
+* [Microsoft Azure](https://azure.microsoft.com/en-us/solutions/blockchain/) - Blockchain as a Service (BaaS) Angebot 
+<br>
+* [CONSENSYS](https://consensys.net) - Etehereum-Blockchain Incubator 
+<br>
+* [TRANSACTIVEGRID](http://transactivegrid.net/) - Peer-to-Peer Energiehandel 
+<br>
+* [ujoMUSIK](http://ujomusic.com/) - Direktvermarktung von Musikinhalten 
+<br>
+* [BALANCE](http://balanc3.net) - Dezentrale Buchhaltung ("Triple-Entry Accounting system") 
+<br>
+* [GNOSIS](https://www.gnosis.pm/) - Dezentrale Prognosemärkte 
+<br>
+* [BoardRoom](http://boardroom.to/) - Dezentrale Plattform zur Organisationsverwaltung 
+<br>
+* [dappSTORE](http://dappstore.io) - Markt für dezentrale Applikationen 
+<br>
+* [EX](https://etherex.org/) - Dezentrale Handelsplattform für Kryptowährungen 
+<br>
+* [AKASHA](http://akasha.world/) - Dezentrales Social Media Netzwerk 
+<br>
+* [WeiFund](http://weifund.io/) - Crowdfundingplattform auf der Ethereum-Blockchain 
+<br>
+* [Singular](https://singulardtv.com/) - Entertainmentplattform 
+<br>
 
 
