@@ -8,6 +8,7 @@ Von Dennis Schlegel
 <br>
 
 **Um die Ethereum-Blockchain herum entwickelt sich ein eigenes Ökosystem**
+
 <br>
 Im September fand die BlockchainWeek, die weltweit größte Blockchain-Entwicklerkonferenz, in Shanghai statt. Die Konferenz beinhaltete unter anderem Ethereums eigene dreitägige Konferenz, Devcon2. Insgesamt nahmen hier knapp 1.000 Entwickler teil, darunter auch Vertreter aus dem Bankensektor, der Industrie und zahlreichen weiteren Branchen. Die Veranstaltung hat verdeutlicht: das Ökosystem um die Ethereum Blockchain wächst.  
 
