@@ -24,19 +24,19 @@ Der nächste Meilenstein in Ethereums Entwicklungsphase, Metropolis, zielt auf d
 Interessante Unternehmen aus dem Ethereum Ökosystem
 
 * [ETHCORE](https://ethcore.io/) - Ethereum Browser
-* [Deloitte](http://www2.deloitte.com/uk/en/pages/innovation/articles/blockchain.html)
-* [R3](https://r3cev.com)
-* [Microsoft Azure](https://azure.microsoft.com/en-us/solutions/blockchain/)
-* [CONSENSYS](https://consensys.net)
-* [TRANSACTIVEGRID](http://transactivegrid.net/)
-* [ujoMUSIK](http://ujomusic.com/)
-* [BALANCE](http://balanc3.net)
-* [GNOSIS](https://www.gnosis.pm/)
-* [BoardRoom](http://boardroom.to/)
-* [dappSTORE](http://dappstore.io)
-* [EX](https://etherex.org/)
-* [AKASHA](http://akasha.world/)
-* [WeiFund](http://weifund.io/)
-* [Singular](https://singulardtv.com/)
+* [Deloitte](http://www2.deloitte.com/uk/en/pages/innovation/articles/blockchain.html) - Blockchain-Beratungsdienstleistung
+* [R3](https://r3cev.com) - Führendes Blockchain-Konsortium der Finanzindustrie
+* [Microsoft Azure](https://azure.microsoft.com/en-us/solutions/blockchain/) - Blockchain as a Service (BaaS) Angebot
+* [CONSENSYS](https://consensys.net) - Etehereum-Blockchain Incubator
+* [TRANSACTIVEGRID](http://transactivegrid.net/) - Peer-to-Peer Energiehandel
+* [ujoMUSIK](http://ujomusic.com/) - Direktvermarktung von Musikinhalten
+* [BALANCE](http://balanc3.net) - Dezentrale Buchhaltung ("Triple-Entry Accounting system")
+* [GNOSIS](https://www.gnosis.pm/) - Dezentrale Prognosemärkte
+* [BoardRoom](http://boardroom.to/) - Dezentrale Plattform zur Organisationsverwaltung
+* [dappSTORE](http://dappstore.io) - Markt für dezentrale Applikationen
+* [EX](https://etherex.org/) - Dezentrale Handelsplattform für Kryptowährungen
+* [AKASHA](http://akasha.world/) - Dezentrales Social Media Netzwerk
+* [WeiFund](http://weifund.io/) - Crowdfundingplattform auf der Ethereum-Blockchain
+* [Singular](https://singulardtv.com/) - Entertainmentplattform
 
 
