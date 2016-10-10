@@ -23,7 +23,7 @@ Der nächste Meilenstein in Ethereums Entwicklungsphase, Metropolis, zielt auf d
 
 Interessante Unternehmen aus dem Ethereum Ökosystem
 
-* [ETHCORE](https://ethcore.io/)
+* [ETHCORE](https://ethcore.io/) - Ethereum Browser
 * [Deloitte](http://www2.deloitte.com/uk/en/pages/innovation/articles/blockchain.html)
 * [R3](https://r3cev.com)
 * [Microsoft Azure](https://azure.microsoft.com/en-us/solutions/blockchain/)
