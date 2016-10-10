@@ -36,7 +36,7 @@ permalink: /links/
 * [Ethereum Foundation](https://www.ethereum.org/foundation)
   
 ### Blockchain Technology & Programming
-* [Linktext](http://www.spiegel.de)
+* ...
 
 ### Smart Contracts - Blockchain and Law
 * [Smart Contracts Contracts, N. Szabo](http://szabo.best.vwh.net/smart_contracts_idea.html)  
@@ -46,7 +46,7 @@ permalink: /links/
 * [Bitcoin Series 24: Master Blockchain List](http://ledracapital.com/blog/2014/3/11/bitcoinhttp://ledracapital.com/blog/2014/3/11/bitcoin-series-24-the-mega-master-blockchain-list)
 
 ### Blockchain & The Internet Of Things
-* [Linktext](http://www.spiegel.de)
+* ...
 
 ### Money, Banks & FinTech
 * [Nick Szabo : Shelling Out – The Origins of Money](http://szabo.best.vwh.net/shell.html)
