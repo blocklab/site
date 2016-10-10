@@ -64,6 +64,7 @@ Links: [YOPITER GmbH](http://www.yopiter.com), [WunderNova](http://www.wundernov
 
 #### GESCHÄFTSMODELLE, IOT, VENTURE
 
+<img src="/assets/images/team/dennis.jpg" alt="Portrait Dennis" class="team__portrait">
 Dennis ist in China aufgewachsen, studierte Wirtschaftssinologie und später International Business Development an der ESB Business School. Er ist ein  Blockchain-Enthusiast und beschäftigt sich in seiner beruflichen Tätigkeit bei einem Technologieunternehmen der Region mit den Themen IoT und neuen Geschäftsmodellen in verschiedenen Branchen.
 
 Kontakt: dennis(at)blocklab.de
