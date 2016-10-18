@@ -30,6 +30,34 @@ Nachrichten zu Ethereum, blockchain technology, decentralized computing
 
 <br>
 
+### Kalenderwoche 41, 08.10. - 14.10.2016
+
+**Das Ethereum Ökosystem - BL 10.10.2016**
+<br>
+Die Ethereum Blockchain ist nach Bitcoin die zweitwertvollste öffentliche Blockchain. Um sie herum hat sich ein Ökosystem entwickelt, das aus etablierten Unternehmen wie die großen Wirtschaftsprüfungsfirmen und aus zahlreichen Start-ups besteht.
+<br>
+[zum Artikel](http://site.blocklab.de/2016/Ethereum_Ecosystem/)
+
+**Das Hyperledger Projekt wächst weiter - GD 13.10.2016**
+<br>
+Das von der Linux-Foundation geführte Hyperledger Projekt hat inzwischen 85 Mitglieder und ist in den letzten sechs Monaten um fast 200% gewachsen. Unter anderen Unternehmen sind inzwischen Airbus und die Bank BNP Paribas Teil des Projekts.
+<br>
+[zum Artikel](https://godistributed.com/articles/the-hyperledger-project-continues-to-grow-rapidly-executive-director-brian-behlendorf-elaborates-on-strategy-and-goals/)
+
+**DARPA testet Blockchain-Technologie zur Absicherung von Militärinfrastruktur - HEISE 13.10.2016**
+<br>
+„Nach der Finanzwelt nimmt nun auch das US-Militär die verteilte und vielfach gehypte Datenbank Blockchain ins Visier. Die Pentagon-Forschungsagentur DARPA (Defense Advanced Research Projects Agency) will mit der Basistechnik für Kryptowährungen wie Bitcoin gegebenenfalls Atomraketen, Überwachungssatelliten oder Flugzeugsteuerungen vor Hackern schützen.“
+<br>
+[zum Artikel](https://www.heise.de/security/meldung/Pentagon-Forschungsarm-will-mit-der-Blockchain-Militaersysteme-absichern-3349197.html)
+
+**TED Vortrag zur Blockchain-Technologie - TED Juni 2016**
+<br>
+In einem 18 Minuten langen Vortrag beschreibt der Innovations-Guru Don Tapscott in einfachen Worten, warum die Blockchain-Technologie so weitreichende Auswirkungen auf das Internet der Zukunft haben wird.
+<br>
+[zum Artikel](https://www.ted.com/talks/don_tapscott_how_the_blockchain_is_changing_money_and_business#t-18602)
+
+<br>
+
 ### Kalenderwoche 40, 01.10. - 07.10.2016
 
 **Dubai: Regierungsdokumente sollen bis 2020 auf der Blockchain verwaltet werden - BTC 06.10.2016**
