@@ -5,7 +5,7 @@ title: "Workshop: Einführung in die Smart Contract Programmierung"
 
 ## Mittwoch 02.11.2016, 19 - 22h
 
-### Stuttgart (genauer Ort wird noch bekannt gegeben)
+### Coworking Stuttgart, Gutenbergstraße 77a, 70197 Stuttgart
 
 Smart Contracts sind Computerprotokolle, die die Logik vertraglicher Regelungen technisch abbilden. Hierdurch werden viele Arten von Vertragsklauseln selbst ausführbar und/oder selbst durchsetzbar. Die Grundlagen der Theorie und die Umsetzung in der Praxis werden in diesem Workshop vermittelt.
 
@@ -26,4 +26,4 @@ Die Inhalte sind auch für Teilnehmer ohne Programmierkenntnisse verständlich u
 
 Die Kosten des Workshops betragen 20,- € für Privatpersonen und 260,- € für Unternehmen. Durchgeführt wird der Workshop von der YOPITER GmbH, Stuttgart.
 
-Interessierte wenden sich bitte per E-Mail an info@blocklab.de
+Interessierte wenden sich bitte per E-Mail mit ihren Kontaktdaten und dem Hinweis, ob sie als Privatperon oder über ein Unternehmen teilnehmen möchten an info@blocklab.de
