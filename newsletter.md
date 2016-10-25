@@ -30,6 +30,34 @@ Nachrichten zu Ethereum, blockchain technology, decentralized computing
 
 <br>
 
+### Kalenderwoche 42, 15.10. - 22.10.2016
+
+**Interne Schwierigkeiten im R3-Konsortium? - BT 18.10.2016**
+<br>
+Im R3-Konsortium, das mehr als 60 Unternehmen der Finanzindustrie umfasst, scheint es interne Spannungen zu geben. Nachdem Morgan Stanley und Goldman Sachs eigene Blockchain-Patente angemeldet haben, ist der Fortbestand der R3-Blockchain Corda in Frage gestellt.
+<br>
+[zum Artikel](http://www.bankingtech.com/612342/trouble-in-the-r3-paradise/)
+
+**Versicherungsunternehmen gründen Blockchain-Initiative - HO 20.10.2016**
+<br>
+„Die fünf Versicherungskonzerne Aegon, Allianz, Munich Re, Swiss Re und Zurich haben eine gemeinsame Initiative für Blockchain-Technik gegründet. Das Projekt mit dem Namen B3i (Blockchain Insurance Industry Initiative) soll ausloten, wie die verteilten Datenbanken, die etwa Grundlage des Bitcoin sind, Versicherungen effizienter machen können.“
+<br>
+[zum Artikel](https://www.heise.de/newsticker/meldung/B3i-Allianz-und-andere-Versicherungsriesen-gruenden-Blockchain-Initiative-3355409.html)
+
+**Angriffe auf Ethereum halten auch nach Hard Fork an - BTC 20.10.2016**
+<br>
+„Auch wenn bei der gestrigen Ethereum Hard Fork soweit alles nach Plan verlief, laufen die Blockchain-Angriffe wie gewohnt weiter. (…)Die Entwickler arbeiten derzeit laut Hudson Jamson von der Ethereum Foundation an einer Lösung.“
+<br>
+[zum Artikel](https://www.btc-echo.de/trotz-ethereum-hard-fork-weitere-blockchain-angriffe/)
+
+**Über 100 Blockchain Projekte bei Tata IT Consultancy - BTC 20.10.2016**
+<br>
+„CEO Chandrasekaran erklärte in einem Interview gegenüber dem indischen Magazin The Economic Times, dass TCS an einer großen Bandbreite an Blockchain-Projekten forsche. Wie dem Transkript zu entnehmen ist, handelt es sich dabei um insgesamt mehr als 100 Prototypen, an denen die IT-Berater arbeiten.“
+<br>
+[zum Artikel](https://www.btc-echo.de/tata-it-consultancy-arbeitet-an-100-blockchain-projekten/)
+
+<br>
+
 ### Kalenderwoche 41, 08.10. - 14.10.2016
 
 **Das Ethereum Ökosystem - BL 10.10.2016**
