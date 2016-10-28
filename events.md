@@ -21,7 +21,7 @@ Dienstag, 20.11.2016, 19:00h, Coworking Stuttgart, Gutenbergstraße 77a, 70197 S
 
 [Einführung in die Smart Contract Programmierung]({% post_url 2016-09-25-introduction-smart-contracts %})
 
-Donnerstag 27.10.2016, 19-22h
+Mittwoch 02.11.2016, 19-22h
 
 <br>
 
