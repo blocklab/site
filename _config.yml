@@ -2,12 +2,12 @@
 title: "block"
 title2: "LAB" # default: ""
 description: "Das Netzwerk für Blockchain Technologie in der Region Stuttgart"
-keywords: "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
+keywords: "Blockchain, Bitcoin, Ethereum, Stuttgart"
 url: http://site.blocklab.de
 baseurl: ""
 
 google_analytics: UA-86796222-1
-repo: http://github.com/blab/site
+repo: http://github.com/blocklab/site
 
 # Build settings
 permalink   : /:year/:title/
