@@ -17,9 +17,9 @@ Dienstag, 20.11.2016, 19:00h, Coworking Stuttgart, Gutenbergstraße 77a, 70197 S
 
 <br>
 
-## Anstehende Workshops
+## Workshops
 
-[Einführung in die Smart Contract Programmierung]({% post_url 2016-09-25-introduction-smart-contracts %})
+[Einführung in die Smart Contract Programmierung - durchgeführt]({% post_url 2016-09-25-introduction-smart-contracts %})
 
 Mittwoch 02.11.2016, 19-22h
 
@@ -34,7 +34,7 @@ Montag 28. bis Mittwoch 30.11.2016, Börse Stuttgart und L-Bank Stuttgart
 <br>
 
 
-DAppHack (Details folgen)
+[DAppHack](https://www.eventbrite.de/e/dapphack-registration-29070767448?aff=es2)
 
-Freitag 25. bis Sonntag 27.11.2016, Berlin
+Samstag 26. bis Sonntag 27.11.2016, Berlin
 
