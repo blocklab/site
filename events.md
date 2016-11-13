@@ -15,7 +15,9 @@ Dienstag, 20.12.2016, 19:00h, Coworking Stuttgart, Gutenbergstraße 77a, 70197 S
 ## Teilnahme an Hackathons
 
 [DAppHack - 26-27.11.2016 Berlin](https://www.eventbrite.de/e/dapphack-registration-29070767448?aff=es2)
+
 [POST /bank hackathons //2016 - 25-27.11.2016 Stuttgart](http://hack.institute/events/post/bank/wo/stuttgart/)
+
 [FinTech-Hackathon Stuttgart - 28-30.11.2016 Börse Stuttgart und L-Bank Stuttgart](https://www.stuttgart-financial.de/netzwerk/fintech-days/bankathon0/)
 
 ## Vergangene Workshops

@@ -37,7 +37,9 @@ permalink: /links/
 * [Bitcoin Series 24: Master Blockchain List](http://ledracapital.com/blog/2014/3/11/bitcoinhttp://ledracapital.com/blog/2014/3/11/bitcoin-series-24-the-mega-master-blockchain-list)
 
 ### Blockchain & The Internet Of Things
-* ...
+* [TechCrunch: "Decentralizing IoT networks through blockchain"](https://techcrunch.com/2016/06/28/decentralizing-iot-networks-through-blockchain/)
+* [Chain of Things](http://www.chainofthings.com)
+* [IOTA Tangle](https://www.iotatoken.com)
 
 ### Money, Banks & FinTech
 * [Nick Szabo : Shelling Out – The Origins of Money](http://szabo.best.vwh.net/shell.html)
