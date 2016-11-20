@@ -4,13 +4,17 @@ title: Events
 permalink: /events/
 ---
 
-**Nächste Meetups Ethereum, blockchain technology, decentralized computing in Stuttgart**
+## Nächste Meetups Ethereum, blockchain technology, decentralized computing in Stuttgart
 
 Donnerstag, 24.11.2016, 19:00h, Coworking Stuttgart, Gutenbergstraße 77a, 70197 Stuttgart
 [zur Meetup-Seite](http://www.meetup.com/de-DE/Ethereum-blockchain-technology-decentralized-computing/events/232471393/)
 
 Dienstag, 20.12.2016, 19:00h, Coworking Stuttgart, Gutenbergstraße 77a, 70197 Stuttgart
 [zur Meetup-Seite](http://www.meetup.com/de-DE/Ethereum-blockchain-technology-decentralized-computing/events/232471431/)
+
+## Workshops
+
+Donnerstag, 15.12.2016 19-22Uhr [Workshop - Einführung in die Smart Contract Programmierung]({% post_url 2016-11-20-introduction-smart-contracts %})
 
 ## Teilnahme an Hackathons
 
