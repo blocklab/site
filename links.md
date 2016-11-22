@@ -69,6 +69,8 @@ permalink: /links/
 
 #### MOOC DFIN-511 Introduction To Crypto Currency
 
+[MOOC DFIN-511](http://digitalcurrency.unic.ac.cy/)
+
 1. [A (brief) history of money](https://db.tt/yqorTxjh) 
 2. [Byzantine Generals Problem](https://db.tt/BcYGaVB8) 
 3. [Basics of Cryptocurrency](https://db.tt/Yqlx9DvW) 
