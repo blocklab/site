@@ -49,6 +49,7 @@ Wie kaum ein anderes Unternehmen setzt IBM auf die Blockchain. Neben Anwendungen
 
 
 **R3 Baken testen Blockchain Identitätsdienst - CD 11.11.2016**
+<br>
 Zehn Mitgliedsbanken des R3-Konsortiums haben einen neu entwickelten Identitätsdienst für die Kundenidentifikation (KYC) getestet.
 <br>
 [zum Artikel](http://www.coindesk.com/r3-banks-trial-blockchain-identity-registry/)
