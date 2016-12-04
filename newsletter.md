@@ -32,6 +32,12 @@ Nachrichten zu Ethereum, blockchain technology, decentralized computing
 
 ### Blockchain in der KW45 (05.11. - 11.11.2016): Einsatz in sechs Jahren oder riesen Potentiale heute?
 
+**R3 Baken testen Blockchain Identitätsdienst - CD 11.11.2016**
+<br>
+Zehn Mitgliedsbanken des R3-Konsortiums haben einen neu entwickelten Identitätsdienst für die Kundenidentifikation (KYC) getestet.
+<br>
+[zum Artikel](http://www.coindesk.com/r3-banks-trial-blockchain-identity-registry/)
+
 **Deutsche Bank Report sieht breiten Blockchain-Einsatz in sechs Jahren - CD 10.11.2016**
 <br>
 Dem Report liegt eine Umfrage unter 200 Finanzunternehmen zugrunde. Die Umfrageteilnehmer sehen einen potentiellen Einfluss der Blockchain-Technologie und halten einen verbreiteten Einsatz innerhalb der nächsten sechs Jahren für sehr wahrscheinlich.
@@ -40,19 +46,11 @@ Dem Report liegt eine Umfrage unter 200 Finanzunternehmen zugrunde. Die Umfraget
 <br>
 [zum Report](https://www.db.com/newsroom_news/Deutsche_Bank_Investor_Report.pdf)
 
-
 **Warum IBM auf Blockchain-Technologie setzt - FL 10.11.2016**
 <br>
 Wie kaum ein anderes Unternehmen setzt IBM auf die Blockchain. Neben Anwendungen aus der Bankenwelt arbeitet das Unternehmen an Loyalty-Lösungen und Bond-Trading auf Blockchain-Basis. CEO Virginia Rometty verglich das Potential der Technologie vor Kurzem mit dem des Internets.
 <br>
 [zum Artikel](http://www.fool.com/investing/2016/11/10/why-ibm-is-betting-big-on-blockchain.aspx)
-
-
-**R3 Baken testen Blockchain Identitätsdienst - CD 11.11.2016**
-<br>
-Zehn Mitgliedsbanken des R3-Konsortiums haben einen neu entwickelten Identitätsdienst für die Kundenidentifikation (KYC) getestet.
-<br>
-[zum Artikel](http://www.coindesk.com/r3-banks-trial-blockchain-identity-registry/)
 
 <br>
 
@@ -64,26 +62,22 @@ Die Digitalisierung durchdringt zunehmend auch dokumentengetriebene Vorgänge, o
 <br>
 [zum Artikel](https://www.springerprofessional.de/bank-it/wirtschaftsinformatik/kosten-sparen-mit-der-blockchain/11014000)
 
-
 **„Datenverschlüsselung in einer neuen Dimension - 03.11.2016**
 <br>
 Während wir bisher Blockchain als Technologie zur Übertragung von internet-basierten, verschlüsselten (sog. kryptischen) Informationen für Transaktionen und Zahlungsvorgänge kennen lernten, forciert nun das israelisches Start-Up Unternehmen Synereo [www.synereo.com](http://www.synereo.com) den dezentralen Grundgedanken des Internets.“
 <br>
 [zum Artikel](http://www.focus.de/digital/experten/blockchain-datenverschluesselung-in-einer-neuen-dimension_id_6151476.html)
 
-
 **„Blockchain: Schweizer Banken in der Zwickmühle - 02.11.2016**
 Die Banken stecken (..) bei der Blockchain-Frage in der Zwickmühle: Entweder sie lassen die aufstrebende Technik und ihre Anwendungsmöglichkeiten links liegen und werden in manchen Bereichen überflüssig. Oder sie nutzen Blockchain und müssen ihr Geschäftsmodell anpassen.“
 <br>
 [zum Artikel](https://www.cash.ch/news/politik/blockchain-schweizer-banken-der-zwickmuhle-506783)
-
 
 **„Die Vision eines dezentralen Handelsplatzes und die Rolle von Napster - 01.11.2016**
 <br>
 Dezentraler Handel bietet die Möglichkeit den Handel mit nicht-kotierten Papieren bzw. OTC’s zu vereinfachen. Um dies zu verwirklichen müssen die Compliance, die Machbarkeit und der Marktplatz überprüft werden. Mit Hilfe von sogenannten Smart Contracts und der neuen Technologie Blockchain in Kombination mit einem Tauschbörsen-Ansatz könnte dies realisiert werden.“
 <br>
 [zum Artikel](https://www.der-bank-blog.de/blockchain-im-otc-handel/technologie/24161/)
-
 
 **„Allianztochter geht Partnerschaft mit Blockchain Startup Fluent ein - 30.10.2016**
 <br>
