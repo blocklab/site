@@ -30,6 +30,31 @@ Nachrichten zu Ethereum, blockchain technology, decentralized computing
 
 <br>
 
+### Blockchain in der KW45 (05.11. - 11.11.2016): Einsatz in sechs Jahren oder riesen Potentiale heute?
+
+**Deutsche Bank Report sieht breiten Blockchain-Einsatz in sechs Jahren - CD 10.11.2016**
+<br>
+Dem Report liegt eine Umfrage unter 200 Finanzunternehmen zugrunde. Die Umfrageteilnehmer sehen einen potentiellen Einfluss der Blockchain-Technologie und halten einen verbreiteten Einsatz innerhalb der nächsten sechs Jahren für sehr wahrscheinlich.
+<br>
+[zum Artikel](http://www.coindesk.com/deutsche-bank-capital-markets-expect-blockchain-impact-within-6-years/)
+<br>
+[zum Report](https://www.db.com/newsroom_news/Deutsche_Bank_Investor_Report.pdf)
+
+
+**Warum IBM auf Blockchain-Technologie setzt - FL 10.11.2016**
+<br>
+Wie kaum ein anderes Unternehmen setzt IBM auf die Blockchain. Neben Anwendungen aus der Bankenwelt arbeitet das Unternehmen an Loyalty-Lösungen und Bond-Trading auf Blockchain-Basis. CEO Virginia Rometty verglich das Potential der Technologie vor Kurzem mit dem des Internets.
+<br>
+[zum Artikel](http://www.fool.com/investing/2016/11/10/why-ibm-is-betting-big-on-blockchain.aspx)
+
+
+**R3 Baken testen Blockchain Identitätsdienst - CD 11.11.2016**
+Zehn Mitgliedsbanken des R3-Konsortiums haben einen neu entwickelten Identitätsdienst für die Kundenidentifikation (KYC) getestet.
+<br>
+[zum Artikel](http://www.coindesk.com/r3-banks-trial-blockchain-identity-registry/)
+
+<br>
+
 ### Blockchain in der KW44 (15.10. - 22.10.2016): Kostensenkung, Banken, Versicherungen und eine neue Dimension der Datenverschlüsselung
 
 **„Kosten senken mit der Blockchain - 04.11.2016**
