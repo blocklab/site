@@ -30,6 +30,42 @@ Nachrichten zu Ethereum, blockchain technology, decentralized computing
 
 <br>
 
+### Blockchain in der KW44 (15.10. - 22.10.2016): Kostensenkung, Banken, Versicherungen und eine neue Dimension der Datenverschlüsselung
+
+**„Kosten senken mit der Blockchain - 04.11.2016**
+<br>
+Die Digitalisierung durchdringt zunehmend auch dokumentengetriebene Vorgänge, ob im IT-Prozessmanagement von Unternehmen oder bei Banken. Wie die Blockchain die digitale Vertragsabwicklung beschleunigt.“
+<br>
+[zum Artikel](https://www.springerprofessional.de/bank-it/wirtschaftsinformatik/kosten-sparen-mit-der-blockchain/11014000)
+
+
+**„Datenverschlüsselung in einer neuen Dimension - 03.11.2016**
+<br>
+Während wir bisher Blockchain als Technologie zur Übertragung von internet-basierten, verschlüsselten (sog. kryptischen) Informationen für Transaktionen und Zahlungsvorgänge kennen lernten, forciert nun das israelisches Start-Up Unternehmen Synereo [www.synereo.com](www.synereo.com) den dezentralen Grundgedanken des Internets.“
+<br>
+[zum Artikel](http://www.focus.de/digital/experten/blockchain-datenverschluesselung-in-einer-neuen-dimension_id_6151476.html)
+
+
+**„Blockchain: Schweizer Banken in der Zwickmühle - 02.11.2016**
+Die Banken stecken (..) bei der Blockchain-Frage in der Zwickmühle: Entweder sie lassen die aufstrebende Technik und ihre Anwendungsmöglichkeiten links liegen und werden in manchen Bereichen überflüssig. Oder sie nutzen Blockchain und müssen ihr Geschäftsmodell anpassen.“
+[zum Artikel](https://www.cash.ch/news/politik/blockchain-schweizer-banken-der-zwickmuhle-506783)
+
+
+**„Die Vision eines dezentralen Handelsplatzes und die Rolle von Napster - 01.11.2016**
+<br>
+Dezentraler Handel bietet die Möglichkeit den Handel mit nicht-kotierten Papieren bzw. OTC’s zu vereinfachen. Um dies zu verwirklichen müssen die Compliance, die Machbarkeit und der Marktplatz überprüft werden. Mit Hilfe von sogenannten Smart Contracts und der neuen Technologie Blockchain in Kombination mit einem Tauschbörsen-Ansatz könnte dies realisiert werden.“
+<br>
+[zum Artikel](https://www.der-bank-blog.de/blockchain-im-otc-handel/technologie/24161/)
+
+
+**„Allianztochter geht Partnerschaft mit Blockchain Startup Fluent ein - 30.10.2016**
+<br>
+Das Blockchain Startup Fluent arbeitet nun mit einem Unternehmen für Kreditversicherungen und der Allianztochter Euler Hermes zusammen. Nutzern sollen neue Möglichkeiten des trade finance, also der Investitionsfinanzierungen, geboten werden.“
+<br>
+[zum Artikel](https://www.btc-echo.de/allianztochter-geht-partnerschaft-mit-blockchain-startup-fluent-ein/)
+
+<br>
+
 ### Kalenderwoche 42, 15.10. - 22.10.2016
 
 **Interne Schwierigkeiten im R3-Konsortium? - BT 18.10.2016**
