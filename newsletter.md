@@ -41,7 +41,7 @@ Die Digitalisierung durchdringt zunehmend auch dokumentengetriebene Vorgänge, o
 
 **„Datenverschlüsselung in einer neuen Dimension - 03.11.2016**
 <br>
-Während wir bisher Blockchain als Technologie zur Übertragung von internet-basierten, verschlüsselten (sog. kryptischen) Informationen für Transaktionen und Zahlungsvorgänge kennen lernten, forciert nun das israelisches Start-Up Unternehmen Synereo [www.synereo.com](www.synereo.com) den dezentralen Grundgedanken des Internets.“
+Während wir bisher Blockchain als Technologie zur Übertragung von internet-basierten, verschlüsselten (sog. kryptischen) Informationen für Transaktionen und Zahlungsvorgänge kennen lernten, forciert nun das israelisches Start-Up Unternehmen Synereo [www.synereo.com](http://www.synereo.com) den dezentralen Grundgedanken des Internets.“
 <br>
 [zum Artikel](http://www.focus.de/digital/experten/blockchain-datenverschluesselung-in-einer-neuen-dimension_id_6151476.html)
 
