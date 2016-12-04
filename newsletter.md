@@ -48,6 +48,7 @@ Während wir bisher Blockchain als Technologie zur Übertragung von internet-bas
 
 **„Blockchain: Schweizer Banken in der Zwickmühle - 02.11.2016**
 Die Banken stecken (..) bei der Blockchain-Frage in der Zwickmühle: Entweder sie lassen die aufstrebende Technik und ihre Anwendungsmöglichkeiten links liegen und werden in manchen Bereichen überflüssig. Oder sie nutzen Blockchain und müssen ihr Geschäftsmodell anpassen.“
+<br>
 [zum Artikel](https://www.cash.ch/news/politik/blockchain-schweizer-banken-der-zwickmuhle-506783)
 
 
