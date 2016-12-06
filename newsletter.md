@@ -30,6 +30,40 @@ Nachrichten zu Ethereum, blockchain technology, decentralized computing
 
 <br>
 
+### Blockchain in der KW49: Blockchain Applikationen im Fokus - Siemens und der Hafen von Rotterdam sind dabei.
+
+**Siemens und US Startup LO3 entwickeln lokale Blockchain Energie-Handelsplattform - 21.11.2016**
+<br>
+Im Rahmen der Dezentralisierung des Energienetzes arbeitet Siemens in Partnerschaft mit US Startup LO3 zusammen, um eine lokale Energie-Handelsplattform auf der Blockchain zu entwickeln. Dabei bringt Siemens seine Kompetenz in das Projekt TransActive Grid in Brooklyn ein.
+<br>
+[zum Artikel](http://m.siemens.com/en/press/pressreleases/pressrelease.php?detail=http://www.siemens.com/press/en/pressrelease/2016/energymanagement/pr2016110080emen.htm?content%5B%5D=EM)
+
+**Der Hafen von Rotterdam testet Blockchain Logik - 30.11.2016**
+<br>
+In Holland startet ein neues Blockchain Konsortium mit Fokus auf die Logistikbranche. In den nächsten zwei Jahren möchten die Konsortiums-Mitglieder neue Applikationen implementieren, um logistische und vertragliche Informationen untereinander auszutauschen.
+<br>
+[zum Artikel](https://www.btc-echo.de/der-hafen-von-rotterdam-testet-blockchain-logistik/)
+
+**6 Blockchain Applikationen die über Bitcoin hinausgehen - 01.12.2016**
+<br>
+Kurze Intro zu 6 Blockchain Applikationen, die gegenwärtig genutzt werden: decentralized exchanges, distributed cloud storage, digital identity, supply chain communications, smart contracts, digital voting.
+<br>
+[zum Artikel](http://m.nasdaq.com/article/6-blockchain-applications-that-go-beyond-bitcoin-cm716269)
+
+**FinTech-Days Stuttgart Hackathon - ChaINsurance belegt 3. Platz - 05.12.2016**
+<br>
+Auf der Suche nach den besten Start-ups für Produkte im finanztechnologischen Bereich luden Stuttgart Financial, die Börse Stuttgart und die L-Bank zum Hackathon ein. Platz 3. ging an das Team ChaINsurance, eine Blockchain basierte peer-to-peer Versicherungsapplikation. Glückwunsch an Axel Hodler, Jan-Paul Buchwald und Jochen Kaßberger!
+<br>
+[zum Artikel](https://www.stuttgart-financial.de/netzwerk/fintech-days/)
+
+**Sind Blockchain-Patente eine schlechte Idee? - 01.12.2016**
+<br>
+Die Blockchain Technologie befindet sich an einem Scheideweg. Auf der einen Seite verpflichten sich Unternehmen und Initiativen wie Chain, R3 oder Hyperledger einen Open-Source Ansatz zu fahren. Auf der anderen Seite beantragen Global Players wie Goldman Sachs, Morgan Stanley oder Accenture vermehrt eigene Blockchain-Patente.
+<br>
+[zum Artikel](http://fortune.com/2016/12/01/blockchain-patents/)
+
+<br>
+
 ### Blockchain in der KW45 (05.11. - 11.11.2016): Einsatz in sechs Jahren oder riesen Potentiale heute?
 
 **R3 Baken testen Blockchain Identitätsdienst - CD 11.11.2016**
