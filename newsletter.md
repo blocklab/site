@@ -66,7 +66,7 @@ Die Blockchain Technologie befindet sich an einem Scheideweg. Auf der einen Seit
 
 ### Blockchain in der KW45 (05.11. - 11.11.2016): Einsatz in sechs Jahren oder riesen Potentiale heute?
 
-**R3 Baken testen Blockchain Identitätsdienst - CD 11.11.2016**
+**R3 Banken testen Blockchain Identitätsdienst - CD 11.11.2016**
 <br>
 Zehn Mitgliedsbanken des R3-Konsortiums haben einen neu entwickelten Identitätsdienst für die Kundenidentifikation (KYC) getestet.
 <br>
