@@ -64,6 +64,22 @@ Die Blockchain Technologie befindet sich an einem Scheideweg. Auf der einen Seit
 
 <br>
 
+### Blockchain in der KW47: Wie entwickelt sich das R3-Konsortium?
+
+**„Goldman Sachs schert aus - HB 22.11.2016**
+<br>
+Die US-Investmentbank Goldman Sachs gehört zu den Gründern von R3. Das Gemeinschaftsunternehmen entwickelt Konzepte zur Nutzung der Blockchain-Technologie. Doch jetzt zieht sich Goldman aus dem Projekt zurück.“
+<br>
+[zum Artikel](http://www.handelsblatt.com/unternehmen/banken-versicherungen/blockchain-technologie-goldman-sachs-schert-aus/14880368.html)
+
+**„Wackelt Blockchain-Konsortium der Banken? - IIT 22.11.2016**
+<br>
+42 Banken, darunter Credit Suisse und UBS kündigten an, Blockchain in einem Konsortium namens R3 testen zu wollen. Zwischenzeitlich wuchs das New Yorker Startup, das für die Mitglieder arbeitet, auf rund 70 Mitglieder. Aber das Konsortium wackelt nun offenbar, denn kurz nacheinander sind die beiden Giganten Goldman Sachs und Banco Santander wieder ausgetreten.“
+<br>
+[zum Artikel](http://www.inside-it.ch/articles/45740)
+
+<br>
+
 ### Blockchain in der KW46: Energiewirtschaft an Blockchain interessiert und sechs interessante Trends
 
 **Energiewirtschaft beschäftigt sich zunehmend mit Blockchain – 18.11.2016**
