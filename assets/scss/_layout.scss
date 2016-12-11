@@ -108,24 +108,52 @@ hr {
   min-height: 64px;
 }
 
-.navbar {
-  float: right;
+ul.navbar {
+  list-style-type: none;
   margin: 0;
-  position: relative;
   padding: 0;
-  pointer-events: all;
-  cursor: pointer;
+  overflow: hidden;
+}
 
-  li {
+ul.navbar li {float: right;}
+
+ul.navbar li a {
+  padding: 0 .6em;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+ul.navbar li a {
+  @extend .link;
+}
+
+ul.navbar li.icon {display: none;}
+
+@media screen and (max-width:680px) {
+  ul.navbar li {display: none;}
+  ul.navbar li.icon {
+    font-size: 1.3em;
+    float: right;
     display: inline-block;
-    padding: 0 .6em;
-  }
-
-  a {
-    @extend .link;
   }
 }
 
+@media screen and (max-width:680px) {
+  ul.navbar.responsive {position: relative;}
+  ul.navbar.responsive li.icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+  ul.navbar.responsive li {
+    float: none;
+    display: inline;
+  }
+  ul.navbar.responsive li a {
+    display: block;
+    text-align: left;
+  }
+}
 .post-list {
   background-color: lighten($light-gray-color, 17%);
 }
