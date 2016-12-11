@@ -77,7 +77,7 @@ Die Blockchain Technologie befindet sich an einem Scheideweg. Auf der einen Seit
 **Sechs Trends aus CoinDesks „State of Blockchain” - CD 17.11.2016**
 <br>
 1. Blockchain-Investments rückläufig
-2. So viel Blockchain Prrof-of-Concepts wie noch nie
+2. So viel Blockchain Proof-of-Concepts wie noch nie
 3. Top Cryptowährungen festigen ihre Marktposition
 4. Star-ups suchen sich Märkte jenseits von Bitcoin
 5. Bitcoin ist stark in den Medien vertreten, Blockchain holt auf
