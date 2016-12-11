@@ -64,6 +64,31 @@ Die Blockchain Technologie befindet sich an einem Scheideweg. Auf der einen Seit
 
 <br>
 
+### Blockchain in der KW46: Energiewirtschaft an Blockchain interessiert und sechs interessante Trends
+
+**Energiewirtschaft beschäftigt sich zunehmend mit Blockchain – 18.11.2016**
+<br>
+„Blockchain-Technologien besitzen demnach das Potenzial, etwa bei öffentlichen Lade- und Abrechnungstransaktionen für Elektrofahrzeuge das dominierende Design zu werden. Zu diesem Ergebnis kommt eine Analyse der Deutschen Energie-Agentur (dena) und der European School of Management and Technology (ESMT Berlin).“
+<br>
+[zum Artikel](http://www.euwid-energie.de/news/dossier/einzelansicht/Artikel/welche-potenziale-hat-die-blockchain-in-der-energiewirtschaft.html)
+<br>
+[zur Studie](https://www.dena.de/newsroom/meldungen/blockchain-energiewirtschaft-bereitet-sich-auf-neues-digitales-verfahren-fuer-transaktionen-vor/)
+
+**Sechs Trends aus CoinDesks „State of Blockchain” - CD 17.11.2016**
+<br>
+1. Blockchain-Investments rückläufig
+2. So viel Blockchain Prrof-of-Concepts wie noch nie
+3. Top Cryptowährungen festigen ihre Marktposition
+4. Star-ups suchen sich Märkte jenseits von Bitcoin
+5. Bitcoin ist stark in den Medien vertreten, Blockchain holt auf
+6. Zentralbanken interessieren sich für das Thema
+<br>
+[zum Artikel](http://www.coindesk.com/coindesk-research-state-blockchain-q3-six-takeaways/)
+<br>
+[zum Report](http://www.coindesk.com/research/state-of-blockchain-q3-2016/)
+
+<br>
+
 ### Blockchain in der KW45 (05.11. - 11.11.2016): Einsatz in sechs Jahren oder riesen Potentiale heute?
 
 **R3 Banken testen Blockchain Identitätsdienst - CD 11.11.2016**
