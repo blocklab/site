@@ -3,7 +3,7 @@ layout: post
 title: "Workshop: Einführung in die Smart Contract Programmierung am 15.12.2016"
 ---
 
-## Donnerstag 15.12.2016, 19-22 Uhr
+## Dienstag 24.01.2017, 19-22 Uhr
 
 ### Genauer Ort wird noch bekannt gegeben
 
