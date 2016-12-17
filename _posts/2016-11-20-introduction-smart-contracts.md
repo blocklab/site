@@ -23,7 +23,7 @@ Anforderungen
 * [Node.js](https://nodejs.org/) vorinstalliert. Anleitung für [Windows](https://nodejs.org/en/download/package-manager/#windows), [OSX](https://nodejs.org/en/download/package-manager/#osx) und [Alternativen](https://nodejs.org/en/download/package-manager/)
 * Weitere Anforderungen werden rechtzeitig bekanntgegeben.
 
-Die Inhalte sind auch für Teilnehmer ohne Programmierkenntnisse verständlich und ermöglichen somit einen kompakten Einblick in die Smart Contract Programmierung.
+Die Inhalte sind auch für Teilnehmer mit wenig Programmierkenntnissen verständlich und ermöglichen somit einen kompakten Einblick in die Smart Contract Programmierung.
 
 Die Kosten des Workshops betragen 20,- € für Privatpersonen und 260,- € für Unternehmen. Durchgeführt wird der Workshop von der YOPITER GmbH, Stuttgart.
 
