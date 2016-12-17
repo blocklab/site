@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Workshop: Einführung in die Smart Contract Programmierung am 24.01.2016"
+title: "Workshop: Einführung in die Smart Contract Programmierung am 24.01.2017"
 ---
 
 ## Dienstag 24.01.2017, 19-22 Uhr
