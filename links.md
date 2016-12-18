@@ -31,6 +31,7 @@ permalink: /links/
 
 ### Smart Contracts - Blockchain and Law
 * [Smart Contracts Contracts, N. Szabo](http://szabo.best.vwh.net/smart_contracts_idea.html)  
+* [Smart Contracts - 12 Use Cases, DCC, 12-2016](http://www.digitalchamber.org/smartcontracts.html)  
 
 ### Blockchain Investment & Venture
 * [Why Bitcoin Matters, Marc Andreessen](http://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/)
