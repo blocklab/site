@@ -29,7 +29,7 @@ permalink: /links/
 * [Fast Ethereum RPC client for testing and development](https://github.com/ethereumjs/testrpc)
 * [Solidity - Security considerations and Pitfalls](http://solidity.readthedocs.io/en/develop/security-considerations.html#pitfalls)
 
-### Smart Contracts - Blockchain and Law
+### Smart Contracts
 * [Smart Contracts Contracts, N. Szabo](http://szabo.best.vwh.net/smart_contracts_idea.html)  
 * [Smart Contracts - 12 Use Cases, DCC, 12-2016](http://www.digitalchamber.org/smartcontracts.html)  
 
