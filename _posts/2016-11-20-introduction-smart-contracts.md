@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Workshop: Einführung in die Smart Contract Programmierung am 24.01.2017"
+title: "Workshop: Hands-on Smart Contract Programmierung am 24.01.2017"
 ---
 
 ## Dienstag 24.01.2017, 19-22 Uhr
@@ -13,9 +13,8 @@ Hierzu wird [Ethereum](https://www.ethereum.org/), eine dezentralisierte Plattfo
 
 Umfang
 
-* Einführung Blockchain-Technologie
-* Einführung [Ethereum](https://www.ethereum.org/)
-* Smart Contract Programmierung in [Solidity](https://solidity.readthedocs.io) mit dem [Truffle Framework](https://truffle.readthedocs.io) 
+* Kompakte Einführung Blockchain-Technologie und [Ethereum](https://www.ethereum.org/)
+* Gemeinsame Entwicklung eines einfacheren Smart Contracts in der Ethereum-Programmiersprache [Solidity](https://solidity.readthedocs.io) mit dem [Truffle Framework](https://truffle.readthedocs.io)
 
 Anforderungen
 
@@ -23,8 +22,8 @@ Anforderungen
 * [Node.js](https://nodejs.org/) vorinstalliert. Anleitung für [Windows](https://nodejs.org/en/download/package-manager/#windows), [OSX](https://nodejs.org/en/download/package-manager/#osx) und [Alternativen](https://nodejs.org/en/download/package-manager/)
 * Weitere Anforderungen werden rechtzeitig bekanntgegeben.
 
-Die Inhalte sind auch für Teilnehmer mit wenig Programmierkenntnissen verständlich und ermöglichen somit einen kompakten Einblick in die Smart Contract Programmierung.
+Die Inhalte sind auch für Teilnehmer mit wenig Programmierkenntnissen verständlich. Vorkenntnisse aus dem ersten Blocklab-Workshop vom November 2016 oder aus den Blocklab-Meetups sind vorteilhaft, aber nicht zwingend erforderlich.
 
-Die Kosten des Workshops betragen 20,- € für Privatpersonen und 260,- € für Unternehmen. Durchgeführt wird der Workshop von der YOPITER GmbH, Stuttgart.
+Die Kosten des Workshops betragen 20,- € für Privatpersonen und 260,- € für Unternehmen (jeweils inkl. Mehrwertsteuer). Durchgeführt wird der Workshop von der YOPITER GmbH, Stuttgart.
 
-Interessierte wenden sich bitte per E-Mail mit ihren Kontaktdaten und dem Hinweis, ob sie als Privatperson oder über ein Unternehmen teilnehmen möchten an info@blocklab.de
+Interessierte wenden sich bitte per E-Mail mit ihren Kontaktdaten und dem Hinweis, ob sie als Privatperson oder über ein Unternehmen teilnehmen möchten an workshop@blocklab.de
