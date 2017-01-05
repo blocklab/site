@@ -30,6 +30,34 @@ Nachrichten zu Ethereum, blockchain technology, decentralized computing
 
 <br>
 
+### Blockchain in der KW01: public / permissioned / private Blockchain
+
+**„Public vs Private chain" Christoph Jentzsch, Slock.it - 03.01.2017**
+<br>
+Christoph Jentzsch - Gründer und CTO von Slock.it - beschreibt Vor- und Nachteile von Public und Private Blockchains. Dabei werden die beiden Varianten jeweils in folgenden Kategorien verglichen: interoperability, operational cost, network effects, data privacy, scalability, control, virtual currency. 
+<br>
+[zum Artikel](https://blog.slock.it/public-vs-private-chain-7b7ca45044f#.63j77286u)
+
+**„Why open matters" Coincenter - 16.12.2016**
+<br>
+Coincenter hat eine Studie veröffentlicht, in der die Wichtigkeit einer offenen (permissionless) Blockchain dargelegt wird. Hierbei werden Analogien zum TP/TCP als Basis Protokoll des Internets gezogen. Speziell für drei zentrale Applikationen sehen die Autoren Public Blockchains als unumgänglich: electronic cash, identity, the internet of things. (Das Dokument hat 60 Seiten, aber jede ist es wert!)   
+<br>
+[zur Studie](https://coincenter.org/files/2016-12/openmattersv1-1.pdf)
+
+**„Decentralization and Blockchain technology - why it matters and when it matters" Andreas Antonopolous - 07.12.2016**
+<br>
+Andreas Antonopolous spricht in Frankfurt über dezentrale Systeme und zeigt die Unterschiede zwischen Public und Private Blockchains auf. Dabei hebt er die Vorteile einer wirklich offenen (permissionless) Blockchain hervor und verdeutlicht die Problematik von privaten (permissioned) Systemen.  
+<br>
+[zum Artikel](https://www.youtube.com/watch?v=Cuu9NukxfvQ)
+
+**"When Is a Private Blockchain a Good Idea, and When Is It Not?" Hyperledger Meetup New York - 26.12.2016**
+<br>
+Zusammenfassung als Artikel plus Videoaufnahme eines Hyperledger Meetups in New York. Dabei wird diskutiert wann es überhaupt sinnvoll ist eine Blockchain zu verwenden und unter welchen Umständen es sinnvoll ist auf eine Private Blockchain zurückzugreifen. 
+<br>
+[zum Artikel](https://www.altoros.com/blog/when-is-a-private-blockchain-a-good-idea-and-when-is-it-not/)
+
+<br>
+
 ### Blockchain in der KW49: Blockchain Applikationen im Fokus - Siemens und der Hafen von Rotterdam sind dabei.
 
 **Siemens und US Startup LO3 entwickeln lokale Blockchain Energie-Handelsplattform - 21.11.2016**
