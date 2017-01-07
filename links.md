@@ -28,6 +28,7 @@ permalink: /links/
 * [web3.js - Ethereum JavaScript API](https://github.com/ethereum/web3.js)
 * [Fast Ethereum RPC client for testing and development](https://github.com/ethereumjs/testrpc)
 * [Solidity - Security considerations and Pitfalls](http://solidity.readthedocs.io/en/develop/security-considerations.html#pitfalls)
+* [Developing Ethereum Dapps with Truffle and Metamask](https://medium.com/metamask/developing-ethereum-dapps-with-truffle-and-metamask-aa8ad7e363ba#.rl0p9arim)
 
 ### Smart Contracts
 * [Smart Contracts Contracts, N. Szabo](http://szabo.best.vwh.net/smart_contracts_idea.html)  
