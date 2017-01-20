@@ -11,16 +11,20 @@ Smart Contracts sind Computerprotokolle, die die Logik vertraglicher Regelungen 
 
 Hierzu wird [Ethereum](https://www.ethereum.org/), eine dezentralisierte Plattform für Smart Contracts, verwendet.
 
-Umfang
+#### Umfang
 
 * Kompakte Einführung Blockchain-Technologie und [Ethereum](https://www.ethereum.org/)
 * Gemeinsame Entwicklung eines einfacheren Smart Contracts in der Ethereum-Programmiersprache [Solidity](https://solidity.readthedocs.io) mit dem [Truffle Framework](https://truffle.readthedocs.io)
 
-Anforderungen
+#### Anforderungen<a name="Anforderungen"></a>
+
+Die aktive Teilnahme am Hands-on Teil ist selbstverständlich freiwillig. Der erzeugte Code wird im Anschluss auch online zur Verfügung gestellt.
 
 * Eigenes Notebook mit Ladegerät
-* [Node.js](https://nodejs.org/) vorinstalliert. Anleitung für [Windows](https://nodejs.org/en/download/package-manager/#windows), [OSX](https://nodejs.org/en/download/package-manager/#osx) und [Alternativen](https://nodejs.org/en/download/package-manager/)
-* Weitere Anforderungen werden rechtzeitig bekanntgegeben.
+* [Node.js](https://nodejs.org/) vorinstalliert. Anleitung für [Windows](https://nodejs.org/en/download/package-manager/#windows), [OSX](https://nodejs.org/en/download/package-manager/#osx) und [Linux Distributionen](https://nodejs.org/en/download/package-manager/)
+* [Docker](https://www.docker.com/) vorinstalliert. Anleitung für [Windows](https://docs.docker.com/docker-for-windows/), [OSX](https://docs.docker.com/docker-for-mac/) und [Linux Distributionen](https://docs.docker.com/engine/installation/linux/)
+
+Sollten beim Einrichten Komplikationen auftreten bitten wir um eine E-Mail an workshop@blocklab.de.
 
 Die Inhalte sind auch für Teilnehmer mit wenig Programmierkenntnissen verständlich. Vorkenntnisse aus dem ersten Blocklab-Workshop vom November 2016 oder aus den Blocklab-Meetups sind vorteilhaft, aber nicht zwingend erforderlich.
 
