@@ -1,0 +1,62 @@
+- id: 1
+  talks:
+    - title: Introduction to Ethereum and Smart Contracts
+      speaker: Axel Hodler
+    - title: Introduction MOOC DFIN-511 Introduction to Digital Currencies, University of Nicosia
+      speaker: Jochen Kaßberger
+      slides: https://db.tt/UxG5m3p2
+    - title: Ethereum Mining and Wallets
+      speaker: Robert Tuchel
+  link: https://www.meetup.com/blockchain_technology/events/231855305/
+- id: 2
+  talks:
+    - title: Introduction To OpenBazaar - "Decentralized eBay"
+      speaker: Axel Hodler
+      slides: http://slides.com/axelhodler/ob#/
+    - title: Update DAO (Decentralized Autonomous Organisation)
+      speaker: Robert Tuchel
+  link: https://www.meetup.com/blockchain_technology/events/231855305/
+- id: 3
+  talks:
+    - title: Blockchain Venture (Ideas, Start-ups, Investments Worldwide)
+      speaker: Jochen Kaßberger
+      slides: https://dl.dropboxusercontent.com/u/6371111/Blockchain%20Venture%202016-08-23.pdfs
+    - title: Introduction To Programming Smart Contracts
+      speaker: Axel Hodler
+  link: https://www.meetup.com/blockchain_technology/events/232471287/
+- id: 4
+  talks:
+    - title: Update Ethereum Ecosystem
+      speaker: Dennis Schlegel
+  link: https://www.meetup.com/blockchain_technology/events/232471307/
+- id: 5
+  talks:
+    - title: Blockchain & IoT - IOTA tangle
+      speaker: Jan-Paul Buchwald
+      slides: https://www.dropbox.com/s/cx5kd5wk1gii832/20161018_Meetup-IOTA-Tangle.pdf?dl=0
+    - title: Oracles
+      speaker: Andreas Adlichhammer
+      slides: https://prezi.com/zjctqmrtbrjr/blockchain-oracles/
+  link: https://www.meetup.com/blockchain_technology/events/232471377/
+- id: 6
+  talks:
+    - title: Ripple
+      speaker: Dennis Schlegel
+    - title: 21 (www.21.co) - API Monetarisierung mit Micropayments - Überblick und Demo
+      speaker: Christian Beckel
+  link: https://www.meetup.com/blockchain_technology/events/232471393/
+- id: 7
+  talks:
+    - title: Smart Contract Use Cases
+      speaker: Jochen Kaßberger
+    - title: Self Sovereign Identity
+      speaker: Dennis Schlegel
+  link: https://www.meetup.com/blockchain_technology/events/232471431/
+- id: 8
+  talks:
+    - title: The risk-insurance business-case
+      speaker: Christian Beckel
+    - title: Connecting a webapp to Ethereum Smart-Contracts
+      speaker: Axel Hodler
+      slides: https://dl.dropboxusercontent.com/u/7566086/chaINsurance-Crowdfunding_Insurance_on_the_Blockchain.pdf
+  link: https://www.meetup.com/blockchain_technology/events/235548525/
