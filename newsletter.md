@@ -34,25 +34,25 @@ Nachrichten zu Ethereum, blockchain technology, decentralized computing
 
 **„Auf Ethereum basierende Micropayments könnten uns helfen ohne das Ausspähen von Facebook und Google zu leben" Cointelegraph - 21.01.2017**
 <br>
-Dr. Aron Fischer (Protagonist hinter Swarm und Colony) argumentiert, dass Firmen wie Google und Facebook alle  möglichen Informationen über uns sammeln, da diese die einzige Möglichkeit zur Monetarisierung darstellen. Wenn jedoch jeder Nutzer nur einen Bruchteil eines Cents für das Lesen eines Artikels zahlen würde, wäre ein neuer Monetarisierungs-Mechanismus gegeben.   
+Dr. Aron Fischer (Protagonist hinter Swarm und Colony) argumentiert, dass Firmen wie Google und Facebook alle  möglichen Informationen über uns sammeln, da diese die einzige Möglichkeit zur Monetarisierung darstellen. Wenn jedoch jeder Nutzer nur einen Bruchteil eines Cents für das Lesen eines Artikels zahlen würde, wäre ein neuer Monetarisierungs-Mechanismus gegeben.
 <br>
 [zum Artikel](https://cointelegraph.com/news/ethereum-backed-micropayments-could-help-us-live-without-facebook-and-google-spying)
 
 **"Akasha will Social Media auf die Ethereum Blockchain bringen" Bitcoin.com - 02.10.2016**
 <br>
-Akasha ist eine Social Media Plattform, die auf Ethereum und dem Inter-Planetary File System (IFPS) basiert. Durch das Zusammenspiel der beiden Technologien soll eine zensurfreie Plattform entstehen, die keine Server und "Single Point of Failure" besitzt. Das dezentrale Netzwerk soll das Publizieren, Teilen und Abstimmen (like / upvote) von Inhalten ermöglichen. Abstimmen ist mit der digitalen Währung Ether gebündelt, wodurch Autoren Micropayments erhalten. 
+Akasha ist eine Social Media Plattform, die auf Ethereum und dem Inter-Planetary File System (IFPS) basiert. Durch das Zusammenspiel der beiden Technologien soll eine zensurfreie Plattform entstehen, die keine Server und "Single Point of Failure" besitzt. Das dezentrale Netzwerk soll das Publizieren, Teilen und Abstimmen (like / upvote) von Inhalten ermöglichen. Abstimmen ist mit der digitalen Währung Ether gebündelt, wodurch Autoren Micropayments erhalten.
 <br>
 [zum Artikel](https://news.bitcoin.com/ethereum-akasha-social-network-launches/)
 
 **„Blockchain basierte Social Media Plattform Steemit enthüllt Roadmap für 2017" Econotimes - 17.01.2017**
 <br>
-Steemit ist seit Mai 2016 mit seiner Beta Version online. Die Social Media Plattform mit eigener Blockchain und zirkulierender Coin-Ökonomie hat bereits mehr als 120.000 Nutzer. Die angekündigte Roadmap beinhaltet die Nutzung der Servierinfrastruktur von Amazon Web Services, die Implementierung von Android und iOS Apps als auch die Überarbeitung von UX und funktionalen Features.    
+Steemit ist seit Mai 2016 mit seiner Beta Version online. Die Social Media Plattform mit eigener Blockchain und zirkulierender Coin-Ökonomie hat bereits mehr als 120.000 Nutzer. Die angekündigte Roadmap beinhaltet die Nutzung der Servierinfrastruktur von Amazon Web Services, die Implementierung von Android und iOS Apps als auch die Überarbeitung von UX und funktionalen Features.
 <br>
 [zum Artikel](http://www.econotimes.com/Blockchain-social-platform-Steemit-unveils-2017-roadmap-492425)
 
 **"Yours - der erste Micropayments Web Wallet" Yours Blog - 19.10.2016**
 <br>
-Yours ist eine auf der Bitcoin blockchain basierende Social Media Plattform, die das bestehende Ökosystem an Nutzern um die Bitcoin Blockchain nutzen will, um sich zu etablieren. Micropayments, die durch integrierte Web Wallets zwischen Nutzern abgewickelt werden sollen, basieren analog dem Lightning Network auf einem Smart Contract Layer über der Bitcoin Blockchain, um die normalen Gebühren von bitcoin Transaktionen zu umgehen.   
+Yours ist eine auf der Bitcoin blockchain basierende Social Media Plattform, die das bestehende Ökosystem an Nutzern um die Bitcoin Blockchain nutzen will, um sich zu etablieren. Micropayments, die durch integrierte Web Wallets zwischen Nutzern abgewickelt werden sollen, basieren analog dem Lightning Network auf einem Smart Contract Layer über der Bitcoin Blockchain, um die normalen Gebühren von bitcoin Transaktionen zu umgehen.
 <br>
 [zum Artikel](https://tech.yours.org)
 
@@ -62,25 +62,25 @@ Yours ist eine auf der Bitcoin blockchain basierende Social Media Plattform, die
 
 **„ZF, UBS und Innogy präsentieren Blockchain Car eWallet" ZF Presse - 05.01.2017**
 <br>
-Die primäre Funktion des eWallet soll ein komfortables Zahl- und Abrechnungssystem für Elektromobilität ermöglichen. Derzeit sind vorhandene Systeme verschiedener Anbieter von Ladesäulen nicht interoperabel. Auch andere mobilitätsrelevante Dienstleistungen wie Autobahnmaut, Parkgebühren oder Car-Sharing soll die automobile Geldbörse abwickeln können.  
+Die primäre Funktion des eWallet soll ein komfortables Zahl- und Abrechnungssystem für Elektromobilität ermöglichen. Derzeit sind vorhandene Systeme verschiedener Anbieter von Ladesäulen nicht interoperabel. Auch andere mobilitätsrelevante Dienstleistungen wie Autobahnmaut, Parkgebühren oder Car-Sharing soll die automobile Geldbörse abwickeln können.
 <br>
 [zum Artikel](http://www.zf.com/corporate/de_de/press/list/release/release_29152.html)
 
 **"Project Oaken vernetzt Tesla mit der Ethereum Blockchain" Project Oaken - 06.01.2017**
 <br>
-Im Rahmen des Blockchain Virtual GovHacks, initiiert durch die Regierung der Vereinten Arabischen Emirate, hat das Start-up Project Oaken einen Tesla mit der Ethereum Public Blockchain gekoppelt. In der Demonstration wickelt das Fahrzeug eine automatisierte, anonyme Authentifizierung und Zahlung, basierend auf Ether und Smart Contracts, mit einer Mautstation ab.  
+Im Rahmen des Blockchain Virtual GovHacks, initiiert durch die Regierung der Vereinten Arabischen Emirate, hat das Start-up Project Oaken einen Tesla mit der Ethereum Public Blockchain gekoppelt. In der Demonstration wickelt das Fahrzeug eine automatisierte, anonyme Authentifizierung und Zahlung, basierend auf Ether und Smart Contracts, mit einer Mautstation ab.
 <br>
 [zum Artikel](https://www.youtube.com/watch?v=6NBbZxddXEk&feature=youtu.be)
 
 **„Arcade City, auch bekannt als der Uber Killer, formt neue legale Einheit namens Swarm City" Cointelegraph  - 09.01.2017**
 <br>
-Arcade City, eine auf Ethereum basierende peer-to-peer Mobilitäts- und Sharing-Plattform, gründet neue Rechtseinheit "Swarm City". Damit versucht das Start-up sich von dem umstrittenen Gründer Christopher David zu distanzieren, der u.a. alle Rechte an der Rechtseinheit Arcade City hält. Ende 2016 sammelte Arcade City rund 620.000 US Dollar durch einen ICO (Initial Coin Offering) ein. Seit dem ICO ist die Reputation des Start-ups stark angeschlagen, als die kontroverse Vergangenheit des Gründers in sozialen Medien diskutiert und zum Shitstorm wurde.    
+Arcade City, eine auf Ethereum basierende peer-to-peer Mobilitäts- und Sharing-Plattform, gründet neue Rechtseinheit "Swarm City". Damit versucht das Start-up sich von dem umstrittenen Gründer Christopher David zu distanzieren, der u.a. alle Rechte an der Rechtseinheit Arcade City hält. Ende 2016 sammelte Arcade City rund 620.000 US Dollar durch einen ICO (Initial Coin Offering) ein. Seit dem ICO ist die Reputation des Start-ups stark angeschlagen, als die kontroverse Vergangenheit des Gründers in sozialen Medien diskutiert und zum Shitstorm wurde.
 <br>
 [zum Artikel](https://cointelegraph.com/news/arcade-city-aka-uber-killer-hard-forks-founder-claims-fraud)
 
 **"Blockchain: goodbye car ownership, hello clean air." IB Times - 19.12.2016**
 <br>
-Der Artikel diskutiert ein mögliches Zukunftsszenario unserer Mobilität, in dem Blockchain Technologie und das autonome Fahrzeug als zwei wesentliche Kerntechnologien zusammenspielen. Dabei wird auch die Vision des Fahrzeugeigentums angeschnitten, hin zum "self-owning car". 
+Der Artikel diskutiert ein mögliches Zukunftsszenario unserer Mobilität, in dem Blockchain Technologie und das autonome Fahrzeug als zwei wesentliche Kerntechnologien zusammenspielen. Dabei wird auch die Vision des Fahrzeugeigentums angeschnitten, hin zum "self-owning car".
 <br>
 [zum Artikel](http://www.ibtimes.co.uk/goodbye-car-ownership-hello-clean-air-welcome-future-transport-1597206)
 
