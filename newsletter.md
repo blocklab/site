@@ -30,6 +30,34 @@ Nachrichten zu Ethereum, blockchain technology, decentralized computing
 
 <br>
 
+### Blockchain in der KW05: Blockchain Tokens und dezentrale Geschäftsmodelle
+
+**„Die Zukunft ist ein dezentrales Internet" TechCrunch - 08.01.2017**
+<br>
+In einer Welt mit zahlreichen Blockchains und hunderten von handelbaren Tokens, die auf den verschiedenen Blockchains aufsetzen, wird Entrepreneurship neu gestaltet und Netzwerke erhalten Souveränität durch eigene Kryptowährungen. In dieser neuen Phase des Internets können Open-Source Protokollentwickler zum ersten Mal ihre Projekte direkt monetisieren. 
+<br>
+[zum Artikel](https://techcrunch.com/2017/01/08/the-future-is-a-decentralized-internet/)
+
+**"Blockchain Tokens und der Beginn des dezentralen Geschäftsmodells" Fred Ehrsam - 01.08.2016**
+<br>
+Fred Ehrsam beschreibt wie Blockchain Tokens und dezentrale Geschäftsmodelle das Henne-Ei-Problem von Netzwerkeffekten lösen. Für Nutzer gewinnt ein Netzwerk mit einer größeren kritischen Masse an Wert. Um diese kritische Masse an Nutzern erstmals zu gewinnen bieten Token-basierte dezentrale Geschäftsmodelle Nutzern die Möglichkeit einen Teil dieses Netzwerks zu besitzen. Hier ist der Wert für einen partiellen Eigentümer des Netzwerks um so höher, desto früher ein Token dieser Plattform erworben wird. Dieses Anreizsysteme inzentiviert Netzwerkwachstum von Beginn an.    
+<br>
+[zum Artikel](https://blog.coinbase.com/app-coins-and-the-dawn-of-the-decentralized-business-model-8b8c951e734f#.18aaef58w)
+
+**„Alles was man über Initial Coin Offerings wissen muss" Outlier Ventures - 2016**
+<br>
+Outlier Venture Research veröffentlichte in 2016 ein Dokument, das den Stand von Initial Coin Offerings (ICO) untersucht. ICOs stellen eine Mischung aus Initial Public Offering (IPO) und Crowdsourcing dar. Hierdurch werden die Anreize von Entwicklern und Nutzern verbunden. In der Ausführung werden verschiedene ICOs dargestellt, rechtliche Rahmenbedingungen beleuchtet und verschiedene Formen der Tokenization dargestellt.
+<br>
+[zum Artikel](http://www.the-blockchain.com/docs/Initial_Coin_Offerings_Outlier_Ventures_Research.pdf)
+
+**Smith + Crown Übersicht zu anstehenden und vergangenen ICOs - Smith + Crown - 2017**
+<br>
+Smith + Crown ist ein relativ junges Unternehmen, das Marktinformationen und Analysen zu Blockchain-Unternehmen und Initial Coin Offerings bereitstellt. Auf der ICO Seite von Smith + Crown können einige Analysen direkt eingesehen werden. (Achtung!: In ICOs zu investieren ist sehr riskant und man sollte sich nicht nur auf ein Rating von einer Agentur stützen sondern selber umfangreiche Due Diligence betreiben!)
+<br>
+[zum Artikel](https://www.smithandcrown.com/icos/)
+
+<br>
+
 ### Blockchain in der KW04: Blockchain and Social Media
 
 **„Auf Ethereum basierende Micropayments könnten uns helfen ohne das Ausspähen von Facebook und Google zu leben" Cointelegraph - 21.01.2017**
