@@ -6,6 +6,9 @@ permalink: /kooperationen/
 
 <div style="text-align: center;">
 
+<br>
+Als Netzwerkorganisation unterhält blockLAB Stuttgart Kooperationen mit Organisationen in der Region Stuttgart.
+
 <a href="http://www.bwcon.de/">
   <img src="/assets/images/kooperationen/bwcon_logo.png">
 </a>
@@ -14,6 +17,8 @@ permalink: /kooperationen/
 <br>
 
 Baden-Württemberg: Connected e.V. / bwcon ist die führende Wirtschaftsinitiative zur Förderung des Innovations- und Hightech-Standortes Baden-Württemberg.
+
+bwcon und blockLAB Stuttgart arbeiten in der Special Interest Group "Blockchain-Technologie und decentralized computing" zusammen. bwcon unterstützt die Arbeit von blockLAB Stuttgart unter anderem durch die Bereitstellung von Räumlichkeiten und organisatorische Untersützung.
 
 <br>
 <br>
@@ -27,5 +32,7 @@ Baden-Württemberg: Connected e.V. / bwcon ist die führende Wirtschaftsinitiati
 <br>
 
 Die Wirtschaftsförderung Region Stuttgart GmbH (WRS) ist der zentrale Ansprechpartner für Investoren und Unternehmen in der Stadt Stuttgart.
+
+Die WRS unterstützt blockLAB Stuttgart in organisatorischer und finanzieller Hinsicht, z.B. bei der Finanzierung von Vortragsveranstaltungen.
 
 </div>
