@@ -12,7 +12,7 @@ Als Netzwerkorganisation unterhält blockLAB Stuttgart Kooperationen mit Organis
 <br>
 <br>
 
-<a href="http://www.bwcon.de/">
+<a href="http://www.bwcon.de/" target="_blank">
   <img src="/assets/images/kooperationen/bwcon_logo.png">
 </a>
 
@@ -30,7 +30,7 @@ bwcon und blockLAB Stuttgart arbeiten in der Special Interest Group "Blockchain-
 <br>
 <br>
 
-<a href="https://wrs.region-stuttgart.de/">
+<a href="https://it.region-stuttgart.de" target="_blank">
   <img src="/assets/images/kooperationen/wrs_logo.svg" style="width: 300px;">
 </a>
 
@@ -41,7 +41,6 @@ Die Wirtschaftsförderung Region Stuttgart GmbH (WRS) ist der zentrale Ansprechp
 
 <br>
 <br>
-
-Die WRS unterstützt blockLAB Stuttgart in organisatorischer und finanzieller Hinsicht, z.B. bei der Finanzierung von Vortragsveranstaltungen.
+Die WRS  und blockLAB Stuttgart arbeiten in der Special Interest Group "Blockchain-Technologie und decentralized computing" zusammen. Die WRS unterstützt blockLAB Stuttgart in organisatorischer und finanzieller Hinsicht, z.B. bei der Finanzierung von Vortragsveranstaltungen.
 
 </div>
