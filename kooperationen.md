@@ -41,6 +41,6 @@ Die Wirtschaftsförderung Region Stuttgart GmbH (WRS) ist der zentrale Ansprechp
 
 <br>
 <br>
-Die WRS  und blockLAB Stuttgart arbeiten in der Special Interest Group "Blockchain-Technologie und decentralized computing" zusammen. Die WRS unterstützt blockLAB Stuttgart in organisatorischer und finanzieller Hinsicht, z.B. bei der Finanzierung von Vortragsveranstaltungen.
+Die WRS unterstützt die Arbeit von blockLAB Stuttgart unter anderem durch Öffentlichkeitsarbeit und durch organisatorische Unterstützung.
 
 </div>
