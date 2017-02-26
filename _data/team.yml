@@ -32,3 +32,11 @@
   topics: "Lawconcepts: Recht, Technik, Organisation"
   description: Arnd ist Rechtsanwalt, Mediator und Syndikusrechtsanwalt in einem mittelständischen Medienunternehmen, zert. und gepr. Java-Programmierer (SGD), zert. Datenschutzbeauftragter (DSB-TÜV SÜD), zert. Fachkraft u. Beauftragter für Qualitätsmanagement DIN EN ISO 9001:2015 (QMF/QMB-TÜV SÜD), gepr. Nachweis der besonderen theoretischen Kenntnisse für den Fachanwalt IT-Recht, gem. § 2 FAO (DAV 2006), stv. Mitglied des Prüfungsausschusses für den FA-IT Recht bei der RAK Stuttgart, Dozent für ERV bei Rechtsfachwirtsausbildung im Fortbildungsinstitut der RAK Stuttgart, Mitglied des ERV Ausschuss bei der BRAK, Lehrbeauftragter für das Recht der Neuen Medien an den Universitäten Bayreuth und Tübingen.
   contact: "Für das Thema Blockchain steht er vor allem als Referent und Gutachter zur Verfügung. Link: [Lawconcepts](http://www.kanzlei-kulow.de)"
+  
+- id: christian
+  name: Dr. Christian Beckel
+  image: /assets/images/team/christian.jpg
+  topics: IOT, Research, Venture
+  description: Christian studierte Informatik in Tübingen und promovierte an der ETH Zürich. Seine fast 10-jährige Erfahrung im Bereich IoT & Distributed Systems sammelte er durch vielfältige Aktivitäten in Zürich, im Silicon Valley und in Stuttgart, wo er derzeit bei einem großen Technologiekonzern tätig ist. Aufgrund seiner Begeisterung für Kryptowährungen und Blockchains schloss er sich 2016 dem BlockLAB an. Dort engagiert er sich bei der Entwicklung von Ideen und Konzepten für Blockchain-Anwendungen sowie als Referent in unserem Stuttgarter Meetup.
+  contact: "Kontakt: christian(at)blocklab.de"
+  
