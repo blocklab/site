@@ -46,13 +46,13 @@ Bitcoin scheint eine unaufhaltsame Technologierevolution zu verkörpern, getrage
 
 **Wie China inmitten Bitcoins Bürgerkrieg in den Mittelpunkt rückt NY Times - 29.06.2016**
 <br>
-Letztes Jahr hatten chinesische Bitcoin Mining Farmen zusammengelegt einen Anteil von rund 42% der gesamten Hash Power des Bitcoin Netzwerks. Damit kontrollieren chinesische Firmen den Großteil des angedachten dezentralen Netzwerks. Die Governance des Bitcoin Protokolls baut auf einem dezentralen Konsensus auf, bei dem Mining Pools die meisten Stimmrechte zukommen. Damit haben die chinesischen Mining Pools aufgrund ihrer Größe einen erheblichen Einfluss. In Bitcoins Bürgerkrieg zwischen der Implementierung von Bitcoin Core oder Unlimited Clients wird China eine entscheidende Rolle spielen. Die NY Times gibt einen schönen Einblick in die Politik der Mining Pools. 
+Letztes Jahr hatten chinesische Bitcoin Mining Farmen zusammengelegt einen Anteil von rund 42% der gesamten Hash Power des Bitcoin Netzwerks. Damit kontrollieren chinesische Firmen den Großteil des angedachten dezentralen Netzwerks. Die Governance des Bitcoin Protokolls baut auf einem dezentralen Konsensus auf, bei dem Mining Pools die meisten Stimmrechte zukommen. Damit haben die chinesischen Mining Pools aufgrund ihrer Größe einen erheblichen Einfluss. In Bitcoins Bürgerkrieg zwischen der Implementierung von Bitcoin Core oder Unlimited Clients wird China eine entscheidende Rolle spielen. Die NY Times gibt einen schönen Einblick in die Politik der Mining Pools.
 <br>
 [zum Artikel](https://www.nytimes.com/2016/07/03/business/dealbook/bitcoin-china.html?_r=1)
 
 **"Banking on Bitcoin" neuer Dokumentarfilm - Bravenewcoin - 12.01.2017**
 <br>
-"Banking on Bitcoin" ist ein Dokumentarfilm, der die Geschichte und Entwicklung von Bitcoin erzählt. Von den Wurzeln der Cypherpunk Bewegung, die Persona Satoshi Nakamoto, das Silk Road Drama, der MtGox Crash und regulatorische Hürden bis erste Mainstream Aufmerksamkeit ist alles dabei. Auf die heutigen Herausforderungen des Netzwerks, die in diesem Newsletter hervorgehoben sind, geht die Doku aber nicht ein. Trotzdem, sehr sehenswert! "Banking on Bitcoin" kann auf verschiedenen Video Portalen gefunden werden.  
+"Banking on Bitcoin" ist ein Dokumentarfilm, der die Geschichte und Entwicklung von Bitcoin erzählt. Von den Wurzeln der Cypherpunk Bewegung, die Persona Satoshi Nakamoto, das Silk Road Drama, der MtGox Crash und regulatorische Hürden bis erste Mainstream Aufmerksamkeit ist alles dabei. Auf die heutigen Herausforderungen des Netzwerks, die in diesem Newsletter hervorgehoben sind, geht die Doku aber nicht ein. Trotzdem, sehr sehenswert! "Banking on Bitcoin" kann auf verschiedenen Video Portalen gefunden werden.
 <br>
 [zum Artikel](https://bravenewcoin.com/news/banking-on-bitcoin-is-the-latest-bitcoin-documentary/)
 
@@ -96,7 +96,7 @@ Anfang dieses Jahres haben mehrere Unternehmen, darunter u.a. JP Morgan, Microso
 
 **Consensys präsentiert das Konzept der self-sovereign identity bei den Vereinten Nationen IB Times - 17.02.2017**
 <br>
-Der Ethereum Inkubator Consensys stellte diese Woche das Konzept der self-sovereign identity bei leitenden Angestellten und Akademikern aus dem Technologie-Bereich der Vereinten Nationen vor. Self-sovereign identity ermöglicht Individuen, Organisationen oder Maschinen ihre Online-Identität vollkommen selbst zu verwalten, ohne auf Services und Server von Dritten angewiesen zu sein. Großes Potential wird hierbei vor allem für die rund 2,5 Milliarden Menschen gesehen, die nicht über ein offizielles Bankkonto verfügen.  
+Der Ethereum Inkubator Consensys stellte diese Woche das Konzept der self-sovereign identity bei leitenden Angestellten und Akademikern aus dem Technologie-Bereich der Vereinten Nationen vor. Self-sovereign identity ermöglicht Individuen, Organisationen oder Maschinen ihre Online-Identität vollkommen selbst zu verwalten, ohne auf Services und Server von Dritten angewiesen zu sein. Großes Potential wird hierbei vor allem für die rund 2,5 Milliarden Menschen gesehen, die nicht über ein offizielles Bankkonto verfügen.
 <br>
 [zum Artikel](http://www.ibtimes.co.uk/consensys-explains-self-sovereign-identity-ethereum-united-nations-1607068)
 
