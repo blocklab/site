@@ -30,6 +30,90 @@ Nachrichten zu Ethereum, blockchain technology, decentralized computing
 
 <br>
 
+### Blockchain in der KW10: Bitcoins Bürgerkrieg mit chinesischem Veto
+
+**Bitcoin-Kurs bricht nach SEC-Entscheidung ein - Heise - 11.03.2017**
+<br>
+Die US-Börsenaufsicht SEC hat sich gegen das Auflegen eines Bitcoin-Fonds ausgesprochen. Ein solches Finanzprodukt sei zu anfällig für Manipulationen, begründete die Behörde ihre Entscheidung. Mit dem Sec Urteil verliert der Standpunkt, der vermehrt von Teilen der Bitcoin Community eingenommen wird, Bitcoin als Anlageklasse "digitales Gold" zu propagieren an Fahrtwind. Damit rücken auch wieder die grundlegenden Probleme des Netzwerkes in den Vordergrund: langsamere Transaktionszeiten mit steigenden Gebühren, ein aufkochender Konflikt zwischen zwei Bitcoin Lagern, Bitcoin Core und Bitcoin Unlimted, und der Einfluss Chinas. Mehr dazu in den folgenden Links.
+<br>
+[zum Artikel](https://www.heise.de/newsticker/meldung/Bitcoin-Kurs-bricht-nach-SEC-Entscheidung-ein-3650016.html)
+
+**Bitcoin Core vs. Bitcoin Unlimited, Bitcoins Bürgerkrieg - Crushthestreets - 09.01.2017**
+<br>
+Bitcoin scheint eine unaufhaltsame Technologierevolution zu verkörpern, getragen von einer futuristischen, innovativen und dezentralen Community. Hinter den Kulissen von steigenden Preisen, Handelsbörsen und Programmierjargons bahnt sich ein zu eskalierender Konflikt an, der jegliche Innovation des Netzwerks lähmt. Tausende Entwickler und Miner werden sich zwischen zwei oppositionellen Bitcoin Clients, die unterschiedliche Philosophien verkörpern, entscheiden müssen, um die Zukunft des Netzwerks zu besiegeln. Eine Fork, eine Aufteilung des Netzwerks in zwei neue Bitcoin Netzwerke, ist nicht ausgeschlossen.
+<br>
+[zum Artikel](https://www.crushthestreet.com/articles/digital-currencies/bitcoin-core-classic-unlimited-whats-difference)
+
+**Wie China inmitten Bitcoins Bürgerkrieg in den Mittelpunkt rückt NY Times - 29.06.2016**
+<br>
+Letztes Jahr hatten chinesische Bitcoin Mining Farmen zusammengelegt einen Anteil von rund 42% der gesamten Hash Power des Bitcoin Netzwerks. Damit kontrollieren chinesische Firmen den Großteil des angedachten dezentralen Netzwerks. Die Governance des Bitcoin Protokolls baut auf einem dezentralen Konsensus auf, bei dem Mining Pools die meisten Stimmrechte zukommen. Damit haben die chinesischen Mining Pools aufgrund ihrer Größe einen erheblichen Einfluss. In Bitcoins Bürgerkrieg zwischen der Implementierung von Bitcoin Core oder Unlimited Clients wird China eine entscheidende Rolle spielen. Die NY Times gibt einen schönen Einblick in die Politik der Mining Pools. 
+<br>
+[zum Artikel](https://www.nytimes.com/2016/07/03/business/dealbook/bitcoin-china.html?_r=1)
+
+**"Banking on Bitcoin" neuer Dokumentarfilm - Bravenewcoin - 12.01.2017**
+<br>
+"Banking on Bitcoin" ist ein Dokumentarfilm, der die Geschichte und Entwicklung von Bitcoin erzählt. Von den Wurzeln der Cypherpunk Bewegung, die Persona Satoshi Nakamoto, das Silk Road Drama, der MtGox Crash und regulatorische Hürden bis erste Mainstream Aufmerksamkeit ist alles dabei. Auf die heutigen Herausforderungen des Netzwerks, die in diesem Newsletter hervorgehoben sind, geht die Doku aber nicht ein. Trotzdem, sehr sehenswert! "Banking on Bitcoin" kann auf verschiedenen Video Portalen gefunden werden.  
+<br>
+[zum Artikel](https://bravenewcoin.com/news/banking-on-bitcoin-is-the-latest-bitcoin-documentary/)
+
+<br>
+
+### Blockchain in der KW09: Blockchain-Konsortien nehmen Fahrt auf (und ab)
+
+**IBM und Microsoft setzen auf unterschiedliche Blockchain Konsortien - American Banker - 28.02.2017**
+<br>
+Die zwei Tech-Riesen fahren unterschiedliche Ansätze im Rahmen der Integration in Partnerschaften und damit ihrer Positionierung gegenüber bestimmten Blockchain Plattformen. IBM ist Teil von Hyperledger, einem Blockchain Konsortium unter dem Schirm der Linux Foundation, zu dem IBM selbst entwickelten Blockchain Code beigetragen hat. Microsoft dagegen ist Teil von Enterprise Ethereum, einem Konsortium um die Public Blockchain Ethereum. Während auf Basis von Ethereum, wie bei Hyperledger, auch permissioned Blockchain Lösungen entwickelt werden können, sehen viele Akteure Mehrwert in der Interaktion mit der Public Chain.
+<br>
+[zum Artikel](https://www.americanbanker.com/news/bank-blockchain-choices-may-come-down-to-ibm-vs-microsoft)
+
+**47 japanische Banken nähern sich kommerziellen Phase mit der Ripple Blockchain Ripple - 01.03.2017**
+<br>
+In einem Pilot Projekt haben die beteiligten Banken die Implementierung von Blockchain Technologie auf Basis von Ripple Labs erfolgreich getestet. Ripples RC Cloud wird es den Banken ermöglichen untereinander nationale und internationale Transaktionen in Echtzeit abzuwickeln. Während der Testphase wurden verschiedene Aspekte wie operationales Risiko, regulatorische Rahmenbediengungen, Standardisierung und potentielle Schnittstellen zu bestehenden Abrechnungssystemen geprüft.
+<br>
+[zum Artikel](https://ripple.com/insights/forty-seven-japanese-banks-move-towards-commercial-phase-using-ripple/)
+
+**R3 Banken-Konsortium distanziert sich von Blockchain" Cointelegraph - 22.02.2017**
+<br>
+Nachdem mehrere Bankengrößen wie JP Morgan das R3 Konsortium verlassen haben und rund 59 Millionen USD in die Forschung von Blockchain Technologie geflossen ist, verkündete R3 kürzlich, dass es keine Blockchain benötigen wird. Wörtlich formulierte R3 Direktor Clemens Wang wie folgt: "we found that we didn't want a Blockchain, we wanted to be Blockchain inspired,”. Dieser Zug bescherte R3 viel Spott in der Szene und zeigt, dass Firmen sich eher langsam an die noch junge Technologie antasten und verschiedene Optionen offen halten sollten. 
+<br>
+[zum Artikel](https://cointelegraph.com/news/we-dont-need-blockchain-r3-consortium-after-59-million-research)
+
+**Zentralbanken treten Hyperledger Konsortium bei Coindesk - 28.02.2017**
+<br>
+Die Bank of England und Federal Reserve Bank von Boston sind dem Hyperledger Konsortium beigetreten. Damit sind sie die ersten Zentralbanken die der Initiative beigetreten sind. Nachdem auch Unternehmen wie Daimler und American Express kürzlich hinzugestoßen sind, befinden sich aktuell 122 Mitglieder aus verschiedenen Industrien in dem Konsortium.
+<br>
+[zum Artikel](http://www.coindesk.com/central-banks-hyperledger-blockchain/)
+
+<br>
+
+### Blockchain in der KW07: Ethereum im Fokus
+
+**Die Geburt von Enterprise Ethereum in 2017 Bravenewcoin - 11.02.2017**
+<br>
+Anfang dieses Jahres haben mehrere Unternehmen, darunter u.a. JP Morgan, Microsoft, Alibaba, Bosch, Consensys und Chronicled, die Gründung eines Konsortiums um die public blockchain Ethereum angekündigt. Die meisten dieser Unternehmen arbeiten bereits mit privaten Versionen der Ethereum blockchain. Im Zuge des Konsortiums sollen auch gemeinsame Standards für private Ethereum Netzwerke ausgearbeitet werden, um eine zukünftige Interoperabilität sicherzustellen. 
+<br>
+[zum Artikel](http://bravenewcoin.com/news/the-birth-of-enterprise-ethereum-in-2017/)
+
+**Consensys präsentiert das Konzept der self-sovereign identity bei den Vereinten Nationen IB Times - 17.02.2017**
+<br>
+Der Ethereum Inkubator Consensys stellte diese Woche das Konzept der self-sovereign identity bei leitenden Angestellten und Akademikern aus dem Technologie-Bereich der Vereinten Nationen vor. Self-sovereign identity ermöglicht Individuen, Organisationen oder Maschinen ihre Online-Identität vollkommen selbst zu verwalten, ohne auf Services und Server von Dritten angewiesen zu sein. Großes Potential wird hierbei vor allem für die rund 2,5 Milliarden Menschen gesehen, die nicht über ein offizielles Bankkonto verfügen.  
+<br>
+[zum Artikel](http://www.ibtimes.co.uk/consensys-explains-self-sovereign-identity-ethereum-united-nations-1607068)
+
+**Der Ethereum Name Services könnte die Lücke zur Mainstream Adaption schließen EthNews - 23.11.2016**
+<br>
+März 2017 soll der Ethereum Name Service (ENS) live gehen. ENS ist für die Ethereum Blockchain was das Domain Name System (DNS) für unsere IP-Adressen ist. D.h., dass in Zukunft Ethereum Adressen / Smart Contracts anstatt durch kryptographische Adressen wie 0x32b724f073ec346edd64b0cc67757e4f6fe42950 einfach mit z.B. Dennis.eth angesteuert werden können. Momentan läuft das Projekt im Ropsten Testnetzwerk und wird zum Pi-Tag am 14. März im Main-Net gelaunched. Dabei wird es ein Auktionsprozess geben, um .eth Adressen zu erwerben.
+<br>
+[zum Artikel](https://www.ethnews.com/ethereum-name-service-will-bridge-the-gap-to-mainstream-adoption)
+
+**Weshalb und wie dezentrale Prediction Markets nahezu alles ändern werden Consensys - Dezember 2015**
+<br>
+Mit Augur und Gnosis werden dieses Jahr gleich zwei dezentrale Prediction Markets starten. Auch als Informationsmärkte, Entscheidungsmärkte, Ideen Futures oder Event Derivate bekannt, sind sie börsengehandelte Märkte kreiert für den Zweck  die möglichen Ergebnisse von Ereignissen zu handeln und dabei zu bestimmen. Blockchain Technologie kann zum ersten Mal effiziente Prediction Markets ermöglichen. Der Artikel ist zwar schon etwas älter aber beschreibt gut was durch Informationsmärkte alles realisiert werden kann. 
+<br>
+[zum Artikel](https://medium.com/@ConsenSys/why-how-decentralized-prediction-markets-will-change-just-about-everything-15ff02c98f7c#.cbaukft82)
+
+<br>
+
 ### Blockchain in der KW05: Blockchain Tokens und dezentrale Geschäftsmodelle
 
 **„Die Zukunft ist ein dezentrales Internet" TechCrunch - 08.01.2017**
