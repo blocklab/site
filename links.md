@@ -6,6 +6,9 @@ permalink: /links/
 
 ## Link Collection
 
+### Übersichtsdokumente
+* [Studie: Blockchains, Smart Contracts und das Dezentrale Web, Technologiestiftung Berlin](https://www.technologiestiftung-berlin.de/fileadmin/daten/media/publikationen/170130_BlockchainStudie.pdf)
+
 ### Bitcoin
 * [Bitcoin: A Peer-to-Peer Electronic Cash System (Satoshi Nakamoto)](https://bitcoin.org/bitcoin.pdf)
 * [Bitcoin Wiki](https://en.bitcoin.it/)
