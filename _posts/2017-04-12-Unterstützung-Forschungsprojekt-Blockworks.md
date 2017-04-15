@@ -1,1 +1,12 @@
+---
+layout: post
+title: "blockLAB Stuttgart unterstützt das europäische Forschungsprojekt Blockworks in der Antragsphase"
+---
+12.04.2017
+<br>
 
+Von Jochen Kaßberger
+
+blockLAB Stuttgart unterstützt das europäische Forschungsprojekt [Blockworks - Tools for smart digital content in the creative industries]( http://ec.europa.eu/research/participants/portal/desktop/en/opportunities/h2020/topics/ict-20-2017.html) als Projektbeobachter. Das Projekt möchte mithilfe von Blockchain Smart Digital Content nachhaltige Anwendungsszenarien für Akteure der Kreativwirtschaft entwickeln und diese auch direkt im Projekt über eine europäische Plattform testen. Blockchain-Technologie stellt dabei das Kernelement des Projekts dar.
+
+blockLAB Stuttgart hat dazu am 05. April einen Letter of Support unterzeichnet. Das Projekt befindet sich im Moment noch in der Antragsphase. Im Spätsommer 2017 entscheidet sich, ob das Forschungsprojekt von der EU gefördert wird. Projektkoordinator ist das Design-Department der TU Delft in den Niederlanden.
