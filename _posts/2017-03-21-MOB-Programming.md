@@ -13,4 +13,4 @@ Kern des Qualifizeirungsprogramms ist die Entwicklung eines Anwendungsprototyps.
 
 Die zum Einsatz kommenden Smart Contracts werden auf der Ethereum-Blockchain in der Programmiersprache Solidity umgesetzt.
 
-Das Smart Contract Qualifizierungsprogramm wendet sich an interessierte Programmierer, die fortgeschrittene Kenntnisse in Java oder Javascript nachweisen können und sich für Smart Contract Programmierung und die Blockchain-Technologie interessieren. Ein Einstieg in das laufende Programm ist möglich. Interessierte wenden sich an workshop@blocklab.de
+Das Smart Contract Qualifizierungsprogramm wendet sich an interessierte Programmierer, die fortgeschrittene Kenntnisse in Java oder Javascript nachweisen können und sich für Smart Contract Programmierung und die Blockchain-Technologie interessieren. Ein Einstieg in das laufende Programm ist möglich. Interessierte wenden sich an workshop[at]blocklab.de
