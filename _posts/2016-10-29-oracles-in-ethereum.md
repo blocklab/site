@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Orakel in Ethereum"
+image: oracle_of_delphi.jpeg
+
 ---
-<img src="/assets/images/oracle_of_delphi.jpeg" alt="Orakel in Delphi">
-<br>
 Von Axel Hodler
 
 Sobald bekannt wird, dass ein [Smart Contract](https://de.wikipedia.org/wiki/Smart_Contract) in Ethereum nicht von selbst mit der Welt ausserhalb der Blockchain interagieren kann, führt dies bei einem Ethereum Einsteiger gerne zu Erstaunen. Ist es nicht die Hauptanwendung eines Smart Contracts abzufragen, ob ein Ereignis (Katastrophen, Sportergebnisse, Aktienkurse) in der Welt eingetreten ist um eine Transaktion einzuleiten?
