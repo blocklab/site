@@ -83,6 +83,8 @@
   <meta itemprop="description" content="{{ page_description }}">
   <meta itemprop="image" content="{{ page_image }}">
 
+  <link rel="icon" type="image/x-icon" href="{{ "/assets/images/favicon.ico" | prepend: site.baseurl }}">
+
   <!-- rel prev and next -->
   {% if paginator.previous_page %}
     <link rel="prev" href="{{ paginator.previous_page_path | prepend: site.baseurl | prepend: site.url }}">
