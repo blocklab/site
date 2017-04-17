@@ -1,10 +1,8 @@
 ---
 layout: post
 title: "Verwendung von Ethereum Smart Contracts in Java"
+image: pipes.jpg
 ---
-
-<img src="/assets/images/pipes.jpg" alt="Integration">
-<br>
 
 Von Axel Hodler
 

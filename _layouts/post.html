@@ -8,6 +8,10 @@ layout: default
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
   </header>
   <div class="post-content" itemprop="articleBody">
+    {% if page.image %}
+    <img src="/assets/images/{{ page.image }}" alt="Image for {{ page.title }}">
+    <br>
+    {% endif %}
     {{ content }}
   </div>
 </article>
