@@ -1,10 +1,9 @@
 ---
 layout: post
+author: "Axel Hodler"
 title: "Verwendung von Ethereum Smart Contracts in Java"
 image: pipes.jpg
 ---
-
-Von Axel Hodler
 
 Etliche Geschäftsanwendungen sind in Java geschrieben bzw. laufen auf der [JVM](https://de.wikipedia.org/wiki/Java_virtual_machine). Folglich sind wir der Meinung, dass die Grundlagen wie ein [Ethereum](https://www.ethereum.org/) [Smart Contract](https://en.wikipedia.org/wiki/Smart_contract) in eine bestehende Anwendung eingebunden wird, sich für den Leser als hilfreich erweist.
 
