@@ -2,6 +2,7 @@
 layout: post
 title: "Skalieren Blockchains? Sorgen und Lösungsansätze"
 ---
+Von Christian Beckel
 
 In diesem Blockpost beleuchten wir Herausforderungen und aktuelle Entwicklungen in Bezug auf die Skalierbarkeit von Blockchains – der technologischen Basis für dezentrale Anwendungen der Zukunft – am Beispiel von Bitcoin und Ethereum.
 
