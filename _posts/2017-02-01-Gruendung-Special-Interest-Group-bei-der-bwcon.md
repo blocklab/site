@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "bwcon und blockLAB Stuttgart gründen die Special Interest Group Blockchain"
+author: "Jochen Kaßberger"
 ---
-Von Jochen Kaßberger
 
 Die im November 2016 vereinbarte Zusammenarbeit zwischen bwcon, der führenden ITK-Wirtschaftsinitiative in Baden-Württemberg und blockLAB Stuttgart, dem Netzwerk für Blockchain-Technologie in der Region Stuttgart wird mit der Gründung der Special Interest Group (SIG) Blockchain weiter vertieft.
 

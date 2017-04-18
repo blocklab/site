@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Qualifizierungsprogramm Smart Contract Programmierung auf der Ethereum-Blockchain startet im März"
+author: "Jochen Kaßberger"
 ---
-Von Jochen Kaßberger
 
 Im März hat blockLAB Stuttgart ein mehrwöchiges Qualifizierungsprogramm für Smart Contract Programmierung gestartet. Der erste Durchgang findet im Rahmen einer Pilotierung statt, um das gewählte didaktische Konzept zu validieren. Zum Einsatz kommt eine Variante des Mob-Programming bei dem in mehreren 30-minütigen Abschnitten jeweils ein Programmierer im Quellcode arbeitet und die anderen Programmteilnehmer seine Entwicklungsschritte gemeinsam und live nachvollziehen können. Einzelne Programmschritte werden dabei von den Teilnehmern kommentiert und diskutiert. Nach jedem Abschnitt wechselt der Programmierer durch.
 
