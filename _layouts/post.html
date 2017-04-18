@@ -18,7 +18,7 @@ layout: default
 
     {% if page.author %}
       {% assign author = site.data.team | where:"name", page.author  | first %}
-        <p>Von {{ author.name }}</p>
+      <p>Von <a href="/team/#{{ author.id }}">{{ author.name }}</a></p>
     {% endif %}
 
     {{ content }}
