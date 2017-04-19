@@ -21,13 +21,13 @@ dadurch Orientierungshilfe geben und prophylaktisch wirken.
 P.-C. Müller-Graff, FAZ 20.5.2010 S.8
 ```
 
-# Law is Code: Die Gesetze leben in einer einfachen Welt
+# "Law is Code" - Die Gesetze leben in einer einfachen Welt
 
 Das deutsche Recht - wie das kontinentaleuropäische Recht überhaupt - ist streng gesetzesbezogen.
 Wichtiges, für die Gesellschaft Wesentliches muss durch ein Gesetz im formellen Sinn geregelt werden. Das sind
 Gesetze, die der Gesetzgeber erlässt - die Verwaltung darf unter bestimmten Umständen auch "Gesetze" erlassen.
 
-Die Welt, die diese Gesetze beschreiben (Diskursuniversum des Rechts) ist sehr einfach, als Programmierer würde ich sagen. "schwach getypt".
+Die Welt, die diese Gesetze beschreiben (Diskursuniversum des Rechts) ist sehr einfach, ein Programmierer würde sagen: "schwach getypt".
 
 Es gibt ein objektives Sein, in dem sich Rechtssubjekte und
 Rechtsobjekte gegenüberstehen. Rechtssubjekte können rechtlich und
