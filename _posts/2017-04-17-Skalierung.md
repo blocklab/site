@@ -67,7 +67,7 @@ Eine Architektur ohne zentrale Instanz bringt viele Vorteile mit sich, aber auch
 [9] [Is SegWit activated yet?](http://segwit.co/)  
 [10] [bitcoinwiki: Payment Channels](https://en.bitcoin.it/wiki/Payment_channels)  
 [11] [Lightning Network](https://lightning.network/)  
-[12] [CoinDesk: Bitcoin Lightning Payments Pass 'Milestone' With Blockstream Test](http://www.coindesk.com/blockstream-amps-up-lightning-network-with-first-test-transaction/)  
+[12] [CoinDesk: Bitcoin Lightning Payments Pass 'Milestone' \[...\]](http://www.coindesk.com/blockstream-amps-up-lightning-network-with-first-test-transaction/)  
 [13] [Ethereum Blog: Introducing Casper “the Friendly Ghost”](https://blog.ethereum.org/2015/08/01/introducing-casper-friendly-ghost/)  
 [14] [Raiden Network FAQ](https://github.com/raiden-network/raiden/wiki/FAQ)  
 [15] [Raiden PoC-0](https://github.com/raiden-network/raiden/wiki/Raiden-PoC%E2%80%900)  
