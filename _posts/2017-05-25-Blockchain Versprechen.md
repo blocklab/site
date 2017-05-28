@@ -22,9 +22,12 @@ OLI Systems, ein Stuttgarter Start-up Unternehmen, gibt Einblicke in eine blockc
 
 Unterstützt wird die Veranstaltung von IBM Deutschland und Cloud Mall Baden-Württemberg. Im Anschluss an die Vorträge erwartet die Zuhörer eine Kleinigkeit zu Essen sowie Zeit zum Austausch und dem Knüpfen von Kontakten. 
 
-21. Juni 2017, 16:30h, Vortragsbeginn 17:00h
+21 Juni 2017, 16:30h, Vortragsbeginn 17:00h
+<br>
 Literaturhaus im Boch Areal
+<br>
 Breitscheidstraße 4
+<br>
 70174 Stuttgart
-
+<br>
 [Anmeldelink](https://venture-dev.com/webform/6UGYe8fCT6b9IR4h/)
