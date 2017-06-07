@@ -12,7 +12,7 @@ ein.
 
 Blockchain-Technologie ist in aller Munde, die Möglichkeiten sollen fast unbegrenzt, das disruptive Potenzial enorm sein. An Vorhersagen, strategischen Überlegungen und Zukunftsvisionen herrscht kein Mangel. Doch was ist tatsächlich dran an der dezentralen Kryptotechnologie? Und welche Relevanz hat die Technologie für baden-württembergische Unternehmen? 
 
-Programm
+**Programm**
 
 16:30h Eintreffen der Gäste und Registrierung
 
