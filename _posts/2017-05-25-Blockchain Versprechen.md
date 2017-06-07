@@ -12,13 +12,27 @@ ein.
 
 Blockchain-Technologie ist in aller Munde, die Möglichkeiten sollen fast unbegrenzt, das disruptive Potenzial enorm sein. An Vorhersagen, strategischen Überlegungen und Zukunftsvisionen herrscht kein Mangel. Doch was ist tatsächlich dran an der dezentralen Kryptotechnologie? Und welche Relevanz hat die Technologie für baden-württembergische Unternehmen? 
 
-Auf der Veranstaltung stellen drei Unternehmen aus dem Südwesten erste praktische Erfahrungen mit der Blockchain-Technologie vor:
+Programm
 
-Bosch präsentiert den Anwendungsfall Teileverfolgung in der Supply Chain auf Hyperledger-Basis.
+16:30h Eintreffen der Gäste und Registrierung
 
-targens, 100%-Tochter der LBBW berichtet über Geschäftsmodelle auf dem Prüfstand am Beispiel eines Schuldscheindarlehen-Prototyps auf der Ethereum-Blockchain.
+17:00h Begrüßung Dr. Jähnert, bwcon; Jochen Kaßberger, SIG Blockchain, bwcon
 
-OLI Systems, ein Stuttgarter Start-up Unternehmen, gibt Einblicke in eine blockchaingestützte Community für den dezentralen Energiehandel.
+17:05h Blockchain - eine disruptive Technologie
+Ulrich Klose, Director Business Development Automotive & Electronics Industry, IBM Deutschland GmbH
+
+17:25h Teileverfolgung in der Supply Chain
+Dr. Josef Maichle, Vice President Advance Development, Robert Bosch GmbH
+
+17:55h Geschäftsmodelle auf dem Prüfstand am Beispiel Schuldscheindarlehn Prototyp
+Karsten Treiber, Digital Finance, targens
+
+18:25h Blockchaingestützte Community für dezentralen Energiehandel
+Dr. Ole Langniß, CEO, OLI Systems GmbH
+
+18:55h Zusammenfassung und Abschluss
+
+Ab 19:10h Networking/Get-together
 
 Unterstützt wird die Veranstaltung von IBM Deutschland und Cloud Mall Baden-Württemberg. Im Anschluss an die Vorträge erwartet die Zuhörer eine Kleinigkeit zu Essen sowie Zeit zum Austausch und dem Knüpfen von Kontakten. 
 
