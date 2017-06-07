@@ -24,7 +24,7 @@ Unterstützt wird die Veranstaltung von IBM Deutschland und Cloud Mall Baden-Wü
 
 21 Juni 2017, 16:30h, Vortragsbeginn 17:00h
 <br>
-Literaturhaus im Boch Areal
+Literaturhaus im Bosch Areal
 <br>
 Breitscheidstraße 4
 <br>
