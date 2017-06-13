@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hält die Blockchain-Technologie ihr Versprechen?"
+title: "Vortragsveranstaltung: Hält die Blockchain-Technologie ihr Versprechen?"
 author: "Jochen Kaßberger"
 ---
 
