@@ -4,13 +4,9 @@ title: Events
 permalink: /events/
 ---
 
-## Meetup
+## Blockchain Meetup Stuttgart
 
-Zukünftige und vergangene Meetups können auf der [meetup.com](https://www.meetup.com/blockchain_technology/) Platform eingesehen werden.
-
-## Workshops
-
-Donnerstag, 24.01.2017 19-22Uhr [Workshop - Einführung in die Smart Contract Programmierung]({% post_url 2016-11-20-introduction-smart-contracts %})
+Zukünftige und vergangene Meetups können auf der [meetup.com](https://www.meetup.com/Blockchain-meetup/) Platform eingesehen werden.
 
 ## Teilnahme an Hackathons
 
@@ -21,5 +17,7 @@ Donnerstag, 24.01.2017 19-22Uhr [Workshop - Einführung in die Smart Contract Pr
 [FinTech-Hackathon Stuttgart - 28-30.11.2016 Börse Stuttgart und L-Bank Stuttgart](https://www.stuttgart-financial.de/netzwerk/fintech-days/bankathon0/)
 
 ## Vergangene Workshops
+
+Donnerstag, 24.01.2017 19-22Uhr [Workshop - Einführung in die Smart Contract Programmierung]({% post_url 2016-11-20-introduction-smart-contracts %})
 
 Unsere [Einführung in die Smart Contract Programmierung am 02.11.2016 19-22Uhr]({% post_url 2016-09-25-introduction-smart-contracts %}) wurde erfolgreich mit 10 Teilnehmern durchgeführt. Aufgrund der positiven Resonanz durch die Teilnehmer werden wir den Workshop bald vertiefen.
