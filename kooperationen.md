@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Kooperationen 
+title: Kooperationen
 permalink: /kooperationen/
 ---
 
@@ -43,4 +43,18 @@ Die Wirtschaftsförderung Region Stuttgart GmbH (WRS) ist der zentrale Ansprechp
 <br>
 Die WRS unterstützt die Arbeit von blockLAB Stuttgart unter anderem durch Öffentlichkeitsarbeit und durch organisatorische Unterstützung.
 
+<br>
+<br>
+<br>
+
+<a href="http://www.isw.uni-stuttgart.de/" target="_blank">
+  <img src="/assets/images/kooperationen/isw_logo.png" style="width: 300px;">
+</a>
+
+<br>
+<br>
+Das Institut für Steuerungstechnik der Werkzeugmaschinen und Fertigungseinrichtungen (ISW) der Universität Stuttgart zählt international zu den führenden universitären Forschungsinstituten im Bereich der Steuerungstechnik
+<br>
+<br>
+Neben einem Informationsaustausch von Institutsmitarbeitern und blockLAB Mitgliedern wird es auch um die Zusammenarbeit bei zukünftigen Prototypenprojekten und der Präsentation von Forschungsergebnissen des Instituts vor Blockchain-Fachpublikum gehen.
 </div>
