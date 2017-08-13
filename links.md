@@ -24,6 +24,6 @@ Die folgenden Links sollen einen Einstieg in die Thematik ermöglichen.
 
 ### Online Kurse
 
-* [Introduction To Cryto Currency - University of Nicosia](http://digitalcurrency.unic.ac.cy/)
+* [Introduction To Crypto Currency - University of Nicosia](http://digitalcurrency.unic.ac.cy/)
 * [Coursera - Princeton University - Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency)
 * [Coursera - Stanford University - Cryptography I](https://www.coursera.org/learn/crypto)
