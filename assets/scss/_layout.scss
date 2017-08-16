@@ -237,15 +237,6 @@ ul.navbar li.icon {display: none;}
   }
 }
 
-.disqus {
-  background-color: lighten($light-gray-color, 16%);
-  padding: $base-spacing 0;
-
-  hr {
-    margin: $base-spacing 0;
-  }
-}
-
 .site-footer {
   @extend .clearfix;
 
