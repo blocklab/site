@@ -302,18 +302,30 @@ ul.navbar li.icon {display: none;}
   right: 0;
 }
 
+.jumbotron-panel__h1 {
+  text-shadow: $heading-shadow;
+  font-size: 50px;
+  font-weight: 600;
+  margin: auto;
+}
+
 .jumbotron-panel__h3 {
+  text-shadow: $heading-shadow;
+  font-size: 35px;
   margin-bottom: 40px;
 }
 
 .jumbotron-panel__a {
-  border: 1px solid white;
+  text-shadow: $heading-shadow;
+  font-size: 20px;
+  border: 2px solid white;
   border-radius: 6px;
   color: white;
   padding: 10px 30px;
 }
 
 .jumbotron-panel__a:hover {
+  text-shadow: none;
   background-color: white;
   color: #0086b3;
 }
