@@ -176,11 +176,9 @@ ul.navbar li.icon {display: none;}
   .article-title {
     display: inline-block;
     width: 85%;
-    border-bottom: 1px dashed lighten($light-gray-color, 10%);
   }
 
   .date-label {
-    border: 1px solid lighten($light-gray-color, 10%);
     padding: 0 0.2em;
     margin-left: 1em;
     margin-top: 2px;
@@ -356,7 +354,6 @@ ul.navbar li.icon {display: none;}
   }
 
   .post-item {
-    border: 1px solid lighten($light-gray-color, 10%);
     padding: 0 0.5em;
     background: lighten($light-gray-color, 15%);
   }
