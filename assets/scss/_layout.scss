@@ -288,6 +288,7 @@ ul.navbar li.icon {display: none;}
 }
 
 .jumbotron-panel__intro {
+  text-shadow: $heading-shadow;
   text-align: center;
   color: white;
   position: absolute;
@@ -300,21 +301,18 @@ ul.navbar li.icon {display: none;}
 }
 
 .jumbotron-panel__h1 {
-  text-shadow: $heading-shadow;
   font-size: 50px;
   font-weight: 600;
   margin: auto;
 }
 
 .jumbotron-panel__h3 {
-  text-shadow: $heading-shadow;
   font-size: 35px;
   margin-bottom: 40px;
   padding: 0 10px 0 10px;
 }
 
 .jumbotron-panel__a {
-  text-shadow: $heading-shadow;
   font-size: 20px;
   border: 2px solid white;
   border-radius: 6px;
