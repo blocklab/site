@@ -4,22 +4,7 @@ title: Team
 permalink: /team/
 ---
 
-### Mitglieder des blockLAB Stuttgart-Netzwerkes
-
 <!-- The infos of each member are maintained in `_data/team.yml` -->
-<ul>
-{% for member in site.data.team %}
-  <li>
-    <a href="#{{ member.id }}">
-      {% if member.title %}
-        {{ member.title }}
-      {% endif %}
-      {{ member.name }}
-    </a>
-  </li>
-{% endfor %}
-</ul>
-
 {% for member in site.data.team %}
   <a name="{{ member.id}}"/>
   <h3>
