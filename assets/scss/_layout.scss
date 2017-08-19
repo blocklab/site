@@ -6,6 +6,10 @@
   }
 }
 
+a {
+  color: $blue-color;
+}
+
 html,
 body {
   width: 100%;
@@ -195,12 +199,6 @@ ul.navbar li.icon {display: none;}
   font-size: rem(14);
 }
 
-.post-link,
-.post a,
-.page a {
-  @extend .link;
-}
-
 .post {
   @extend .clearfix;
 }
@@ -329,6 +327,15 @@ ul.navbar li.icon {display: none;}
   float: left;
 }
 
+.post-link {
+  &:hover,
+  &:focus,
+  &:active {
+    border-bottom: 2px solid transparent;
+    color: $blue-color;
+  }
+}
+
 @media (max-width: 600px) {
   .date-label {
     float: left !important;
@@ -355,12 +362,4 @@ ul.navbar li.icon {display: none;}
     background: lighten($light-gray-color, 15%);
   }
 
-  .post-link {
-    &:hover,
-    &:focus,
-    &:active {
-      border-bottom: 2px solid transparent;
-      color: $blue-color;
-    }
-  }
 }
