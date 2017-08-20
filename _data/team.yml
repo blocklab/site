@@ -3,28 +3,35 @@
   image: /assets/images/team/jochen.jpg
   topics: GESCHÄFTSMODELLE, STRATEGIE, VENTURE
   description: Jochen studierte Architektur an der Universität Stuttgart und beschäftigt sich seit Mitte der 90er Jahre mit dem Internet. Nach einem Aufenthalt in der US-amerikanischen Dot.Com Industrie um die Jahrtausendwende arbeitete er über zehn Jahre als Management- und Organisationsberater in der Automobil-Industrie. Im Frühjahr 2016 nahm er erfolgreich am MOOC DFIN 511 „Digital Currencies“ der University of Nicosia teil. Seine Begeisterung für die Weiterentwicklung des Internets und die Blockchain-Technologie führten dazu, blockLAB Stuttgart Anfang 2016 mit zu gründen.
-  contact: "Kontakt: kassberger(at)blocklab.de"
+  mail: kassberger@blocklab.de
 
 - id: axel
   name: Axel Hodler
   image: /assets/images/team/axel.jpg
   topics: PROGRAMMIERUNG, VENTURE
   description: Axel setzt als Full-Stack Softwareentwickler Lösungen im Bereich Enterprise Mobility um. Als Blockchain-Technologie begeisterter Mitgründer von blockLAB übernimmt er diverse Aufgaben wie die Umsetzung von Prototypen basierend auf Ethereum oder als Referent für dezentralisierte Anwendungen in unserem Stuttgarter Meetup.
-  contact: "Links: [Web](http://hodler.co), [GitHub](https://github.com/axelhodler), [Twitter](https://github.com/axelhodler), [Xing](https://www.xing.com/profile/Axel_Hodler), [LinkedIn](https://www.linkedin.com/in/axel-hodler-a92343a8)"
+  mail: axel@hodler.co
+  web: http://hodler.co
+  github: axelhodler
+  twitter: axelhodler
+  xing: Axel_Hodler
+  linkedin: axel-hodler-a92343a8
   
 - id: jan-paul
   name: Jan-Paul Buchwald
   image: /assets/images/team/jan-paul.jpg
   topics: IT-ARCHITEKTUR, PROGRAMMIERUNG, FINTECH, IOT
   description: Jan-Paul ist studierter Diplom-Informatiker und seit vielen Jahren im Bereich Java (EE) und Webanwendungen vornehmlich im Enterprise-Umfeld aktiv, seit 2014 als selbstständiger IT-Berater und Software-Ingenieur. Als Mitgründer der Online-Plattform WunderNova hat er seit einiger Zeit auch Zugang zur Szene innovativer Startups, ist in diesem Zusammenhang auf das Potential des Themas Blockchain aufmerksam geworden und hat sich Mitte 2016 blockLAB Stuttgart angeschlossen.
-  contact: "Links: [YOPITER GmbH](http://www.yopiter.com), [WunderNova](http://www.wundernova.com), [Xing Profil](https://www.xing.com/profile/JanPaul_Buchwald), [LinkedIn Profil](https://www.linkedin.com/in/jan-paul-buchwald-23542423)"
+  web: http://www.yopiter.com
+  xing: JanPaul_Buchwald
+  linkedin: jan-paul-buchwald-23542423
 
 - id: dennis
   name: Dennis Schlegel
   image: /assets/images/team/dennis.jpg
   topics: GESCHÄFTSMODELLE, IOT, VENTURE
   description: Dennis ist in China aufgewachsen, studierte Wirtschaftssinologie und später International Business Development an der ESB Business School. Er ist ein  Blockchain-Enthusiast und beschäftigt sich in seiner beruflichen Tätigkeit bei einem Technologieunternehmen der Region mit den Themen IoT und neuen Geschäftsmodellen in verschiedenen Branchen.
-  contact: "Kontakt: dennis(at)blocklab.de"
+  mail: dennis@blocklab.de
 
 - id: arnd
   title: Dr.
@@ -32,7 +39,7 @@
   image: /assets/images/team/kulow.jpg
   topics: "Lawconcepts: Recht, Technik, Organisation"
   description: Arnd ist Rechtsanwalt, Mediator und Syndikusrechtsanwalt in einem mittelständischen Medienunternehmen, zert. und gepr. Java-Programmierer (SGD), zert. Datenschutzbeauftragter (DSB-TÜV SÜD), zert. Fachkraft u. Beauftragter für Qualitätsmanagement DIN EN ISO 9001:2015 (QMF/QMB-TÜV SÜD), gepr. Nachweis der besonderen theoretischen Kenntnisse für den Fachanwalt IT-Recht, gem. § 2 FAO (DAV 2006), stv. Mitglied des Prüfungsausschusses für den FA-IT Recht bei der RAK Stuttgart, Dozent für ERV bei Rechtsfachwirtsausbildung im Fortbildungsinstitut der RAK Stuttgart, Mitglied des ERV Ausschuss bei der BRAK, Lehrbeauftragter für das Recht der Neuen Medien an den Universitäten Bayreuth und Tübingen.
-  contact: "Für das Thema Blockchain steht er vor allem als Referent und Gutachter zur Verfügung. Link: [Lawconcepts](http://www.kanzlei-kulow.de)"
+  web: http://www.kanzlei-kulow.de
   
 - id: christian
   title: Dr.
@@ -40,18 +47,17 @@
   image: /assets/images/team/christian.jpg
   topics: IOT, Research, Venture
   description: Christian studierte Informatik in Tübingen und promovierte an der ETH Zürich. Seine fast 10-jährige Erfahrung im Bereich IoT & Distributed Systems sammelte er durch vielfältige Aktivitäten in Zürich, im Silicon Valley und in Stuttgart, wo er derzeit bei einem großen Technologiekonzern tätig ist. Aufgrund seiner Begeisterung für Kryptowährungen und Blockchains schloss er sich 2016 dem BlockLAB an. Dort engagiert er sich bei der Entwicklung von Ideen und Konzepten für Blockchain-Anwendungen sowie als Referent in unserem Stuttgarter Meetup.
-  contact: "Kontakt: christian(at)blocklab.de"
+  mail: christian@blocklab.de
   
 - id: rob
   name: Robert Tuchel
   image: /assets/images/team/rob.jpg
   topics: Systementwicklung, IT-Architektur
   description: Robert ist Diplom Betriebswirt (BA) Fachrichtung Wirtschaftsinformatik und seit 15 Jahren in Rechenzentren tätig. Mitgründer von blockLAB.
-  contact: "<br><br>"
 
 - id: andrei
   name: Andrei Martchouk
   image: /assets/images/team/andrei.jpg
   topics: Industrieanwendungen, Community
   description: Andrei ist Managing Director bei der KI decentralized GmbH. Davor war er als CEO und Mitgründer von Yacuna, einer Cryptocurrency Börse, und Blockchain-Lösungsanbieter, tätig. Vor dieser Gründung arbeitete er als Chief Architect und Leiter Entwicklung für eines der ersten deutschen Fintech-Unternehmen ClickandBuy. In diesem Umfeld hat er seine 14-jährige Erfahrung im Payment-Segment gesammelt. Der Diplominformatiker, Absolvent der Fachhochschule Köln und der Linguistischen Universität Minsk wurde 2010 zum Blockchain-Enthusiast.
-  contact: "Kontakt: andrei(at)martchouk.com"
+  mail: andrei@martchouk.com
