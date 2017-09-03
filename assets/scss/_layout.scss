@@ -95,20 +95,28 @@ hr {
   }
 }
 
+.nav {
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .logo {
-  margin: 0 1em 1em 0;
+  padding-left: 1.5em;
   cursor: pointer;
   letter-spacing: 0.8px;
 }
 
-.nav {
-  min-height: 64px;
+.logo img {
+  margin: 20px 0 12px;
 }
 
 ul.navbar {
   list-style-type: none;
   float: right;
+  margin-top: 21px;
   margin-bottom: 0;
+  margin-left: 0;
 }
 
 ul.navbar li {float: left;}
@@ -124,9 +132,13 @@ ul.navbar li a {
 }
 
 .navbar-expander {
+  margin: 19px 25px 0 0;
   font-size: 1.3em;
   display: none;
   float: right;
+  border: 2px solid $blue-color;
+  border-radius: 6px;
+  padding: 0 5px 0 5px;
 }
 
 @media screen and (max-width:879px) {
@@ -134,11 +146,10 @@ ul.navbar li a {
   .navbar-expander {
     display: inline-block;
   }
-}
 
-@media screen and (max-width:879px) {
   ul.navbar {
     float: none;
+    margin-top: 0;
   }
   ul.navbar.responsive li {
     float: none;
@@ -266,7 +277,6 @@ ul.navbar li a {
 }
 
 .jumbotron-panel {
-  margin-top: -10px;
   background: url("/assets/images/jumbotron_cubes.jpg") no-repeat center center;
   height: 350px;
   background-size: cover;
