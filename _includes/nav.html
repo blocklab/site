@@ -3,6 +3,9 @@
     <a class="logo" href="{{ '/' | prepend: site.baseurl }}">
       <img src="/assets/images/logo.svg" height="30" alt="{{ site.title }}{{ site.title2 }}"/>
     </a>
+    <a class="navbar-expander"
+       href="javascript:void(0);"
+       onclick="toggleNavbarCollapse()">☰</a>
     <ul class="navbar" id="navbar">
       <li><a href="{{ '/about' | prepend: site.baseurl }}">Über uns</a></li>
       <li><a href="{{ '/kooperationen' | prepend: site.baseurl }}">Partner</a></li>
@@ -11,9 +14,6 @@
       <li><a href="{{ '/events' | prepend: site.baseurl }}">Events</a></li>
       <li><a href="{{ '/links' | prepend: site.baseurl }}">Links</a></li>
       <li><a href="{{ '/sprechstunde' | prepend: site.baseurl }}">Sprechstunde</a></li>
-      <li class="icon">
-        <a href="javascript:void(0);" onclick="toggleNavbarCollapse()">☰</a>
-      </li>
     </ul>
   </div>
 </nav>
