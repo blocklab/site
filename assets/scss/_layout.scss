@@ -133,7 +133,7 @@ ul.navbar li a {
 
 ul.navbar li.icon {display: none;}
 
-@media screen and (max-width:680px) {
+@media screen and (max-width:879px) {
   ul.navbar li {display: none;}
   ul.navbar li.icon {
     font-size: 1.3em;
@@ -142,7 +142,7 @@ ul.navbar li.icon {display: none;}
   }
 }
 
-@media screen and (max-width:680px) {
+@media screen and (max-width:879px) {
   ul.navbar.responsive {position: relative;}
   ul.navbar.responsive li.icon {
     position: absolute;
