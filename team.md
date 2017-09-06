@@ -4,6 +4,7 @@ title: Team
 permalink: /team/
 ---
 
+<link rel="stylesheet" href="{{ "/assets/css/font-awesome.min.css" | prepend: site.baseurl }}">
 <!-- The infos of each member are maintained in `_data/team.yml` -->
 {% for member in site.data.team %}
   <a name="{{ member.id}}"/>
