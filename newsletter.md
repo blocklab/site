@@ -34,8 +34,9 @@ Nachrichten zu Ethereum, blockchain technology, decentralized computing
 
 **"40 under 40" - Fortune Magazine - August 2017**
 <br>
-Jedes Jahr wird das Ranking "40 under 40" veröffentlicht. Hierbei werden die 40 global einflussreichsten Personen unter 40 Jahren aus der Geschäftswelt gekürt. In 2017 gehen Platz 10. und 11. an Vitalik Buterin und Brian Armstrong. Vitalik Buterin, 23 Jahre, Gründer der Ethereum Blockchain und auch bekannt für seine Auftritte in Katzen-Shirts, verändert wie wir wirtschaftliche und gesellschaftliche Modelle betrachten und hat damit bereits mehrere Industrien aufgeschreckt. Coinbase, CEO Brian Armstrong, hatte in der letzten Finanzierungsrunde (kein ICO, "normales" Venture Capital) 100 Millionen US Dollar eingenommen und ist damit zu einem der einflussreichsten Unternehmen der FinTech Branche aufgestiegen.  
-http://fortune.com/40-under-40/
+Jedes Jahr wird das Ranking "40 under 40" veröffentlicht. Hierbei werden die 40 global einflussreichsten Personen unter 40 Jahren aus der Geschäftswelt gekürt. In 2017 gehen Platz 10. und 11. an Vitalik Buterin und Brian Armstrong. Vitalik Buterin, 23 Jahre, Gründer der Ethereum Blockchain und auch bekannt für seine Auftritte in Katzen-Shirts, verändert wie wir wirtschaftliche und gesellschaftliche Modelle betrachten und hat damit bereits mehrere Industrien aufgeschreckt. Coinbase, CEO Brian Armstrong, hatte in der letzten Finanzierungsrunde (kein ICO, "normales" Venture Capital) 100 Millionen US Dollar eingenommen und ist damit zu einem der einflussreichsten Unternehmen der FinTech Branche aufgestiegen.
+<br>
+[zum Artikel](http://fortune.com/40-under-40/)
 
 **"Can this 22-year-old coder out-Bitcoin Bitcoin?" - Fortune Magazine - 27.09.2016**
 <br>
