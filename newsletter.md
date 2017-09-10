@@ -5,7 +5,7 @@ permalink: /newsletter/
 ---
 
 blockNEWS Stuttgart
-Nachrichten zu Ethereum, blockchain technology, decentralized computing  
+Nachrichten zu Blockchain-Technology und Decentralized Computing
 <br>
 
 <!-- Begin MailChimp Signup Form -->
