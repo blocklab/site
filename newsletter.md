@@ -29,24 +29,26 @@ Nachrichten zu Ethereum, blockchain technology, decentralized computing
 <!--End mc_embed_signup-->
 
 <br>
-### "40 under 40" - Fortune Magazine - August 2017
 
+### Blockchain in der KW33: Weltveränderer in Katzen-Shirt  
+
+**"40 under 40" - Fortune Magazine - August 2017**
+<br>
 Jedes Jahr wird das Ranking "40 under 40" veröffentlicht. Hierbei werden die 40 global einflussreichsten Personen unter 40 Jahren aus der Geschäftswelt gekürt. In 2017 gehen Platz 10. und 11. an Vitalik Buterin und Brian Armstrong. Vitalik Buterin, 23 Jahre, Gründer der Ethereum Blockchain und auch bekannt für seine Auftritte in Katzen-Shirts, verändert wie wir wirtschaftliche und gesellschaftliche Modelle betrachten und hat damit bereits mehrere Industrien aufgeschreckt. Coinbase, CEO Brian Armstrong, hatte in der letzten Finanzierungsrunde (kein ICO, "normales" Venture Capital) 100 Millionen US Dollar eingenommen und ist damit zu einem der einflussreichsten Unternehmen der FinTech Branche aufgestiegen.  
 http://fortune.com/40-under-40/
 
-### "Can this 22-year-old coder out-Bitcoin Bitcoin?" - Fortune Magazine - 27.09.2016
-
+**"Can this 22-year-old coder out-Bitcoin Bitcoin?" - Fortune Magazine - 27.09.2016**
+<br>
 Letztes Jahr erschien ein Cover Artikel über Vitalik Buterin. Demnach studierten beide seiner Eltern kurz nach dem Fall der Sowjetunion Informatik in Moskau, bevor Vater und Sohn 1999 gemeinsam nach Toronto auswanderten. Als er vier Jahre alt war, bekam Vitalik seinen ersten Computer und spielte am liebsten mit Microsoft Excel, so sein Vater, Dimitry. Dieser hatte Vitalik 2011 auch auf Bitcoin und Blockchain aufmerksam gemacht, woraufhin er noch im selben Jahr das Magazin Bitcoin Magazine gründete. Limitationen der Bitcoin Blockchain bewegten ihn schließlich mit einer Gruppe an Mitstreitern Ethereum in 2014 zu initiieren. Mittlerweile zählen Vitalik und Ethereum zu den Rockstars der Blockchain-Szene, die vermehrt Einfluss auf Wirtschaft und Politik nimmt. So nahm sich jüngst auch Wladimir Putin persönlich Zeit, um mit Vitalik ein Gespräch unter vier Augen zu führen (dieses Mal ohne Katzen-Shirt). 
 http://fortune.com/ethereum-blockchain-vitalik-buterin/
 
-### "The quite Master of cryptocurrency - Nick Szabo" - The Tim Ferriss Show - 04.06.2017
-
+**"The quite Master of cryptocurrency - Nick Szabo" - The Tim Ferriss Show - 04.06.2017**
+<br>
 Tim Ferriss interviewt Nick Szabo in seiner Podcast-Reihe. Nick ist Informatiker, Rechtsgelehrter, Kryptograph und Teil der Cypherpunk Bewegung. Besonders bekannt wurde er durch seine bahnbrechende Forschung in digitalen Verträgen und Kryptowährungen. Er wird neben Hal Finney als die Person hinter dem anonymen Bitcoin-Gründer, Satoshi Nakamoto, gehandelt. Das Konzept und der Begriff Smart Contracts ist auf ihn zurückzuführen. Zudem initiierte er auch Bit Gold, eine dezentrale digitale Währung und damit Vorgänger von Bitcoin. Gesprächsthemen umfassen die Ursprünge von Kryptowährungen, Smart Contracts, ICOs, Quantum-Rechner und die Zukunft der Blockchain. (Tim Ferriss ist übrigens eine mindestens genauso beindruckende Persönlichkeit.)
 https://tim.blog/2017/06/04/nick-szabo/
 
-### “Former Mozilla CEO raises 35 million US Dollars in under 30 seconds" - Techchrunch - 01.06.2017
-
-
+**“Former Mozilla CEO raises 35 million US Dollars in under 30 seconds" - Techchrunch - 01.06.2017**
+<br>
 Ende Mai nahm das Projekt um den Brave Browser mit einem ICO 35 Millionen Dollar in Ether unter 30 Sekunden ein. Die Finanzierungsrunde dauerte gerade Mal zwei Blocks auf der Ethereum Blockchain und legte diese mit dem verursachteten hohen Transaktionsaufkommen teilweise lahm. Hinter dem Projekt steckt Brandon Eich, Erfinder von Javascript und ehemaliger Mozilla CEO. Brandon hat mehrmals öffentlich bekündigt, dass Smart Contracts und das Konzept der Blockchain dirsuptives Potential bergen. Mit dem Basic Attention Token versucht er nun die digitale Werbeindustrie zwischen Publishern, Werbenden und Kunden zu optimieren.  
 https://techcrunch.com/2017/06/01/brave-ico-35-million-30-seconds-brendan-eich/
 
