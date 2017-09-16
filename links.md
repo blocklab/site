@@ -13,7 +13,7 @@ Die folgenden Links sollen einen Einstieg in die Thematik ermöglichen.
 
 ## Weiterführend
 
-Am besten sei hier auf andere Linklisten verwiesen. Im Beispiel Bitcon sind die [Bitcoin Resources](http://lopp.net/bitcoin.html) von Jameson Lopp zu empfehlen.
+Am besten sei hier auf andere Linklisten verwiesen. Im Beispiel Bitcoin sind die [Bitcoin Resources](http://lopp.net/bitcoin.html) von Jameson Lopp zu empfehlen.
 
 ### Bücher
 
