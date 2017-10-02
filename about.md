@@ -14,8 +14,6 @@ Inhaltlich liegen unsere Schwerpunkte auf Programmierung, Geschäftsmodelle und 
 
 <img src="/assets/images/Kreise.jpg" alt="Kreise">
 
-Das blockLAB Stuttgart existiert seit Anfang 2016. Unser erstes Anwendungsprojekt („Vergütungssystem auf Basis einer privater Cryptowährung“) haben wir im April gestartet. Seit Juni führen wir ein monatliches Meetup in Stuttgart durch. Im August startete unser Newsletter blockNEWS. Unsere Internetpräsenz ist seit September online und unser erstes Programmierseminar findet Ende Oktober statt. Im November haben wir an zwei Hackathons in Stuttgart und einem in Berlin teilgenommen.
-
-Wir verstehen uns als neutrale non-profit Organisation, die offen ist für Einzelpersonen und Unternehmen. Über unsere zukünftige Gesellschaftsform entscheiden wir in den nächsten Monaten.
+blockLAB Stuttgart existiert seit Anfang 2016. Wir verstehen uns als neutrale non-profit Organisation, die offen ist für Einzelpersonen und Unternehmen.
 
 Interessierte wenden sich bitte per E-Mail an info(at)blocklab.de

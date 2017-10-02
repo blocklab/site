@@ -15,16 +15,21 @@ Die folgenden Links sollen einen Einstieg in die Thematik ermöglichen.
 
 Am besten sei hier auf andere Linklisten verwiesen. Im Beispiel Bitcoin sind die [Bitcoin Resources](http://lopp.net/bitcoin.html) von Jameson Lopp zu empfehlen.
 
-### Bücher
+## Videos
+
+* [YouTube Channel von blockLAB mit Vortragsaufzeichnungen](https://www.youtube.com/channel/UCq71shfADfCvYBh9FUeriwA)
+* ["How the blockchain is changing money and business" - TED Talk von Don Tapscott](https://www.youtube.com/watch?v=Pl8OlkkwRpc)
+
+## Bücher
 
 * [Mastering Bitcoin: Unlocking Digital Cryptocurrencies](https://www.amazon.de/Mastering-Bitcoin-Unlocking-Digital-Cryptocurrencies/dp/1491954388)
 
-### News Sites
+## News Sites
 
 * [BTC-Echo](http://www.btc-echo.de/)
 * [Bitcoinblog](https://bitcoinblog.de)
 
-### Online Kurse
+## Online Kurse
 
 * [Introduction To Crypto Currency - University of Nicosia](http://digitalcurrency.unic.ac.cy/)
 * [Coursera - Princeton University - Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency)
