@@ -22,8 +22,7 @@ Am besten sei hier auf andere Linklisten verwiesen. Im Beispiel Bitcoin sind die
 
 ## Ethereum
 
-Ethereum Foundation Website
-* (https://ethereum.org/)
+* [Ethereum Foundation Website](https://ethereum.org/)
 
 Ethereum Github Wiki
 * [https://github.com/ethereum/wiki/wiki]
