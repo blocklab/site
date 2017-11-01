@@ -20,6 +20,8 @@ Am besten sei hier auf andere Linklisten verwiesen. Im Beispiel Bitcoin sind die
 * [YouTube Channel von blockLAB mit Vortragsaufzeichnungen](https://www.youtube.com/channel/UCq71shfADfCvYBh9FUeriwA)
 * ["How the blockchain is changing money and business" - TED Talk von Don Tapscott](https://www.youtube.com/watch?v=Pl8OlkkwRpc)
 
+## Ethereum
+
 ## Bücher
 
 * [Mastering Bitcoin: Unlocking Digital Cryptocurrencies](https://www.amazon.de/Mastering-Bitcoin-Unlocking-Digital-Cryptocurrencies/dp/1491954388)
