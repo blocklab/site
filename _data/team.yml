@@ -33,13 +33,13 @@
   description: Dennis ist in China aufgewachsen, studierte Wirtschaftssinologie und später International Business Development an der ESB Business School. Er ist Blockchain-Enthusiast, schickt euch regelmäßig den BlockLAB Newsletter und beschäftigt sich insbesondere mit der Tokenization von Geschäftsmodellen.
   mail: dennis@blocklab.de
 
-- id: arnd
-  title: Dr.
-  name: Arnd-Christian Kulow
-  image: /assets/images/team/kulow.jpg
-  topics: "Lawconcepts: Recht, Technik, Organisation"
-  description: Arnd ist Rechtsanwalt, Mediator und Syndikusrechtsanwalt in einem mittelständischen Medienunternehmen, zert. und gepr. Java-Programmierer (SGD), zert. Datenschutzbeauftragter (DSB-TÜV SÜD), zert. Fachkraft u. Beauftragter für Qualitätsmanagement DIN EN ISO 9001:2015 (QMF/QMB-TÜV SÜD), gepr. Nachweis der besonderen theoretischen Kenntnisse für den Fachanwalt IT-Recht, gem. § 2 FAO (DAV 2006), stv. Mitglied des Prüfungsausschusses für den FA-IT Recht bei der RAK Stuttgart, Dozent für ERV bei Rechtsfachwirtsausbildung im Fortbildungsinstitut der RAK Stuttgart, Mitglied des ERV Ausschuss bei der BRAK, Lehrbeauftragter für das Recht der Neuen Medien an den Universitäten Bayreuth und Tübingen.
-  web: http://www.kanzlei-kulow.de
+#- id: arnd
+#  title: Dr.
+#  name: Arnd-Christian Kulow
+#  image: /assets/images/team/kulow.jpg
+#  topics: "Lawconcepts: Recht, Technik, Organisation"
+#  description: Arnd ist Rechtsanwalt, Mediator und Syndikusrechtsanwalt in einem mittelständischen Medienunternehmen, zert. und gepr. Java-Programmierer (SGD), zert. Datenschutzbeauftragter (DSB-TÜV SÜD), zert. Fachkraft u. Beauftragter für Qualitätsmanagement DIN EN ISO 9001:2015 (QMF/QMB-TÜV SÜD), gepr. Nachweis der besonderen theoretischen Kenntnisse für den Fachanwalt IT-Recht, gem. § 2 FAO (DAV 2006), stv. Mitglied des Prüfungsausschusses für den FA-IT Recht bei der RAK Stuttgart, Dozent für ERV bei Rechtsfachwirtsausbildung im Fortbildungsinstitut der RAK Stuttgart, Mitglied des ERV Ausschuss bei der BRAK, Lehrbeauftragter für das Recht der Neuen Medien an den Universitäten Bayreuth und Tübingen.
+#  web: http://www.kanzlei-kulow.de
   
 - id: christian
   title: Dr.
