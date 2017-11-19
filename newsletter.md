@@ -48,94 +48,117 @@ Nachrichten zu Blockchain-Technology und Decentralized Computing
 **ICO Regulierung auf dem Vormarsch** 
 <br>
 [zum Newsletter](http://mailchi.mp/d85eac382962/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-433221)
+
 <br>
 **Blockchain und Versicherung** 
 <br>
 [zum Newsletter](http://mailchi.mp/ef2ca4d9798c/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-422341)
+
 <br>
 **ICOs - erste regulatorische Eingriffe und Einhörner** 
 <br>
 [zum Newsletter](http://mailchi.mp/41cbda9fbf73/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-416505)
+
 <br>
 **Weltveränderer in Katzen-Shirt** 
 <br>
 [zum Newsletter](http://mailchi.mp/a104eddc55d8/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-399265)
+
 <br>
 **Smart Contract Herausforderungen** 
 <br>
 [zum Newsletter](http://mailchi.mp/89d27d2764c1/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-389697)
+
 <br>
 **Bugs und Hacks** 
 <br>
 [zum Newsletter](http://mailchi.mp/2f4ebfc82864/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-384377)
+
 <br>
 **Blockchain und der Staat** 
 <br>
 [zum Newsletter](http://mailchi.mp/5e8351502533/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-371317)
+
 <br>
 **Blockchain Skalierbarkeit** 
 <br>
 [zum Newsletter](http://mailchi.mp/398bf69108aa/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-362557)
+
 <br>
 **Token und Token Sales Modelle** 
 <br>
 [zum Newsletter](http://mailchi.mp/ca6ad1e5dcd0/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-342809)
+
 <br>
 **Blockchain für autonome Fahrzeuge und Chat apps** 
 <br>
 [zum Newsletter](http://mailchi.mp/ea1a100f964b/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-329893)
+
 <br>
 **Digital Identity** 
 <br>
 [zum Newsletter](http://mailchi.mp/e81c70da5ac0/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-317113)
+
 <br>
 **Blockchain und Energieinfrastruktur** 
 <br>
 [zum Newsletter](http://mailchi.mp/f013f40df105/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-310325)
+
 <br>
 **Private Key und Wallet Sicherheit** 
 <br>
 [zum Newsletter](http://mailchi.mp/71019a3cef11/blockchain-in-der-kw16-private-key-und-wallet-sicherheit)
+
 <br>
 **Der Blockchain Tech Stack** 
 <br>
 [zum Newsletter](https://us14.campaign-archive.com/?u=90590f1e0655a3df4dc3857b1&id=21c0163b95)
+
 <br>
 **Dezentrale Applikationen favorisieren Ethereum** 
 <br>
 [zum Newsletter](https://us14.campaign-archive.com/?u=90590f1e0655a3df4dc3857b1&id=51bf02cb1d)
+
 <br>
 **Bitcoins Bürgerkrieg mit chinesischem Veto** 
 <br>
 [zum Newsletter](https://us14.campaign-archive.com/?u=90590f1e0655a3df4dc3857b1&id=64b6fc8b59)
+
 <br>
 **Blockchain-Konsortien nehmen Fahrt auf (und ab)** 
 <br>
 [zum Newsletter](https://us14.campaign-archive.com/?u=90590f1e0655a3df4dc3857b1&id=73a5569252)
+
 <br>
 **Ethereum im Fokus** 
 <br>
 [zum Newsletter](https://us14.campaign-archive.com/?u=90590f1e0655a3df4dc3857b1&id=c17f6a0145)
+
 <br>
 **Blockchain Tokens und dezentrale Geschäftsmodelle** 
 <br>
 [zum Newsletter](https://us14.campaign-archive.com/?u=90590f1e0655a3df4dc3857b1&id=ff8d1352d0)
+
 <br>
 **Blockchain and Social Media** 
 <br>
 [zum Newsletter](https://us14.campaign-archive.com/?u=90590f1e0655a3df4dc3857b1&id=5496d3b6c3)
+
 <br>
 **Mobility Solutions** 
 <br>
 [zum Newsletter](https://us14.campaign-archive.com/?u=90590f1e0655a3df4dc3857b1&id=16e8be0248)
+
 <br>
 **Public versus Private Blockchains** 
 <br>
 [zum Newsletter](https://us14.campaign-archive.com/?u=90590f1e0655a3df4dc3857b1&id=31d673a764)
+
 <br>
 **Blockchain Applikationen im Fokus**
 <br>
 [zum Newsletter](https://us14.campaign-archive.com/?u=90590f1e0655a3df4dc3857b1&id=c4e7217525)
+
 <br>
 **Kostensenkung, Banken und Versicherungen**
 <br>
