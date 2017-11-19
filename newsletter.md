@@ -33,15 +33,15 @@ Nachrichten zu Blockchain-Technology und Decentralized Computing
 **Name Newsletter** 
 <br>
 [zum Newsletter](http://fortune.com/ethereum-blockchain-vitalik-buterin/)
-
+<br>
 **Name Newsletter** 
 <br>
 [zum Newsletter](http://fortune.com/ethereum-blockchain-vitalik-buterin/)
-
+<br>
 **Name Newsletter** 
 <br>
 [zum Newsletter](http://fortune.com/ethereum-blockchain-vitalik-buterin/)
-
+<br>
 **Name Newsletter** 
 <br>
 [zum Newsletter](http://fortune.com/ethereum-blockchain-vitalik-buterin/)
