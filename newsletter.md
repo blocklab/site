@@ -31,7 +31,6 @@ Nachrichten zu Blockchain-Technology und Decentralized Computing
 <br>
 
 ### Name Newsletter 
-
 <br>
 [zum Newsletter](Link)
 
