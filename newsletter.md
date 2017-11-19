@@ -34,9 +34,7 @@ Nachrichten zu Blockchain-Technology und Decentralized Computing
 <br>
 [zum Newsletter](Link)
 
-**"Can this 22-year-old coder out-Bitcoin Bitcoin?" - Fortune Magazine - 27.09.2016**
-<br>
-Letztes Jahr erschien ein Cover Artikel über Vitalik Buterin. Demnach studierten beide seiner Eltern kurz nach dem Fall der Sowjetunion Informatik in Moskau, bevor Vater und Sohn 1999 gemeinsam nach Toronto auswanderten. Als er vier Jahre alt war, bekam Vitalik seinen ersten Computer und spielte am liebsten mit Microsoft Excel, so sein Vater, Dimitry. Dieser hatte Vitalik 2011 auch auf Bitcoin und Blockchain aufmerksam gemacht, woraufhin er noch im selben Jahr das Magazin Bitcoin Magazine gründete. Limitationen der Bitcoin Blockchain bewegten ihn schließlich mit einer Gruppe an Mitstreitern Ethereum in 2014 zu initiieren. Mittlerweile zählen Vitalik und Ethereum zu den Rockstars der Blockchain-Szene, die vermehrt Einfluss auf Wirtschaft und Politik nimmt. So nahm sich jüngst auch Wladimir Putin persönlich Zeit, um mit Vitalik ein Gespräch unter vier Augen zu führen (dieses Mal ohne Katzen-Shirt).
+**"Name Newsletter** 
 <br>
 [zum Artikel](http://fortune.com/ethereum-blockchain-vitalik-buterin/)
 
