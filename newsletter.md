@@ -33,14 +33,17 @@ Nachrichten zu Blockchain-Technology und Decentralized Computing
 **Das Crypto Valley Zug im Spotlight** 
 <br>
 [zum Newsletter](http://mailchi.mp/85bd002467cc/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-470485)
+
 <br>
 **Erste Signale der BaFin zu ICOs** 
 <br>
 [zum Newsletter](http://mailchi.mp/d9ccca6da7b4/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-465469)
+
 <br>
 **Anbruch der Tokenisierung** 
 <br>
 [zum Newsletter](http://mailchi.mp/88b2885128f4/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-454437)
+
 <br>
 **ICO Regulierung auf dem Vormarsch** 
 <br>
