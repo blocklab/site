@@ -8,7 +8,11 @@ permalink: /events/
 
 Zukünftige und vergangene Meetups können auf der [meetup.com](https://www.meetup.com/Blockchain-meetup/) Platform eingesehen werden.
 
-## Teilnahme an Hackathons
+## Hackathon
+
+[Blockchain Hackathon Stuttgart - 02-04.02.2018](http://www.blockchain-hackathon.de/)
+
+### Teilname an vergangengn Hackathons
 
 [DAppHack - 26-27.11.2016 Berlin](https://www.eventbrite.de/e/dapphack-registration-29070767448?aff=es2)
 
