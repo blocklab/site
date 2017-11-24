@@ -37,7 +37,7 @@ permalink: /team/
     </a>
     {% endif %}
     {% if member.twitter %}
-    <a href="https://github.com/{{ member.twitter }}">
+    <a href="https://twitter.com/{{ member.twitter }}">
       <i class="fa fa-twitter" aria-hidden="true"></i>
     </a>
     {% endif %}
@@ -47,7 +47,7 @@ permalink: /team/
     </a>
     {% endif %}
     {% if member.linkedin %}
-    <a href="{{ member.linkedin }}">
+    <a href="https://www.linkedin.com/in/{{ member.linkedin }}">
       <i class="fa fa-linkedin" aria-hidden="true"></i>
     </a>
     {% endif %}
