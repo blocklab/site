@@ -29,7 +29,12 @@ Nachrichten zu Blockchain-Technology und Decentralized Computing
 <!--End mc_embed_signup-->
 
 <br>
+<br>
+**Crypto Franchising** 
+<br>
+[zum Newsletter](http://mailchi.mp/2457fe32b260/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-476313)
 
+<br>
 **Das Crypto Valley Zug im Spotlight** 
 <br>
 [zum Newsletter](http://mailchi.mp/85bd002467cc/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-470485)
