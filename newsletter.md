@@ -5,7 +5,7 @@ permalink: /newsletter/
 ---
 
 blockNEWS Stuttgart
-Nachrichten zu Blockchain-Technology und Decentralized Computing
+Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 <br>
 
 <!-- Begin MailChimp Signup Form -->
