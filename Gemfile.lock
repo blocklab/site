@@ -211,7 +211,7 @@ GEM
     tzinfo (1.2.3)
       thread_safe (~> 0.1)
     unicode-display_width (1.3.0)
-    yajl-ruby (1.2.2)
+    yajl-ruby (1.2.3)
     yell (2.0.7)
 
 PLATFORMS
@@ -227,4 +227,4 @@ DEPENDENCIES
   sass (~> 3.4, >= 3.4.20)
 
 BUNDLED WITH
-   1.15.3
+   1.16.0
