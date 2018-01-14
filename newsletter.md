@@ -30,6 +30,16 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**2018 - Ready for Mainstream?** 
+<br>
+[zum Newsletter](http://mailchi.mp/6e8ea75f98de/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-509053)
+
+<br>
+**Cryptokitties, Clients und Block GasLimit** 
+<br>
+[zum Newsletter](http://mailchi.mp/c9b49391b7c6/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-487149)
+
+<br>
 **Crypto Franchising** 
 <br>
 [zum Newsletter](http://mailchi.mp/2457fe32b260/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-476313)
