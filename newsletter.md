@@ -40,7 +40,7 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 [zum Newsletter](http://mailchi.mp/c9b49391b7c6/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-487149)
 
 <br>
-**Crypto Franchising (Dezember2017)** 
+**Crypto Franchising (Dezember 2017)** 
 <br>
 [zum Newsletter](http://mailchi.mp/2457fe32b260/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-476313)
 
