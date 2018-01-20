@@ -30,6 +30,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**Jenseits der Bitcoin Blase (Januar 2018)** 
+<br>
+[zum Newsletter](http://mailchi.mp/062a6ead75ee/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-513401)
+
+<br>
 **2018 - Ready for Mainstream? (Januar 2018)** 
 <br>
 [zum Newsletter](http://mailchi.mp/6e8ea75f98de/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-509053)
