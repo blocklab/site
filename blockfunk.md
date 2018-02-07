@@ -11,13 +11,18 @@ permalink: /blockfunk/
     jQuery(function($) {
       $("#rss-feed").rss("https://digitalfinance.blog/feed/podcast",
       {
-        entryTemplate:'<li><h3>{date}: {title}</strong></h3>
+        entryTemplate:'<li class="blockfunk"><h3>{date}: {title}</strong></h3>
         	<a href="{url}" target="_href">Link</a><br/>
-    	    {body}</li>',
-    	dateFormat: 'DD.MM.YYYY',
-    	dateLocale: 'de'
+    	    {body}{podcast}</li>',
+    	  dateFormat: 'DD.MM.YYYY',
+    	  dateLocale: 'de',
+        tokens: {
+          podcast: function (entry, tokens) {
+            console.log(entry.content);
+          }
+        }
       })
     })
   </script>
   
-  <div id="rss-feed"></div>
+  <div class="blockfunk-feed" id="rss-feed"></div>
