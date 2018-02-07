@@ -376,3 +376,36 @@ ul.navbar li a {
   }
 
 }
+
+/* Blockfunk page */
+.blockfunk-feed {
+  ul {
+    list-style-type: none;
+    margin-left: 0;
+  }
+
+  li.blockfunk {
+    padding: 20px;    
+  }
+
+  li.blockfunk:not(:last-child) {
+    border-bottom-width: 3px;
+    border-bottom-style: solid;
+    border-color: rgba(0,0,0,0.3);
+  }
+
+  table {
+    font-size: 12px;
+    td {
+      vertical-align: top;
+    }
+
+    td {
+      padding: 5px;
+    }
+
+    img {
+      height: auto;
+    }
+  }
+}
