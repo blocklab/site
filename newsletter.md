@@ -30,6 +30,16 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**I am hodling (Februar 2018)** 
+<br>
+[zum Newsletter](http://mailchi.mp/83b387d895fe/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-527585)
+
+<br>
+**IOTA und die Machine Economy (Februar 2018)** 
+<br>
+[zum Newsletter](http://mailchi.mp/af745b91937b/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-523141)
+
+<br>
 **Jenseits der Bitcoin Blase (Januar 2018)** 
 <br>
 [zum Newsletter](http://mailchi.mp/062a6ead75ee/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-513401)
