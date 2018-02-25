@@ -30,6 +30,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**Why crypto nations will win (Februar 2018)** 
+<br>
+[zum Newsletter](http://mailchi.mp/74868108c3e5/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-535645)
+
+<br>
 **I am hodling (Februar 2018)** 
 <br>
 [zum Newsletter](http://mailchi.mp/83b387d895fe/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-527585)
