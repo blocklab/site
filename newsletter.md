@@ -30,6 +30,12 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**The Rise of the Security Token (März 2018)** 
+<br>
+[zum Newsletter](http://mailchi.mp/f80926fdde80/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-544333)
+
+<br>
+<br>
 **Why crypto nations will win (Februar 2018)** 
 <br>
 [zum Newsletter](http://mailchi.mp/74868108c3e5/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-535645)
