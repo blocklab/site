@@ -10,8 +10,6 @@ Wir glauben, dass die Blockchain-Technologie einen grundlegenden Wandel des Inte
 
 Als das Netzwerk für Blockchain-Technologie der Region bereiten wir Informationen auf und stellen diese Interessierten zur Verfügung. Wir informieren und qualifizieren zu Blockchain-Technologie Themen und vernetzen Spezialisten und Unternehmen. Zusätzlich testen wir herstellerunabhängig und neutral bestehende Angebote, Konzepte und Technologien und entwickeln eigene Produkt- und Serviceideen.
 
-
-
 <img src="/assets/images/blockchain_schwerpunkte-blocklab-stgt-04.svg" alt="Inhaltliche Schwerpunkte blockLAB" height="500" width="500" align="middle">
 
 blockLAB Stuttgart existiert seit Anfang 2016. Wir verstehen uns als neutrale non-profit Organisation, die offen ist für Einzelpersonen und Unternehmen.
