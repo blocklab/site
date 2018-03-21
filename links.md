@@ -10,6 +10,8 @@ Die folgenden Links sollen einen Einstieg in die Thematik ermöglichen.
 
 * [Wissenschaft auf dem Bierdeckel: Wie funktioniert eigentlich eine Blockchain?](https://motherboard.vice.com/de/article/vv34vj/wissenschaft-auf-dem-bierdeckel-wie-funktioniert-eigentlich-eine-blockchain-)
 * [Tim Ferriss Podcast: The Quiet Master of Cryptocurrency — Nick Szabo](https://tim.blog/2017/06/04/nick-szabo)
+* [Interaktives Beispiel für die grundlegende Funktionsweise einer Blockchain](http://blockchain.mit.edu/how-blockchain-works/)
+
 
 ## Weiterführend
 
