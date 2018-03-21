@@ -66,3 +66,5 @@ Tokenization
 * [Introduction To Crypto Currency - University of Nicosia](http://digitalcurrency.unic.ac.cy/)
 * [Coursera - Princeton University - Bitcoin and Cryptocurrency Technologies](https://www.coursera.org/learn/cryptocurrency)
 * [Coursera - Stanford University - Cryptography I](https://www.coursera.org/learn/crypto)
+* [LinuxFoundation edX - Blockchain for Business - An Introduction to Hyperledger Technologies](https://www.edx.org/course/blockchain-business-introduction-linuxfoundationx-lfs171x)
+
