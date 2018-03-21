@@ -12,7 +12,8 @@ Als das Netzwerk für Blockchain-Technologie der Region bereiten wir Information
 
 Inhaltlich liegen unsere Schwerpunkte auf Programmierung, Geschäftsmodelle und Internet der Dinge (IoT).
 
-<img src="/assets/images/Kreise.jpg" alt="Kreise">
+<img src="/assets/images/blockchain_schwerpunkte-blocklab-stgt-04.svg" alt="Inhaltliche Schwerpunkte blockLAB">
+
 
 blockLAB Stuttgart existiert seit Anfang 2016. Wir verstehen uns als neutrale non-profit Organisation, die offen ist für Einzelpersonen und Unternehmen.
 
