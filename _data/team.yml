@@ -45,20 +45,20 @@
   title: Dr.
   name: Christian Beckel
   image: /assets/images/team/christian.jpg
-  topics: IOT, Research, Venture
+  topics: IOT, RESEARCH, VENTURE
   description: Christian studierte Informatik in Tübingen und promovierte an der ETH Zürich. Seine fast 10-jährige Erfahrung im Bereich IoT & Distributed Systems sammelte er durch vielfältige Aktivitäten in Zürich, im Silicon Valley und in Stuttgart, wo er derzeit bei einem großen Technologiekonzern tätig ist. Aufgrund seiner Begeisterung für Kryptowährungen und Blockchains schloss er sich 2016 dem BlockLAB an. Dort engagiert er sich bei der Entwicklung von Ideen und Konzepten für Blockchain-Anwendungen sowie als Referent in unserem Stuttgarter Meetup.
   mail: christian@blocklab.de
   
 - id: rob
   name: Robert Tuchel
   image: /assets/images/team/rob.jpg
-  topics: Systementwicklung, IT-Architektur
+  topics: SYSTEMENTWICKLUNG, IT-ARCHITEKTUR
   description: Robert ist Diplom Betriebswirt (BA) Fachrichtung Wirtschaftsinformatik und seit 15 Jahren in Rechenzentren tätig. Mitgründer von blockLAB.
 
 - id: andrei
   name: Andrei Martchouk
   image: /assets/images/team/andrei.jpg
-  topics: Industrieanwendungen, Community
+  topics: INDUSTRIEANWENDUNGEN, COMMUNITY
   description: Andrei ist Managing Director bei der KI decentralized GmbH. Davor war er als CEO und Mitgründer von Yacuna, einer Cryptocurrency Börse, und Blockchain-Lösungsanbieter, tätig. Vor dieser Gründung arbeitete er als Chief Architect und Leiter Entwicklung für eines der ersten deutschen Fintech-Unternehmen ClickandBuy. In diesem Umfeld hat er seine 14-jährige Erfahrung im Payment-Segment gesammelt. Der Diplominformatiker, Absolvent der Fachhochschule Köln und der Linguistischen Universität Minsk wurde 2010 zum Blockchain-Enthusiast.
   mail: andrei@martchouk.com
 
