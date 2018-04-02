@@ -30,6 +30,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**Web3 Design Prinzipien und UX (April 2018)** 
+<br>
+[zum Newsletter](https://mailchi.mp/d9fb3d283569/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-556877)
+
+<br>
 **Blockchain for the Sharing Economy (März 2018)** 
 <br>
 [zum Newsletter](http://mailchi.mp/a42829e2f643/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-552689)
