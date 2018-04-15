@@ -30,6 +30,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**Scaling Blockchains: on-,off- und inter-chain (April 2018)** 
+<br>
+[zum Newsletter](https://mailchi.mp/97afac7b0ab4/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-564857)
+
+<br>
 **Web3 Design Prinzipien und UX (April 2018)** 
 <br>
 [zum Newsletter](https://mailchi.mp/d9fb3d283569/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-556877)
