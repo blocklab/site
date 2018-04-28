@@ -30,6 +30,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**Mehr als reine Krypto-Börsen - Battle of Exchanges (April 2018)** 
+<br>
+[zum Newsletter](https://mailchi.mp/a4d63b68dc8c/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-573009)
+
+<br>
 **Scaling Blockchains: on-, off- und inter-chain (April 2018)** 
 <br>
 [zum Newsletter](https://mailchi.mp/97afac7b0ab4/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-564857)
