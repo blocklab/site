@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "IHK Region Stuttgart Blockchain Camp II"
-image: 
+image: IHK Region Stuttgart Logo.png
 ---
 
 
