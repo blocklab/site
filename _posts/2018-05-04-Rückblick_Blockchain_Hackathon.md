@@ -1,6 +1,6 @@
 ---
 layout: post
-author: "Michael Munz"
+author: ""
 title: "Blockchain Hackathon – Three Days Envisioning The Crypto Future!"
 image: Blockchain_Logo_final_colored_typo_einzeilig-300x250.png
 ---
