@@ -4,6 +4,7 @@ title: "Blockchain Hackathon – Three Days Envisioning The Crypto Future!"
 image: Blockchain_Logo_final_colored_typo_einzeilig-300x250.png
 ---
 
+Von Michael Munz
 
 Vom 2. bis 4. Februar 2018 fand der „1. Stuttgarter Blockchain Hackathon“ in der Merz-Akademie statt. 
 Mehr als 100 Teilnehmer aus aller Welt reisten nach Stuttgart, um innerhalb von drei Tage ihre Idee auszuarbeiten 
