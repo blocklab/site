@@ -27,6 +27,6 @@ Diese Übersicht wird sich in den nächsten Monaten und Jahren weiter verändern
 <br>[GFT](https://www.gft.com/de/de/index/) 
 <br>[IBM](https://www.ibm.com/de-de/) 
 <br>[compacer](https://www.eurodatatec.de/) 
-<br>[OLI Systems GmbH](https://www.my-oli.com/de/)
+<br>[OLI Systems GmbH](http://www.my-oli.com/de/)
  
  
