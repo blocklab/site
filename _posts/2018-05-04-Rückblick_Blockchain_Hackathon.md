@@ -1,3 +1,12 @@
+---
+layout: post
+author: "Michael Munz"
+title: "Rückblick: Blockchain Hackathon – Three Days Envisioning The Crypto Future!"
+image: Blockchain_Logo_final_colored_typo_einzeilig-300x250.png
+---
+
+
+
 Rückblick: Blockchain Hackathon – Three Days Envisioning The Crypto Future!
 
 Vom 2. bis 4. Februar 2018 fand der „1. Stuttgarter Blockchain Hackathon“ in der Merz-Akademie statt. 
@@ -16,3 +25,6 @@ Aus diesem Grund ist bereits der 2. Stuttgarter Blockchain Hackathon in Planung.
 
 Alle Bilder, Artikel und Videos zum ersten Blockchain Hackathon findet ihr auf der Webseite oder auf YouTube.
 
+[Webseite Blockchain Hackathon](https://www.blockchain-hackathon.de/review-hackathon-2018/#1518872232327-6543b639-338d)
+
+[YouTube - Blockchain Hackathon](https://www.youtube.com/channel/UCTQIyxMVsddwEk6-wg-UVkA)
