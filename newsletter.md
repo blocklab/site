@@ -19,6 +19,10 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
     <div id="mc_embed_signup_scroll">
 	<label for="mce-EMAIL">Den blockNEWS Newsletter abonnieren</label>
 	<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="Email-Adresse" required>
+	<label>
+	<input type="checkbox" value="" name="CONSENT" id="mce-CONSENT" required>
+	Hiermit stimme ich der Verarbeitung und Speicherung meiner Email-Adresse gemäß den unter <a href="/privacy">Datenschutz</a> genannten Bedingungen zu.
+	</label>
     <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
     <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_90590f1e0655a3df4dc3857b1_64c6d59831" tabindex="-1" value=""></div>
     <div class="clear"><input type="submit" value="Abonnieren" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
