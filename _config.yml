@@ -6,7 +6,6 @@ keywords: "Blockchain, Bitcoin, Ethereum, Stuttgart"
 url: http://site.blocklab.de
 baseurl: ""
 
-google_analytics: UA-86796222-1
 repo: http://github.com/blocklab/site
 
 # Build settings
