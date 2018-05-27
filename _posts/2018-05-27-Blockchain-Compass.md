@@ -1,7 +1,7 @@
 ---
 layout: post
 author: "Kristian Borkert"
-title: "Blockchain Compass: 360°-Analyse von Business-Modellen und Blockchain-Technologie"
+title: "Blockchain Compass: 360°- Analyse von Business-Modellen und Blockchain-Technologie"
 image: 2018-05-27-Blockchain-Compass.jpg
 ---
 
