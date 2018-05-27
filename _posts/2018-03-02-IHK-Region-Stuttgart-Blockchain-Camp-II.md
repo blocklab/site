@@ -1,10 +1,9 @@
 ---
 layout: post
+author: "Michael Munz"
 title: "IHK Region Stuttgart Blockchain Camp II"
 ---
 
-
-Von **Michael Munz**
 
 Am 06.02.2018 fand bereits die zweite Veranstaltung der IHK Region Stuttgart zum Thema Blockchain statt. Die Veranstaltung setzte im Vergleich zum ersten Blockchain Camp die Schwerpunkte auf neue Geschäftsmodelle, die rechtlichen Rahmenbedingungen sowie Anwendungsfelder, die durch die Blockchain-Technologie nachhaltig verändert werden könnten. Die Veranstaltung wurde von blockLAB mitentwickelt – mehrere Vertreter von blockLAB traten als Sprecher auf.
 
