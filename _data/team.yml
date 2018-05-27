@@ -83,7 +83,7 @@
 - id: michael
   name: Michael Munz
   topics: DIGITALE INNOVATIONEN, GESCHÄFTSMODELLE, STARTUPS
-  image: /assets/images/team/michael.jpg
+  image: /assets/images/team/michaelmunz.jpg
   description: Michael ist Digital Innovation Manger bei der 51nodes GmbH und war zuvor als Innovation Manger im Automotiv Bereich tätig. Während seines Master-Studiums in Wirtschaftsinformatik beschäftigte er sich mit den Auswirkungen der Blockchain-Technologie auf Industrieunternehmen und machte dies zum Thema seiner Masterarbeit. Insbesondere die Entwicklung neuer Geschäftsmodelle, Tokenisierung und Handelsplätze sowie Kooperationen mit Startups sind seine Interessengebiete.
   xing: Michael_Munz12
   linkedin: michael-munz
@@ -92,8 +92,9 @@
 - id: kristian
   name: Kristian Borkert
   topics: IT-RECHT, IT-SOURCING
-  image: /assets/images/team/kristian.jpg
+  image: /assets/images/team/kristianborkert.jpg
   description: Kristian ist Gründer der JURIBO Anwaltskanzlei. Er betätigt sich seit rund zehn Jahren als IT-Jurist, Datenschutzbeauftragter, Einkäufer und Scrum Master. Zuvor hat er u.a. den globalen IT-Einkauf der Celesio AG (jetzt McKesson Europe) sowie den Einkauf von Projekten und Dienstleistungen bei der W&W Gruppe verantwortet. Er ist Redner, Autor, Blogger, Lehrbeauftragter sowie Referent (BME Akademie). Sein besonderes Interesse gilt agilen Methoden und Zusammenarbeitsmodellen sowie digitaler Transformation unter Einsatz von Blockchain-Technologie.
-  twitter: 
-  xing: 
-  linkedin:
+  twitter: sourcinglawyer
+  xing: Kristian_Borkert
+  linkedin: kristian-borkert-it-law-proc
+  mail: kristian.borkert@juribo.de
