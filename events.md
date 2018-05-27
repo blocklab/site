@@ -8,6 +8,11 @@ permalink: /events/
 
 Zukünftige und vergangene Meetups können auf der [meetup.com](https://www.meetup.com/Blockchain-meetup/) Platform eingesehen werden.
 
+## Anstehende Veranstaltungen
+[Workshop für digitale Geschäftsmodelle - 11.06.2018 Stuttgart](https://www.bwcon.de/veranstaltungsueberblick/detail/workshop-fuer-digitale-geschaeftsmodelle-stuttgart.html)
+
+[Blockchain: Wissenschaft trifft Wirtschaft - 26.06.2018 Stuttgart](https://www.bwcon.de/veranstaltungsueberblick/detail/blockchain-wissenschaft-trifft-wirtschaft-stuttgart.html)
+
 ## Hackathon
 
 [Blockchain Hackathon Stuttgart - 02-04.02.2018](http://www.blockchain-hackathon.de/)
