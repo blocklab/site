@@ -1,11 +1,9 @@
 ---
 layout: post
+author: "Michael Munz"
 title: "Blockchain in der Region Stuttgart"
 image: 2018-05-04_blockLAB-Blockchain in der Region Stuttgart.jpg
 ---
-
-
-Von **Michael Munz**
 
 Eine erste Übersicht über Aktivitäten und Dienstleistungen rund um das Thema Blockchain in der Region Stuttgart.
 
