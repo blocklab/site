@@ -34,6 +34,16 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**Money, blockchains, and social scalability (Juni 2018)** 
+<br>
+[zum Newsletter](https://mailchi.mp/bed2f4a04e7f/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-594461)
+
+<br>
+**Entering the age of data privacy (Mai 2018)** 
+<br>
+[zum Newsletter](https://mailchi.mp/ab8a7aaa22c7/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-590417)
+
+<br>
 **Mehr als reine Krypto-Börsen - Battle of Exchanges (April 2018)** 
 <br>
 [zum Newsletter](https://mailchi.mp/a4d63b68dc8c/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-573009)
