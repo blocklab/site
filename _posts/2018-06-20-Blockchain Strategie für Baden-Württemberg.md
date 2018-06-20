@@ -44,3 +44,4 @@ des Strategiepapiers zusammen. Dabei führt er aus:
 *„Mit der Entwicklung der Blockchain-Technologie bietet sich uns eine große Chance. 
 Aktuell werden die Karten zukünftiger digitaler Wertschöpfung neu gemischt. Baden-Württemberg hat jetzt die Chance, sich einen Teil des neu entstehenden Zukunftsmarktes zu sichern."*
 
+
