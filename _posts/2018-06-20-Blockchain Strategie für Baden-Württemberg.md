@@ -2,7 +2,7 @@
 layout: post
 author: "Michael Munz"
 title: "Blockchain Strategie für Baden-Württemberg"
-image:  2018-06-20-Blockchain Strategie BW.jpg
+image:  2018-06-20-Blockchain Strategie.jpg
 ---
 
 Interdisziplinäre Experten für Blockchain Technologie sowie Vertreter führender Wirtschaftsunternehmen und 
