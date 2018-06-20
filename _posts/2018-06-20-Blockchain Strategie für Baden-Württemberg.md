@@ -44,13 +44,3 @@ des Strategiepapiers zusammen. Dabei führt er aus:
 *„Mit der Entwicklung der Blockchain-Technologie bietet sich uns eine große Chance. 
 Aktuell werden die Karten zukünftiger digitaler Wertschöpfung neu gemischt. Baden-Württemberg hat jetzt die Chance, sich einen Teil des neu entstehenden Zukunftsmarktes zu sichern."*
 
-
-Hier sehen Sie das Blockchain Ökosystem in Baden-Württemberg mit seinen beteiligten Organisationen.
-
-<img src="https://github.com/blocklab/site/blob/gh-pages/assets/images/Blockchain%20in%20BW_Stand%20Mai%202018.jpg">
-
-Befindet sich Ihr Unternehmen in Baden-Württemberg, erscheint jedoch nicht auf der Grafik?
-
-Dann können Sie das [blockLAB Team](http://site.blocklab.de/team/#michael) gerne kontaktieren.
-
-
