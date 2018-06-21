@@ -1,7 +1,7 @@
 ---
 layout: post
 author: "Michael Munz"
-title: "Blockchain Strategie für Baden-Württemberg"
+title: "Blockchain Ökosystem in Baden-Württemberg"
 image:  Blockchain in BW_Stand Mai 2018.jpg
 ---
 
