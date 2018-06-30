@@ -34,6 +34,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**Blockchain Strategie für Baden-Württemberg (Juni 2018)** 
+<br>
+[zum Newsletter](https://mailchi.mp/665c36e08fe1/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-595369)
+
+<br>
 **Money, blockchains, and social scalability (Juni 2018)** 
 <br>
 [zum Newsletter](https://mailchi.mp/bed2f4a04e7f/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-594461)
