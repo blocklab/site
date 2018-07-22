@@ -34,6 +34,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**Augur - Uber for Knowledge (Juli 2018)** 
+<br>
+[zum Newsletter](https://mailchi.mp/9aa015143f0a/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-619629)
+
+<br>
 **Blockchain Strategie für Baden-Württemberg (Juni 2018)** 
 <br>
 [zum Newsletter](https://mailchi.mp/665c36e08fe1/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-595369)
