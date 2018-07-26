@@ -13,4 +13,4 @@ Ausgangsfragestellung der Zusammenarbeit war, welche neuen Möglichkeiten sich d
 aus additiven Produktionsverfahren und der Blockchain-Technologie ergeben. 
 Neben des für dem Prototypen gewählten produktionsorientierten Transaktionsansatzes wurden weitere Anwendungsbereiche analysiert. 
 So bietet die Blockchain-Technologie im Produktionsbereich weitere Einsatzmöglichkeit wie z.B. Maschinenkapazitätshandel, Preisbildung für einzelne Produktionsschritte, Tokenisierung von Produkte und neue Finanzierungsansätze für Produktionsmittel.
-Gemeinsam mit dem ISW entstand dazu folgendes Blockchain-basierte Produktionsmodell.
+Gemeinsam mit dem ISW entstand das Blockchain-basierte Produktionsmodell (siehe oben).
