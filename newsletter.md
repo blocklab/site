@@ -34,6 +34,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**Cryptoeconomics (Juli 2018)** 
+<br>
+[zum Newsletter](https://mailchi.mp/86f63a99f682/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-622409)
+
+<br>
 **Augur - Uber for Knowledge (Juli 2018)** 
 <br>
 [zum Newsletter](https://mailchi.mp/9aa015143f0a/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-619629)
