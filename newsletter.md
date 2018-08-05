@@ -34,6 +34,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**Blockchain-Technologie und ihre Bedeutung für den Glücksspielsektor (August 2018)** 
+<br>
+[zum Newsletter](https://mailchi.mp/cec64f04a86f/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-625385)
+
+<br>
 **Cryptoeconomics (Juli 2018)** 
 <br>
 [zum Newsletter](https://mailchi.mp/86f63a99f682/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-622409)
