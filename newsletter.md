@@ -36,7 +36,7 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 <br>
 **Börse Stuttgart Ankündigung / NFTs (August 2018)** 
 <br>
-[zum Newsletter](https://mailchi.mp/cec64f04a86f/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-625385)
+[zum Newsletter](https://mailchi.mp/9c3ce40eb5f1/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-629425)
 
 <br>
 **Blockchain-Technologie und ihre Bedeutung für den Glücksspielsektor (August 2018)** 
