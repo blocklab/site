@@ -34,6 +34,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**New Art on the Block (September 2018)** 
+<br>
+[zum Newsletter](https://mailchi.mp/22344dd5d8fd/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-638437)
+
+<br>
 **Börse Stuttgart Ankündigung / NFTs (August 2018)** 
 <br>
 [zum Newsletter](https://mailchi.mp/9c3ce40eb5f1/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-629425)
