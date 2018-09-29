@@ -34,6 +34,16 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**The State of Stablecoins (September 2018)** 
+<br>
+[zum Newsletter](https://mailchi.mp/5e47bfd7d8d9/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-653049)
+
+<br>
+**Von Cypherpunks und Privatsphäre (September 2018)** 
+<br>
+[zum Newsletter](https://mailchi.mp/ecd31ae76ddd/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-649437)
+
+<br>
 **New Art on the Block (September 2018)** 
 <br>
 [zum Newsletter](https://mailchi.mp/22344dd5d8fd/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-638437)
