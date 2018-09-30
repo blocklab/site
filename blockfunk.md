@@ -13,13 +13,10 @@ permalink: /blockfunk/
       {
         entryTemplate:'<li class="blockfunk"><h3>{date}: {title}</strong></h3>
         	<a href="{url}" target="_href">Link</a><br/>
-    	    {body}{podcast}</li>',
+    	    {body}</li>',
     	  dateFormat: 'DD.MM.YYYY',
     	  dateLocale: 'de',
-    	  ssl: true,
-        tokens: {
-          podcast: function (entry, tokens) {}
-        }
+    	  ssl: true
       })
     })
   </script>
