@@ -16,6 +16,7 @@ permalink: /blockfunk/
     	    {body}{podcast}</li>',
     	  dateFormat: 'DD.MM.YYYY',
     	  dateLocale: 'de',
+    	  ssl: true,
         tokens: {
           podcast: function (entry, tokens) {
             console.log(entry.content);
