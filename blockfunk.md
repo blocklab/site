@@ -18,9 +18,7 @@ permalink: /blockfunk/
     	  dateLocale: 'de',
     	  ssl: true,
         tokens: {
-          podcast: function (entry, tokens) {
-            console.log(entry.content);
-          }
+          podcast: function (entry, tokens) {}
         }
       })
     })
