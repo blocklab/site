@@ -34,6 +34,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**Blockchain - semantisches Brachland (Oktober 2018)** 
+<br>
+[zum Newsletter](https://mailchi.mp/cc49ff5d2cc9/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-661229)
+
+<br>
 **The State of Stablecoins (September 2018)** 
 <br>
 [zum Newsletter](https://mailchi.mp/5e47bfd7d8d9/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-653049)
