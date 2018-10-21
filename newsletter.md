@@ -34,6 +34,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**The state of the token market (Oktober 2018)** 
+<br>
+[zum Newsletter](https://mailchi.mp/da2cc924ab10/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-665261)
+
+<br>
 **Blockchain - semantisches Brachland (Oktober 2018)** 
 <br>
 [zum Newsletter](https://mailchi.mp/cc49ff5d2cc9/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-661229)
