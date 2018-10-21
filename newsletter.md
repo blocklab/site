@@ -34,7 +34,7 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
-**The state of the token market (Oktober 2018)** 
+**The State of the Token Market (Oktober 2018)** 
 <br>
 [zum Newsletter](https://mailchi.mp/da2cc924ab10/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-665261)
 
