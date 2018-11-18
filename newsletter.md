@@ -34,6 +34,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**Plug-and-Play für Public Chains (November 2018)** 
+<br>
+[zum Newsletter](https://mailchi.mp/ba3dccb977dc/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-680417)
+
+<br>
 **Offener Brief an den Bundestag (Oktober 2018)** 
 <br>
 [zum Newsletter](https://mailchi.mp/ebfdb6d8f155/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-669141)
