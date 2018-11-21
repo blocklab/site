@@ -13,4 +13,4 @@ Sechs Veranstaltungen werden das Potenzial, die Risiken und Grenzen der Blockcha
 
 Aus dem Herzen der Automobilstadt, in der Innovation schon immer ein Zuhause hatte, weht der Wind der Blockchain-Revolution. Komm und entdecke das Potenzial der Blockchain-Technologie in Stuttgart!
 
-Weitere Informationen finden Sie unter [Blockchain-Stuttgart.de](https://www.blockchain-stuttgart.de)
+Weitere Informationen finden Sie unter [Blockchain-Stuttgart.de](https://blockchain-stuttgart.de/events/)
