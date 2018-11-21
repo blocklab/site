@@ -2,7 +2,7 @@
 layout: post
 author: "Michael Munz"
 title: "Blockchain Stuttgart Week"
-image:  Blockchain Stuttgart Week.jpg
+image: Blockchain Stuttgart Week.jpg
 ---
 
 Vom 13. bis 22. Februar 2019 öffnet Stuttgart seine Pforten für alle Blockchain-Enthusiasten und -Interessierten aus dem In- und Ausland. An zehn spannenden Tagen werden Zukunftsszenarien für Blockchain-Anwendungen beleuchtet und aufzeigt, wie diese Technologie die Bereiche Geschäftsabwicklung, Identitätsmanagement, Bankenwesen, Regierungen und viele weitere verbessern kann...
