@@ -56,6 +56,7 @@
   image: /assets/images/team/Robert Tuchel.jpg
   topics: SYSTEMENTWICKLUNG, IT-ARCHITEKTUR
   description: Robert ist Diplom Betriebswirt (BA) Fachrichtung Wirtschaftsinformatik und seit 15 Jahren in Rechenzentren tätig. Mitgründer von blockLAB.
+  mail: tuchel@blocklab.de
 
 - id: andrei
   name: Andrei Martchouk
