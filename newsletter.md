@@ -34,6 +34,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**The future of organizations (Dezember 2018)** 
+<br>
+[zum Newsletter](https://mailchi.mp/a26922a6eca1/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-688385)
+
+<br>
 **Plug-and-Play für Public Chains (November 2018)** 
 <br>
 [zum Newsletter](https://mailchi.mp/ba3dccb977dc/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-680417)
