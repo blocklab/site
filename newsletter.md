@@ -34,6 +34,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**Global Crypto Asset Benchmarking Study (Dezember 2018)** 
+<br>
+[zum Newsletter](https://mailchi.mp/33d60046b3b8/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-696269)
+
+<br>
 **The future of organizations (Dezember 2018)** 
 <br>
 [zum Newsletter](https://mailchi.mp/a26922a6eca1/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-688385)
