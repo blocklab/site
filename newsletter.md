@@ -34,6 +34,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**Blockchain Stuttgart Week, ethvere.in und 10 Jahre Bitcoin (Januar 2019)** 
+<br>
+[zum Newsletter](https://mailchi.mp/067bcf595913/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-707433)
+
+<br>
 **Global Crypto Asset Benchmarking Study (Dezember 2018)** 
 <br>
 [zum Newsletter](https://mailchi.mp/33d60046b3b8/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-696269)
