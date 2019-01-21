@@ -5,7 +5,7 @@ title: "Blockchain Stuttgart Week"
 image: Blockchain Stuttgart Week.jpg
 ---
 
-Vom 15. bis 22. Februar 2019 öffnet Stuttgart seine Pforten für alle Blockchain-Enthusiasten und -Interessierten aus dem In- und Ausland. An zehn spannenden Tagen werden Zukunftsszenarien für Blockchain-Anwendungen beleuchtet und aufzeigt, wie diese Technologie die Bereiche Geschäftsabwicklung, Identitätsmanagement, Bankenwesen, Regierungen und viele weitere verbessern kann...
+Vom 15. bis 21. Februar 2019 öffnet Stuttgart seine Pforten für alle Blockchain-Enthusiasten und -Interessierten aus dem In- und Ausland. An sieben spannenden Tagen werden Zukunftsszenarien für Blockchain-Anwendungen beleuchtet und aufzeigt, wie diese Technologie die Bereiche Geschäftsabwicklung, Identitätsmanagement, Bankenwesen, Regierungen und viele weitere verbessern kann...
 
 Die Blockchain Stuttgart Week ist eine Dachveranstaltung der Hauptakteure der Blockchain-Szene Südwest-Deutschlands. Mehrere Blockchain-Events haben sich zusammengeschlossen, um gemeinsam eine spannende Woche des Inputs und intensiven Austauschs zu schaffen, mit der Vision, Stuttgart und Baden-Württemberg als einen der weltweit führenden Standorte für Blockchain-Technologie zu etablieren.
 
