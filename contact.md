@@ -30,7 +30,7 @@ Friedrichstr. 13
 
 Vertreten durch die Vereinsvorstände:
 
-Jan Paul Buchwald, Jochen Kaßberger, Dr. Christian Beckel
+Jochen Kaßberger, Dennis Schlegel, Dr. Christian Beckel
 
 Kontakt
 
