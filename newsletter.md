@@ -34,6 +34,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**Blockchain's Occam problem (Januar 2019)** 
+<br>
+[zum Newsletter](https://mailchi.mp/911df93f3103/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-714261)
+
+<br>
 **Blockchain Stuttgart Week, ethvere.in und 10 Jahre Bitcoin (Januar 2019)** 
 <br>
 [zum Newsletter](https://mailchi.mp/067bcf595913/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-707433)
