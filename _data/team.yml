@@ -29,9 +29,10 @@
 - id: dennis
   name: Dennis Schlegel
   image: /assets/images/team/dennis.jpg
-  topics: IOT, TOKENIZATION, NEWSLETTER
-  description: Dennis ist in China aufgewachsen, studierte Wirtschaftssinologie und später International Business Development an der ESB Business School. Er ist Blockchain-Enthusiast, schickt euch regelmäßig den BlockLAB Newsletter und beschäftigt sich insbesondere mit der Tokenization von Geschäftsmodellen.
+  topics: TOKENIZATION, VENTURE, IOT, blockNEWS
+  description: Dennis ist in Deutschland und China aufgewachsen, erwarb seinen Schulabschluss an der Deutschen Botschaftsschule in Peking, studierte Wirtschaftssinologie und später International Business Development an der ESB Business School. Er ist Blockchain-Enthusiast, Mitgründer von blockLAB Stuttgart und begleitet die Aktivitäten in der Region aktiv mit. In seiner Haupttätigkeit als Produktmanager bei Bosch eBike Systems analysiert er Märkte und entwickelt innovative, vernetzte Produkte. Die Intersektion zwischen Blockchain-Technologie, digitalen Plattformen und der Tokenisierung von Geschäftsmodellen ist von besonderem Interesse.
   mail: dennis@blocklab.de
+  linkedin: dennis-schlegel-896732158
 
 #- id: arnd
 #  title: Dr.
