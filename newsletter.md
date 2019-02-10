@@ -34,6 +34,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**Financial privacy is a basic human right (Februar 2019)** 
+<br>
+[zum Newsletter](https://mailchi.mp/a2d8424cd673/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-721353)
+
+<br>
 **Blockchain's Occam problem (Januar 2019)** 
 <br>
 [zum Newsletter](https://mailchi.mp/911df93f3103/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-714261)
