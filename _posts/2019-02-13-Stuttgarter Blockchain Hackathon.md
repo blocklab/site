@@ -35,4 +35,5 @@ Wie auch im letzten Jahr lädt der Blockchain Hackathon am Sonntag, den 17.02., 
 Die Wirtschaftsinitiative bwcon organisiert den Blockchain-Hackathon gemeinsam mit blockLAB. Die Veranstaltung findet an der Hochschule für Technik in Stuttgart statt. Informationen zur Anmeldung und das aktuelle Programm finden Sie auf der Website des Blockchain Hackathons: [www.blockchain-hackathon.de](https://www.blockchain-hackathon.de/). Die Teilnahme ist kostenfrei.
 
 **Ansprechpartner für die Presse**
+
 bwcon GmbH / Frau Tomma Profke / profke@bwcon.de / Tel. 0711-18421-622
