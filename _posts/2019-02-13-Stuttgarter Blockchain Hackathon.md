@@ -1,6 +1,6 @@
 ---
 layout: post
-author: "Michael Munzd"
+author: "Michael Munz"
 title: "2. Stuttgarter Blockchain Hackathon - Converging the Crypto Universe in to Industrial IoT"
 image: "2. Stuttgarter Blockchain Hackathon.jpg"
 ---
@@ -32,7 +32,7 @@ Hier bieten spannende Konferenzen mit Experten aus ganz Deutschland, Meetups und
 
 Wie auch im letzten Jahr lädt der Blockchain Hackathon am Sonntag, den 17.02., um 12 Uhr alle Medien-Vertreter zum Presse-Lunch. Hier besteht die exklusive Möglichkeit, den Vertretern der namhaften Sponsoren des Hackathons sowie Blockchain-Experten Fragen zum Einsatz der Blockchain-Technologie in Industrie und Wirtschaft zu stellen.
 
-Die Wirtschaftsinitiative bwcon organisiert den Blockchain-Hackathon gemeinsam mit blockLAB. Die Veranstaltung findet an der Hochschule für Technik in Stuttgart statt. Informationen zur Anmeldung und das aktuelle Programm finden Sie auf der Website des Blockchain Hackathons: www.blockchain-hackathon.de. Die Teilnahme ist kostenfrei.
+Die Wirtschaftsinitiative bwcon organisiert den Blockchain-Hackathon gemeinsam mit blockLAB. Die Veranstaltung findet an der Hochschule für Technik in Stuttgart statt. Informationen zur Anmeldung und das aktuelle Programm finden Sie auf der Website des Blockchain Hackathons: [www.blockchain-hackathon.de](https://www.blockchain-hackathon.de/). Die Teilnahme ist kostenfrei.
 
 **Ansprechpartner für die Presse**
 bwcon GmbH / Frau Tomma Profke / profke@bwcon.de / Tel. 0711-18421-622
