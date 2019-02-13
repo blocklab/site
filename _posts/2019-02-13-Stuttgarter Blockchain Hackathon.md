@@ -1,7 +1,7 @@
 ---
 layout: post
 author: "Michael Munz"
-title: "2. Stuttgarter Blockchain Hackathon - Converging the Crypto Universe in to Industrial IoT"
+title: "2. Stuttgarter Blockchain Hackathon - Converging the Crypto Universe into Industrial IoT"
 image: "2. Stuttgarter Blockchain Hackathon.jpg"
 ---
 
