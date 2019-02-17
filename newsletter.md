@@ -34,6 +34,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**2. Blockchain Hackathon Stuttgart (Februar 2019)** 
+<br>
+[zum Newsletter](https://mailchi.mp/15725c62e76d/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-724181)
+
+<br>
 **Financial privacy is a basic human right (Februar 2019)** 
 <br>
 [zum Newsletter](https://mailchi.mp/a2d8424cd673/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-721353)
