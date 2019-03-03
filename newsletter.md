@@ -34,6 +34,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**JPM Coin (März 2019)** 
+<br>
+[zum Newsletter](https://mailchi.mp/7485d7780610/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-731661)
+
+<br>
 **2. Blockchain Hackathon Stuttgart (Februar 2019)** 
 <br>
 [zum Newsletter](https://mailchi.mp/15725c62e76d/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-724181)
