@@ -34,6 +34,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**The missing link to the God Protocol (März 2019)** 
+<br>
+[zum Newsletter](https://mailchi.mp/64b52ecd82a8/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-735285)
+
+<br>
 **JPM Coin (März 2019)** 
 <br>
 [zum Newsletter](https://mailchi.mp/7485d7780610/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-731661)
