@@ -34,6 +34,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**Wie wir das Netz bekommen, das wir wollen (März 2019)** 
+<br>
+[zum Newsletter](https://mailchi.mp/74b7c745e765/wie-wir-das-netz-bekommen-das-wir-wollen)
+
+<br>
 **The missing link to the God Protocol (März 2019)** 
 <br>
 [zum Newsletter](https://mailchi.mp/64b52ecd82a8/blockchain-in-der-kw16-private-key-und-wallet-sicherheit-735285)
