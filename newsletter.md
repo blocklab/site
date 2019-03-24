@@ -34,6 +34,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**Why some platforms thrive and others don't (März 2019)** 
+<br>
+[zum Newsletter](https://mailchi.mp/9b774ad03c00/why-some-platforms-thrive-and-others-dont)
+
+<br>
 **Wie wir das Netz bekommen, das wir wollen (März 2019)** 
 <br>
 [zum Newsletter](https://mailchi.mp/74b7c745e765/wie-wir-das-netz-bekommen-das-wir-wollen)
