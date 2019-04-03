@@ -19,6 +19,20 @@ Als Netzwerkorganisation unterhält blockLAB Stuttgart Kooperationen mit Organis
 <br>
 <br>
 
+Ziel der Finanzplatzinitiative ist es, als Impulsgeber Innovationen am Finanzplatz Stuttgart voranzutreiben und ihn so auf vielfältige Weise zu stärken sowie die Sichtbarkeit als bedeutenden Standort für Finanzdienstleistungen in Deutschland zu erhöhen. Die Förderung des Standorts zum Wohle der Bürger und der Wirtschaft in Baden-Württemberg ist dabei als fester Bestandteil des Vereinszwecks in der Satzung verankert.
+
+Stuttgart Financial veranstaltet u.a. die Finanzwoche 2019 unter dem Titel "Unlooking Blockchain".
+
+<br>
+<br>
+
+<a href="http://www.bwcon.de/" target="_blank">
+  <img src="/assets/images/kooperationen/bwcon_logo.png">
+</a>
+
+<br>
+<br>
+
 Baden-Württemberg: Connected e.V. / bwcon ist die führende Wirtschaftsinitiative zur Förderung des Innovations- und Hightech-Standortes Baden-Württemberg.
 
 <br>
