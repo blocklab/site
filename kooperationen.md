@@ -21,7 +21,7 @@ Als Netzwerkorganisation unterhält blockLAB Stuttgart Kooperationen mit Organis
 
 Ziel der Finanzplatzinitiative ist es, als Impulsgeber Innovationen am Finanzplatz Stuttgart voranzutreiben und ihn so auf vielfältige Weise zu stärken sowie die Sichtbarkeit als bedeutenden Standort für Finanzdienstleistungen in Deutschland zu erhöhen. Die Förderung des Standorts zum Wohle der Bürger und der Wirtschaft in Baden-Württemberg ist dabei als fester Bestandteil des Vereinszwecks in der Satzung verankert.
 
-Stuttgart Financial veranstaltet u.a. die Finanzwoche 2019 unter dem Titel "Unlooking Blockchain".
+Stuttgart Financial und blockLAB arbeiten bei der Kommunikation von Blockchain-Aktivitäten und bei der Planung von Blockchain-basierten Initiativen und Veranstaltungen in der Region Stuttgart zusammen. Stuttgart Financial veranstaltet u.a. die Finanzwoche 2019 unter dem Titel "Unlooking Blockchain".
 
 <br>
 <br>
