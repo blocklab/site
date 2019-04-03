@@ -12,8 +12,8 @@ Als Netzwerkorganisation unterhält blockLAB Stuttgart Kooperationen mit Organis
 <br>
 <br>
 
-<a href="http://www.bwcon.de/" target="_blank">
-  <img src="/assets/images/kooperationen/bwcon_logo.png">
+<a href="https://www.stuttgart-financial.de/" target="_blank">
+  <img src="/assets/images/kooperationen/logo_sf.svg">
 </a>
 
 <br>
