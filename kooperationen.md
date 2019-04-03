@@ -13,7 +13,7 @@ Als Netzwerkorganisation unterhält blockLAB Stuttgart Kooperationen mit Organis
 <br>
 
 <a href="https://www.stuttgart-financial.de/" target="_blank">
-  <img src="/assets/images/kooperationen/logo_sf.svg">
+  <img src="/assets/images/kooperationen/logo_sf.png">
 </a>
 
 <br>
