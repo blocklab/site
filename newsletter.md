@@ -34,6 +34,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**Rise of the Staking Economy (April 2019)** 
+<br>
+[zum Newsletter](https://mailchi.mp/8040437b5f2f/rise-of-the-staking-economy)
+
+<br>
 **Why some platforms thrive and others don't (März 2019)** 
 <br>
 [zum Newsletter](https://mailchi.mp/9b774ad03c00/why-some-platforms-thrive-and-others-dont)
