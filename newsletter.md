@@ -34,6 +34,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**Toward a Global Settlement Layer (April 2019)** 
+<br>
+[zum Newsletter](https://mailchi.mp/ca86605c20ac/toward-a-global-settlement-layer)
+
+<br>
 **Rise of the Staking Economy (April 2019)** 
 <br>
 [zum Newsletter](https://mailchi.mp/8040437b5f2f/rise-of-the-staking-economy)
