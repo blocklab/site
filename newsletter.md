@@ -34,6 +34,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**Blockchain Gaming - Spotlight on Enjin (April 2019)** 
+<br>
+[zum Newsletter](https://mailchi.mp/293d6e3f6df0/blockchain-gaming)
+
+<br>
 **Toward a Global Settlement Layer (April 2019)** 
 <br>
 [zum Newsletter](https://mailchi.mp/ca86605c20ac/toward-a-global-settlement-layer)
