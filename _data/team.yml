@@ -5,18 +5,6 @@
   description: Jochen studierte Architektur an der Universität Stuttgart und beschäftigt sich seit Mitte der 90er Jahre mit dem Internet. Nach einem Aufenthalt in der US-amerikanischen Dot.Com Industrie um die Jahrtausendwende arbeitete er über zehn Jahre als Management- und Organisationsberater in der Automobil-Industrie. Seine Begeisterung für die Weiterentwicklung des Internets und die Blockchain-Technologie führten dazu, blockLAB Stuttgart Anfang 2016 mit zu gründen. Er ist Teilhaber der 51nodes GmbH.
   mail: kassberger@blocklab.de
 
-- id: axel
-  name: Axel Hodler
-  image: /assets/images/team/axel.jpg
-  topics: PROGRAMMIERUNG, VENTURE
-  description: Axel setzt als Full-Stack Softwareentwickler Lösungen im Bereich Enterprise Mobility um. Als Blockchain-Technologie begeisterter Mitgründer von blockLAB übernimmt er diverse Aufgaben wie die Umsetzung von Prototypen basierend auf Ethereum oder als Referent für dezentralisierte Anwendungen in unserem Stuttgarter Meetup.
-  mail: axel@hodler.co
-  web: http://hodler.co
-  github: axelhodler
-  twitter: axelhodler
-  xing: Axel_Hodler
-  linkedin: axel-hodler-a92343a8
-  
 - id: jan-paul
   name: Jan-Paul Buchwald
   image: /assets/images/team/jan-paul.jpg
@@ -34,16 +22,6 @@
   mail: dennis@blocklab.de
   linkedin: dennis-schlegel-896732158
   twitter: DennisSchlege14
-  
-  
-
-#- id: arnd
-#  title: Dr.
-#  name: Arnd-Christian Kulow
-#  image: /assets/images/team/kulow.jpg
-#  topics: "Lawconcepts: Recht, Technik, Organisation"
-#  description: Arnd ist Rechtsanwalt, Mediator und Syndikusrechtsanwalt in einem mittelständischen Medienunternehmen, zert. und gepr. Java-Programmierer (SGD), zert. Datenschutzbeauftragter (DSB-TÜV SÜD), zert. Fachkraft u. Beauftragter für Qualitätsmanagement DIN EN ISO 9001:2015 (QMF/QMB-TÜV SÜD), gepr. Nachweis der besonderen theoretischen Kenntnisse für den Fachanwalt IT-Recht, gem. § 2 FAO (DAV 2006), stv. Mitglied des Prüfungsausschusses für den FA-IT Recht bei der RAK Stuttgart, Dozent für ERV bei Rechtsfachwirtsausbildung im Fortbildungsinstitut der RAK Stuttgart, Mitglied des ERV Ausschuss bei der BRAK, Lehrbeauftragter für das Recht der Neuen Medien an den Universitäten Bayreuth und Tübingen.
-#  web: http://www.kanzlei-kulow.de
   
 - id: christian
   title: Dr.
