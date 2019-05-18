@@ -34,6 +34,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**DLT restores trust in the Internet (Mai 2019)** 
+<br>
+[zum Newsletter](https://mailchi.mp/1e6a9105df63/dlt-restores-trust-in-the-internet)
+
+<br>
 **Blockchain Gaming - Spotlight on Enjin (April 2019)** 
 <br>
 [zum Newsletter](https://mailchi.mp/293d6e3f6df0/blockchain-gaming)
