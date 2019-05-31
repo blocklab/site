@@ -34,6 +34,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**Bitcoin - an Accounting Revolution (Mai 2019)** 
+<br>
+[zum Newsletter](https://mailchi.mp/f9e5302516c7/bitcoin-an-accounting-revolution)
+
+<br>
 **DLT restores trust in the Internet (Mai 2019)** 
 <br>
 [zum Newsletter](https://mailchi.mp/1e6a9105df63/dlt-restores-trust-in-the-internet)
