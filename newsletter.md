@@ -34,6 +34,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**Say Hello to Nightfall (Juni 2019)** 
+<br>
+[zum Newsletter](https://mailchi.mp/61bc20987417/say-hello-to-nightfall)
+
+<br>
 **Bitcoin - an Accounting Revolution (Mai 2019)** 
 <br>
 [zum Newsletter](https://mailchi.mp/f9e5302516c7/bitcoin-an-accounting-revolution)
