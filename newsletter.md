@@ -34,6 +34,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**Libra - Facebook's globale Kryptowährung (Juni 2019)** 
+<br>
+[zum Newsletter](https://mailchi.mp/c07b278119e5/libra-facebooks-globale-kryptowhrung)
+
+<br>
 **Say Hello to Nightfall (Juni 2019)** 
 <br>
 [zum Newsletter](https://mailchi.mp/61bc20987417/say-hello-to-nightfall)
