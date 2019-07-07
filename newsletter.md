@@ -34,6 +34,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**Tokens are the Email of our space (Juli 2019)** 
+<br>
+[zum Newsletter](https://mailchi.mp/7e348b80b101/tokens-are-the-email-of-our-space)
+
+<br>
 **Libra - Facebook's globale Kryptowährung (Juni 2019)** 
 <br>
 [zum Newsletter](https://mailchi.mp/c07b278119e5/libra-facebooks-globale-kryptowhrung)
