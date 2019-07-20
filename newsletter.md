@@ -34,6 +34,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**Daimler Mobility Blockchain Platform (Juli 2019)** 
+<br>
+[zum Newsletter](https://mailchi.mp/9968ec50bb34/daimler-mobility-blockchain-platform)
+
+<br>
 **Tokens are the Email of our space (Juli 2019)** 
 <br>
 [zum Newsletter](https://mailchi.mp/7e348b80b101/tokens-are-the-email-of-our-space)
