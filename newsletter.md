@@ -34,6 +34,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**Incomplete Contracts (and Scaling Crypto) (Juli 2019)** 
+<br>
+[zum Newsletter](https://mailchi.mp/3b118e50cc62/incomplete-contracts-and-scaling-crypto)
+
+<br>
 **Daimler Mobility Blockchain Platform (Juli 2019)** 
 <br>
 [zum Newsletter](https://mailchi.mp/9968ec50bb34/daimler-mobility-blockchain-platform)
