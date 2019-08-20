@@ -22,7 +22,7 @@ sass:
 author:
   name     : "blockLAB"
 
-gems:
+plugins:
   - bourbon
   - jekyll-paginate
 
