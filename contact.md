@@ -20,7 +20,7 @@ Friedrichstr. 13
 ### Impressum
 Angaben gemäß § 5 TMG:
 
-blockLAB Stuttgart n.e.V
+blockLAB Stuttgart e.V.
 
 c/o PURE CLUB
 
