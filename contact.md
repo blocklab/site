@@ -28,6 +28,8 @@ Friedrichstr. 13
 
 70174 Stuttgart
 
+Amtsgericht Stuttgart, Registergericht, VR 723996
+
 Vertreten durch die Vereinsvorstände:
 
 Jochen Kaßberger, Dennis Schlegel, Dr. Christian Beckel
