@@ -7,7 +7,7 @@ permalink: /privacy/
 <p><strong>Allgemeiner Hinweis und Pflichtinformationen</strong></p>
 <p><strong>Benennung der verantwortlichen Stelle</strong></p>
 <p>Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:</p>
-<p><span id="s3-t-firma">blockLAB e.V</span><br><span id="s3-t-ansprechpartner">Jochen Kaßberger</span><br><span id="s3-t-strasse">c/o PURE Club, Friedrichstr. 13</span><br><span id="s3-t-plz">70174</span> <span id="s3-t-ort">Stuttgart</span></p><p></p>
+<p><span id="s3-t-firma">blockLAB e.V.</span><br><span id="s3-t-ansprechpartner">Jochen Kaßberger</span><br><span id="s3-t-strasse">c/o PURE Club, Friedrichstr. 13</span><br><span id="s3-t-plz">70174</span> <span id="s3-t-ort">Stuttgart</span></p><p></p>
 <p>Die verantwortliche Stelle entscheidet allein oder gemeinsam mit anderen über die Zwecke und Mittel der Verarbeitung von personenbezogenen Daten (z.B. Namen, Kontaktdaten o. Ä.).</p>
 
 <p><strong>Widerruf Ihrer Einwilligung zur Datenverarbeitung</strong></p>
