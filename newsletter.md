@@ -34,6 +34,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**Kryptowährungen im geopolitischen Kontext (September 2019)** 
+<br>
+[zum Newsletter](https://mailchi.mp/d3367621e129/kryptowhrungen-im-geopolitischen-kontext)
+
+<br>
 **Datengesteuerte Smart Contracts (August 2019)** 
 <br>
 [zum Newsletter](https://mailchi.mp/98e764e136ff/datengesteuerte-smart-contracts)
