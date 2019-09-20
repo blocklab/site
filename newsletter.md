@@ -34,6 +34,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**Die Blockchain-Strategie der Bundesregierung (September 2019)** 
+<br>
+[zum Newsletter](https://mailchi.mp/ce1a4c89d4c5/blockchain-strategie-der-bundesregierung)
+
+<br>
 **Kryptowährungen im geopolitischen Kontext (September 2019)** 
 <br>
 [zum Newsletter](https://mailchi.mp/d3367621e129/kryptowhrungen-im-geopolitischen-kontext)
