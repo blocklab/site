@@ -34,6 +34,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**Börse Stuttgart Digital Exchange (Oktober 2019)** 
+<br>
+[zum Newsletter](https://mailchi.mp/2800cb6a19e2/stuttgart-brse-digital-exchange)
+
+<br>
 **Die Blockchain-Strategie der Bundesregierung (September 2019)** 
 <br>
 [zum Newsletter](https://mailchi.mp/ce1a4c89d4c5/blockchain-strategie-der-bundesregierung)
