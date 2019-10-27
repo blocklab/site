@@ -34,6 +34,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**Rechtliches Rahmenwerk für Blockchain und Smart Contracts in der EU (Oktober 2019)** 
+<br>
+[zum Newsletter](https://mailchi.mp/67a8b95cbf5a/rechtliches-rahmenwerk-fr-blockchain-und-smart-contracts)
+
+<br>
 **Börse Stuttgart Digital Exchange (Oktober 2019)** 
 <br>
 [zum Newsletter](https://mailchi.mp/2800cb6a19e2/stuttgart-brse-digital-exchange)
