@@ -34,6 +34,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**Bitcoin's Geldpolitik - Emission und Netzwerksicherheit (November 2019)** 
+<br>
+[zum Newsletter](https://mailchi.mp/79dd272a8d56/bitcoins-geldpolitik-emission-und-netzwerksicherheit)
+
+<br>
 **Rechtliches Rahmenwerk für Blockchain und Smart Contracts in der EU (Oktober 2019)** 
 <br>
 [zum Newsletter](https://mailchi.mp/67a8b95cbf5a/rechtliches-rahmenwerk-fr-blockchain-und-smart-contracts)
