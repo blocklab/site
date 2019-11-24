@@ -34,6 +34,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**Konsolidierung der Daten-Monopole (November 2019)** 
+<br>
+[zum Newsletter](https://mailchi.mp/046e6ad8cc9e/konsolidierung-der-daten-monopole)
+
+<br>
 **Bitcoin's Geldpolitik - Emission und Netzwerksicherheit (November 2019)** 
 <br>
 [zum Newsletter](https://mailchi.mp/79dd272a8d56/bitcoins-geldpolitik-emission-und-netzwerksicherheit)
