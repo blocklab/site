@@ -34,6 +34,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**Decentralized Finance - ein Protokoll-basiertes Finanzsystem (Dezember 2019)** 
+<br>
+[zum Newsletter](https://mailchi.mp/49030192b9c8/decentralized-finance-ein-protokoll-basiertes-finanzsystem)
+
+<br>
 **Konsolidierung der Daten-Monopole (November 2019)** 
 <br>
 [zum Newsletter](https://mailchi.mp/046e6ad8cc9e/konsolidierung-der-daten-monopole)
