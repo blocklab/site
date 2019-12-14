@@ -9,8 +9,8 @@
   name: Jan-Paul Buchwald
   image: /assets/images/team/jan-paul.jpg
   topics: IT-ARCHITEKTUR, PROGRAMMIERUNG, FINTECH, IOT
-  description: Jan-Paul ist studierter Diplom-Informatiker und seit vielen Jahren im Bereich Java (EE) und Webanwendungen vornehmlich im Enterprise-Umfeld aktiv, seit 2014 als selbstständiger IT-Berater und Software-Ingenieur. Als Mitgründer der Online-Plattform WunderNova hat er seit einiger Zeit auch Zugang zur Szene innovativer Startups, ist in diesem Zusammenhang auf das Potential des Themas Blockchain aufmerksam geworden und hat sich Mitte 2016 blockLAB Stuttgart angeschlossen.
-  web: http://www.yopiter.com
+  description: Jan-Paul ist studierter Diplom-Informatiker und seit vielen Jahren als Software-Architekt und Full Stack Developer aktiv. Nach zahlreichen internationalen Enterprise-Software-Projekten vornehmlich im Umfeld Java und Web ist er Mitte 2016 über Ethereum und die Möglichkeit von Smart Contracts/DApps auf das Potential des Themas Blockchain aufmerksam geworden und hat sich bald darauf blockLAB Stuttgart angeschlossen. Mittlerweile ist Jan-Paul als Mitgründer und technischer Geschäftsführer der Firma 51nodes GmbH hauptsächlich im Bereich Blockchain-Technologieberatung und -Implementierung tätig.
+  web: https://www.51nodes.io
   xing: JanPaul_Buchwald
   linkedin: jan-paul-buchwald-23542423
 
@@ -22,7 +22,7 @@
   mail: dennis@blocklab.de
   linkedin: dennis-schlegel-896732158
   twitter: DennisSchlege14
-  
+
 - id: christian
   title: Dr.
   name: Christian Wiedmann
@@ -32,7 +32,7 @@
   mail: christian@blocklab.de
   github: beckel
   linkedin: christian-beckel
-  
+
 - id: rob
   name: Robert Tuchel
   image: /assets/images/team/Robert Tuchel.jpg
@@ -55,7 +55,7 @@
   xing: Daniel_Burkhardt10
   linkedin: daniel-burkhardt-368863123
   mail: Daniel.Burkhardt@stw.de
-  
+
 - id: karsten
   name: Karsten Treiber
   topics: GESCHÄFTSMODELLE, STRATEGIE, IT-ARCHITEKTUR, TOKENIZATION, blockFUNK
@@ -73,7 +73,7 @@
   xing: Michael_Munz12
   linkedin: michael-munz
   mail: kontakt@michaelmunz.online
-  
+
 - id: kristian
   name: Kristian Borkert
   topics: RECHT, SMART CONTRACTS, DATENSCHUTZ, TOKENISATION, GESCHÄTSMODELLE
@@ -93,7 +93,7 @@
   xing: Felix_Foerster9
   linkedin: felix-förster-a91696151
   mail: felix.foerster1@googlemail.com
-  
+
 - id: oliver
   name: Oliver Rebner
   topics: MARKETING, EVENTS, STRATEGIE
@@ -111,14 +111,14 @@
   xing: Dimitrios_Chatzianagnostou
   linkedin: dimitrios-chatzianagnostou-805a84101
   mail: dimitrios@chatzianagnostou.de
-  
+
 - id: Daniel
   name: Daniel Palmer
   topics: CONTROLLING, FINANCE, ACCOUNTING
   image: /assets/images/team/Daniel_Palmer.jpg
   description: Daniel arbeitet bei einer Unternehmensberatung im Bereich Controlling & Finanzen. Von Haus aus Betriebswirt, beschäftigt er sich neben den Themen rund um die Unternehmenssteuerung mit neuen und disruptiven Technologien. Dabei steht insbesondere die Frage nach den Auswirkungen der Blockchain-Technologie auf die Controlling- & Finanzprozesse im Vordergrund.
   mail: DPalmer@horvath-partners.com
-  
+
 - id: Ricky
   name: Ricky Lamberty
   topics: DIGITALE GESCHÄFTSMODELLE, STARTUPS, IOT, TOKENIZATION
