@@ -34,6 +34,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**Blockchain Thesen für 2020 (Dezember 2019)** 
+<br>
+[zum Newsletter](https://mailchi.mp/53d3f329f2be/blockchain-thesen-fr-2020)
+
+<br>
 **Decentralized Finance - ein Protokoll-basiertes Finanzsystem (Dezember 2019)** 
 <br>
 [zum Newsletter](https://mailchi.mp/49030192b9c8/decentralized-finance-ein-protokoll-basiertes-finanzsystem)
