@@ -1,3 +1,4 @@
+---
 layout: post
 author: "Jochen Kaßberger"
 title: "3. Stuttgarter BlockchainHackathon"
