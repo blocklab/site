@@ -34,6 +34,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**FLash Loans - ein neuer Finanz-Mechanismus (März 2020)** 
+<br>
+[zum Newsletter](https://mailchi.mp/d66da8a397d3/flash-loans-ein-neuer-finanz-mechanismus)
+
+<br>
 **Blockchain Thesen für 2020 (Dezember 2019)** 
 <br>
 [zum Newsletter](https://mailchi.mp/53d3f329f2be/blockchain-thesen-fr-2020)
