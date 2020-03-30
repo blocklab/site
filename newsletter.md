@@ -34,6 +34,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**Das Kryptoverwahrgeschäft (März 2020)** 
+<br>
+[zum Newsletter](https://mailchi.mp/893439b3444b/das-kryptoverwahrgeschft?e=d620094956)
+
+<br>
 **FLash Loans - ein neuer Finanz-Mechanismus (März 2020)** 
 <br>
 [zum Newsletter](https://mailchi.mp/d66da8a397d3/flash-loans-ein-neuer-finanz-mechanismus)
