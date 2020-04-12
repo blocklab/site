@@ -34,6 +34,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**Tokenisierte US-Dollar - Dollar 2.0 (April 2020)** 
+<br>
+[zum Newsletter](https://mailchi.mp/893439b3444b/das-kryptoverwahrgeschft?e=d620094956)
+
+<br>
 **Das Kryptoverwahrgeschäft (März 2020)** 
 <br>
 [zum Newsletter](https://mailchi.mp/893439b3444b/das-kryptoverwahrgeschft?e=d620094956)
