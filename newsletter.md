@@ -34,6 +34,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**Chinas Ambition der digitalen Vorherrschaft (Mai 2020)** 
+<br>
+[zum Newsletter](https://mailchi.mp/50d5201b1e7f/chinas-ambition-der-digitalen-vorherrschaft)
+
+<br>
 **Tokenisierte US-Dollar - Dollar 2.0 (April 2020)** 
 <br>
 [zum Newsletter](https://mailchi.mp/893439b3444b/das-kryptoverwahrgeschft?e=d620094956)
