@@ -34,6 +34,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**Bitcoin - Quantitative Härtung anstatt Quantitativer Lockerung (Mai 2020)** 
+<br>
+[zum Newsletter](https://mailchi.mp/0bd662fcfecd/bitcoin-quantitative-hrtung-anstatt-quantitativer-lockerung)
+
+<br>
 **Chinas Ambition der digitalen Vorherrschaft (Mai 2020)** 
 <br>
 [zum Newsletter](https://mailchi.mp/50d5201b1e7f/chinas-ambition-der-digitalen-vorherrschaft)
