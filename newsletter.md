@@ -34,6 +34,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**Blockchain Code als Kartellrecht (Juni 2020)** 
+<br>
+[zum Newsletter](https://mailchi.mp/581fb9ae2e01/blockchain-code-als-kartellrecht)
+
+<br>
 **Bitcoin - Quantitative Härtung anstatt Quantitativer Lockerung (Mai 2020)** 
 <br>
 [zum Newsletter](https://mailchi.mp/0bd662fcfecd/bitcoin-quantitative-hrtung-anstatt-quantitativer-lockerung)
