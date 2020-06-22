@@ -34,6 +34,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**Ein programmierbarer Euro für Europa (Juni 2020)** 
+<br>
+[zum Newsletter](https://mailchi.mp/8c47a6561e97/ein-programmierbarer-euro-fr-europa)
+
+<br>
 **Blockchain Code als Kartellrecht (Juni 2020)** 
 <br>
 [zum Newsletter](https://mailchi.mp/581fb9ae2e01/blockchain-code-als-kartellrecht)
