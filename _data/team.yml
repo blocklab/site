@@ -67,7 +67,7 @@
 
 - id: michael
   name: Michael Munz
-  topics: DIGITALE INNOVATIONEN, BLOCKCHIAN IM GESUNDHEITSWESEN, STARTUPS & NETZWERKE
+  topics: DIGITALE INNOVATIONEN, BLOCKCHAIN IM GESUNDHEITSWESEN, STARTUPS & NETZWERKE
   image: /assets/images/team/michaelmunz.jpg
   description: Michael ist Development Manager Digital Business and Solutions bei der PAUL HARTMANN AG und war zuvor als Digital Innovation Manager bei der 51nodes GmbH tätig. Seit 2016 beschäftigt er sich mit der technologischen Beratung und Implementierung von Blockchain-basierten Lösungskomponenten für unterschiedliche Branchen. Insbesondere die Entwicklung neuer Geschäftsmodelle, Tokenisierung, Blockchain im Gesundheitswesen sowie Kooperationen mit Startups sind seine Interessengebiete.
   xing: Michael_Munz12
@@ -127,3 +127,11 @@
   mail: ricky.lamberty@gmx.de
   xing: Ricky_Lamberty/cv
   linkedin: ricky-lamberty-1016b786
+
+- id: Julian
+  name: Julian Voelkel
+  topics: PROGRAMMIERUNG, DEZENTRALE DIGITALE IDENTITÄT, IOT
+  image: /assets/images/team/julian_voelkel.jpg
+  description: Julian ist Student der Wirtschaftsinformatik an der Hochschule für Technik Stuttgart. Zur Zeit arbeitet er an seiner Abschlussarbeit zum Thema Dezentrale Identitäten. Sein Interesse für Distributed Ledger Technologien entstand im Laufe des Studiums. Besonders interessiert ist er an den disruptiven Eigenschaften der DLT und den dadurch entstehenden Veränderungen. 
+  mail: julianvoelkel@outlook.com
+  linkedin: julian-voelkel-957a251a3
