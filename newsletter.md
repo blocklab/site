@@ -34,6 +34,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**Pre-Hackathon Dezentrale Plattform-Ökonomie (Juli 2020)** 
+<br>
+[zum Newsletter](https://mailchi.mp/c755d0c5f76f/pre-hackathon-dezentrale-plattformkonomie)
+
+<br>
 **Ein programmierbarer Euro für Europa (Juni 2020)** 
 <br>
 [zum Newsletter](https://mailchi.mp/8c47a6561e97/ein-programmierbarer-euro-fr-europa)
