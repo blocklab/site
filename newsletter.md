@@ -34,6 +34,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**T-Systems steigt ins Blockchain-Infrastruktur Geschäft ein (Juli 2020)** 
+<br>
+[zum Newsletter](https://mailchi.mp/a06b450b26fc/t-systems-steigt-ins-blockchain-infrastruktur-geschaeft-ein)
+
+<br>
 **Pre-Hackathon Dezentrale Plattform-Ökonomie (Juli 2020)** 
 <br>
 [zum Newsletter](https://mailchi.mp/c755d0c5f76f/pre-hackathon-dezentrale-plattformkonomie)
