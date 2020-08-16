@@ -34,6 +34,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**Modernisierung der Wertpapiergesetzgebung (August 2020)** 
+<br>
+[zum Newsletter](https://mailchi.mp/256d32136ecb/modernisierung-der-wertpapiergesetzgebung)
+
+<br>
 **T-Systems steigt ins Blockchain-Infrastruktur Geschäft ein (Juli 2020)** 
 <br>
 [zum Newsletter](https://mailchi.mp/a06b450b26fc/t-systems-steigt-ins-blockchain-infrastruktur-geschaeft-ein)
