@@ -34,6 +34,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**Finanzierung industrieller Investitionsgüter (August 2020)** 
+<br>
+[zum Newsletter](https://mailchi.mp/4af0f7cdc405/finanzierung-industrieller-investitionsgter)
+
+<br>
 **Modernisierung der Wertpapiergesetzgebung (August 2020)** 
 <br>
 [zum Newsletter](https://mailchi.mp/256d32136ecb/modernisierung-der-wertpapiergesetzgebung)
