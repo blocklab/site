@@ -34,6 +34,11 @@ Nachrichten zu Blockchain-Technologie und Aktivitäten in deren Ökosystem
 
 <br>
 <br>
+**Stellungnahme blockLAB Stuttgart zum Referentenentwurf des "Gesetzes zur Einführung von elektronischen Wertpapieren" (September 2020)** 
+<br>
+[zum Newsletter](https://mailchi.mp/6aeb5ea6b99e/stellungnahme-blocklab-stuttgart-zum-referentenentwurf-des-gesetzes-zur-einfhrung-von-elektronischen-wertpapieren)
+
+<br>
 **Finanzierung industrieller Investitionsgüter (August 2020)** 
 <br>
 [zum Newsletter](https://mailchi.mp/4af0f7cdc405/finanzierung-industrieller-investitionsgter)
