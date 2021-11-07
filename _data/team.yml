@@ -135,3 +135,20 @@
   description: Julian ist Student der Wirtschaftsinformatik an der Hochschule für Technik Stuttgart. Zur Zeit arbeitet er an seiner Abschlussarbeit zum Thema Dezentrale Identitäten. Sein Interesse für Distributed Ledger Technologien entstand im Laufe des Studiums. Besonders interessiert ist er an den disruptiven Eigenschaften der DLT und den dadurch entstehenden Veränderungen. 
   mail: julianvoelkel@outlook.com
   linkedin: julian-voelkel-957a251a3
+
+- id: MaxBe
+  name: Max Beyer
+  topics: SPORT BUSINESS, TOKENIZATION, NFTs, DIGITALE INNOVATIONEN, STARTUPS
+  image: /assets/images/team/max_beyer.jpg
+  description: Als Master Student im Sportmanagement beschäftigt sich Max nicht nur mit der Digitalisierung in der Sportbranche, sondern untersucht auch intensiv die theoretische und praktische Verbindung mit der Blockchain-Technologie. Er bezeichnet die Kombination als innovativen Motor, der die Welt des Sports entscheidend gestalten wird. Neben seinem Studium unterstützt er blockLAB in den Themen Kommunikation, Marketing, Sponsoring und Event-Management. Zusätzlich berät er Sportorganisationen über das Potenzial der Blockchain-Technologie.
+  mail: beyer@blocklab.de
+  linkedin: maxbeyer
+
+- id: ChristianSch
+  name: Christian Schöller
+  topics: INNOVATIVE GESCHÄFTSMODELLE, STARTUPS, DEFI
+  image: /assets/images/team/christian_schoeller.jpg
+  description: Christian beschäftigt sich seit 2017 mit der Thematik Blockchain und Kryptowährungen und ist seit 2018 Mitglied bei BlockLab. Als Student der Wirtschaftsinformatik an der Hochschule der Medien interessiert ihn vor allem die Entwicklung innovativer Geschäftsmodelle, sowie das breite Anwendungsspektrum in einer zukünftigen digitalen Ökonomie.
+  mail: c.schoeller@live.de
+  linkedin: christian-schöller-14546717b
+
